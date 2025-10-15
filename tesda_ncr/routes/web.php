@@ -1,19 +1,18 @@
 <?php
 
+use App\Http\Controllers\AuthController;
+use App\Http\Controllers\HomeController;
 use Illuminate\Support\Facades\Route;
 
 Route::get('/laravel', function () {
     return view('welcome');
 });
 
-Route::get('/login', function () {
-    return view('auth.login');
-})->name('login');
+Route::middleware('guest')->controller(AuthController::class)->group(function () {
+    Route::get('/login', 'login_view')->name('login');
+    Route::get('/register', 'register_view')->name('register');
+});
 
-Route::get('/register', function () {
-    return view('auth.register');
-})->name('register');
-
-Route::get('/', function () {
-    return view('index');
+Route::controller(HomeController::class)->group(function () {
+    Route::get('/', 'index')->name('home');
 });
