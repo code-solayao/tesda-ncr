@@ -1,7 +1,9 @@
 <?php
 
 use App\Http\Controllers\AuthController;
+use App\Http\Controllers\ContactsController;
 use App\Http\Controllers\HomeController;
+use App\Http\Controllers\TransparencyController;
 use Illuminate\Support\Facades\Route;
 
 Route::get('/laravel', function () {
@@ -15,4 +17,12 @@ Route::middleware('guest')->controller(AuthController::class)->group(function ()
 
 Route::controller(HomeController::class)->group(function () {
     Route::get('/', 'index')->name('home');
+});
+
+Route::controller(TransparencyController::class)->group(function () {
+    Route::get('/transparency-seal', 'transparency_seal')->name('transparency.seal');
+});
+
+Route::controller(ContactsController::class)->group(function () {
+    Route::get('/regional-district-offices', 'regional_district_offices')->name('regional-district.offices');
 });

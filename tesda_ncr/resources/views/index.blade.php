@@ -1,11 +1,11 @@
-@section('title', 'TESDA-NCR - Home')
+@section('title', 'Home | TESDA-NCR')
 
 @section('vite')
     @vite(['resources/css/app.css', 'resources/js/app.js'])
 @endsection
 
 <x-layout>
-    <div class="bg-cover bg-center bg-no-repeat min-h-screen" style="background-image: url('{{ asset('images/home_bg-1.jpg') }}')">
+    <div class="bg-cover bg-center bg-no-repeat min-h-screen" style="background-image: url('{{ asset('images/bg-home.jpg') }}')">
         <div class="absolute inset-0 bg-black/60 backdrop-blur-xs"></div>
         <div class="relative pl-24 pr-16 pt-28 z-10">
             <div class="flex items-center justify-center space-x-5">
