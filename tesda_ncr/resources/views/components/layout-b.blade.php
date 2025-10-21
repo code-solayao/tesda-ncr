@@ -18,91 +18,92 @@
     <script src="https://cdn.jsdelivr.net/npm/alpinejs@3.x.x/dist/cdn.min.js" defer></script>
 </head>
 <body>
-    <header class="fixed left-0 top-0 shadow-md transition-colors duration-300 w-full z-50" 
-            x-data="{ scrolled: false }" 
-            x-init="window.addEventListener('scroll', () => { scrolled = window.scrollY > 50 })"
-            :class="scrolled ? 'bg-blue-500 shadow-md' : 'bg-transparent'">
+    <header class="bg-blue-500 fixed left-0 top-0 shadow-md transition-colors duration-300 w-full z-50">
         <nav class="container hidden mx-auto p-4 items-center justify-center lg:flex">
             <div class="flex items-center justify-center space-x-1 transition-colors duration-300">
-                <a href="{{ route('home') }}" class="text-white font-medium px-2 py-1 uppercase focus:outline-none" 
-                :class="scrolled ? 'hover:text-amber-300' : 'hover:text-blue-300'">
+                <a href="{{ route('home') }}" class="text-white font-medium px-2 py-1 uppercase focus:outline-none hover:text-amber-300">
                     Home
                 </a>
                 <div class="relative group">
-                    <button class="text-white font-medium px-2 py-1 uppercase focus:outline-none" 
-                    :class="scrolled ? 'hover:text-amber-300' : 'hover:text-blue-300'">
+                    <button class="text-white font-medium px-2 py-1 uppercase focus:outline-none hover:text-amber-300">
+                        About
+                    </button>
+                    <div class="absolute bg-white border invisible opacity-0 rounded shadow-lg transition-all duration-200 w-60 z-50 group-hover:opacity-100 group-hover:visible">
+                        <a href="{{ route('transparency.seal') }}" class="text-gray-700 block px-4 py-2 hover:bg-gray-100 hover:font-bold hover:rounded">History</a>
+                        <a href="#" class="text-gray-700 block px-4 py-2 hover:bg-gray-100 hover:font-bold">Mission, Vision, Value Statement and Quality Policy</a>
+                        <a href="#" class="text-gray-700 block px-4 py-2 hover:bg-gray-100 hover:font-bold hover:rounded">Organization Chart</a>
+                    </div>
+                </div>
+                <div class="relative group">
+                    <button class="text-white font-medium px-2 py-1 uppercase focus:outline-none hover:text-amber-300">
                         Transparency
                     </button>
                     <div class="absolute bg-white border invisible opacity-0 rounded shadow-lg transition-all duration-200 w-60 z-50 group-hover:opacity-100 group-hover:visible">
-                        <a href="{{ route('transparency.seal') }}" class="text-gray-700 block px-4 py-2 hover:bg-gray-100 hover:rounded">Transparency Seal</a>
-                        <a href="#" class="text-gray-700 block px-4 py-2 hover:bg-gray-100">PhilGEPS Posting</a>
-                        <a href="#" class="text-gray-700 block px-4 py-2 hover:bg-gray-100 hover:rounded">Anti-Red Tape Act</a>
+                        <a href="{{ route('transparency.seal') }}" class="text-gray-700 block px-4 py-2 hover:bg-gray-100 hover:font-bold hover:rounded">Transparency Seal</a>
+                        <a href="#" class="text-gray-700 block px-4 py-2 hover:bg-gray-100 hover:font-bold">Citizen's Charter</a>
+                        <a href="#" class="text-gray-700 block px-4 py-2 hover:bg-gray-100 hover:font-bold">PhilGEPS Posting</a>
+                        <a href="#" class="text-gray-700 block px-4 py-2 hover:bg-gray-100 hover:font-bold hover:rounded">Committee on Anti-Red Tape Act (CART)</a>
                     </div>
                 </div>
                 <div class="relative group">
-                    <button class="text-white font-medium px-2 py-1 uppercase focus:outline-none" 
-                    :class="scrolled ? 'hover:text-amber-300' : 'hover:text-blue-300'">
+                    <button class="text-white font-medium px-2 py-1 uppercase focus:outline-none hover:text-amber-300">
                         Programs and Services
                     </button>
                     <div class="absolute bg-white border invisible opacity-0 rounded shadow-lg transition-all duration-200 w-60 z-50 group-hover:opacity-100 group-hover:visible">
-                        <a href="#" class="text-gray-700 block px-4 py-2 hover:bg-gray-100 hover:rounded">TVET Programs</a>
-                        <a href="#" class="text-gray-700 block px-4 py-2 hover:bg-gray-100">Competency Standards Development</a>
-                        <a href="#" class="text-gray-700 block px-4 py-2 hover:bg-gray-100">Competency Assessment and Certification</a>
-                        <a href="#" class="text-gray-700 block px-4 py-2 hover:bg-gray-100">Program Registration and Accreditation</a>
-                        <a href="#" class="text-gray-700 block px-4 py-2 hover:bg-gray-100">National TESD Plan</a>
-                        <a href="#" class="text-gray-700 block px-4 py-2 hover:bg-gray-100">Training Regulations</a>
-                        <a href="#" class="text-gray-700 block px-4 py-2 hover:bg-gray-100 hover:rounded">Competency Standards</a>
+                        <a href="#" class="text-gray-700 block px-4 py-2 hover:bg-gray-100 hover:font-bold hover:rounded">TVET Programs</a>
+                        <a href="#" class="text-gray-700 block px-4 py-2 hover:bg-gray-100 hover:font-bold">Competency Standards Development</a>
+                        <a href="#" class="text-gray-700 block px-4 py-2 hover:bg-gray-100 hover:font-bold">Competency Assessment and Certification</a>
+                        <a href="#" class="text-gray-700 block px-4 py-2 hover:bg-gray-100 hover:font-bold">Program Registration and Accreditation</a>
+                        <a href="#" class="text-gray-700 block px-4 py-2 hover:bg-gray-100 hover:font-bold">National TESD Plan</a>
+                        <a href="#" class="text-gray-700 block px-4 py-2 hover:bg-gray-100 hover:font-bold">Training Regulations</a>
+                        <a href="#" class="text-gray-700 block px-4 py-2 hover:bg-gray-100 hover:font-bold hover:rounded">Competency Standards</a>
                     </div>
                 </div>
                 <div class="relative group">
-                    <button class="text-white font-medium px-2 py-1 uppercase focus:outline-none" 
-                    :class="scrolled ? 'hover:text-amber-300' : 'hover:text-blue-300'">
+                    <button class="text-white font-medium px-2 py-1 uppercase focus:outline-none hover:text-amber-300">
                         Verifications
                     </button>
                     <div class="absolute bg-white border invisible opacity-0 rounded shadow-lg transition-all duration-200 w-60 z-50 group-hover:opacity-100 group-hover:visible">
-                        <a href="#" class="text-gray-700 block px-4 py-2 hover:bg-gray-100 hover:rounded">Registry of Certified Workers</a>
-                        <a href="#" class="text-gray-700 block px-4 py-2 hover:bg-gray-100">Assessment Centers</a>
-                        <a href="#" class="text-gray-700 block px-4 py-2 hover:bg-gray-100">TVI with Registered Programs</a>
-                        <a href="#" class="text-gray-700 block px-4 py-2 hover:bg-gray-100">Institutions Issued with Cease and Desist Order</a>
-                        <a href="#" class="text-gray-700 block px-4 py-2 hover:bg-gray-100">Registry of Accredited Assessors</a>
-                        <a href="#" class="text-gray-700 block px-4 py-2 hover:bg-gray-100">Registry of Trainers with NTTC</a>
-                        <a href="#" class="text-gray-700 block px-4 py-2 hover:bg-gray-100">Regional Expert Panel</a>
-                        <a href="#" class="text-gray-700 block px-4 py-2 hover:bg-gray-100">Regional Lead Assessor for Various Qualification</a>
-                        <a href="#" class="text-gray-700 block px-4 py-2 hover:bg-gray-100 hover:rounded">RWAC for Regional Lead Assessor</a>
+                        <a href="#" class="text-gray-700 block px-4 py-2 hover:bg-gray-100 hover:font-bold hover:rounded">Assessment Centers</a>
+                        <a href="#" class="text-gray-700 block px-4 py-2 hover:bg-gray-100 hover:font-bold">TVI with Registered Programs</a>
+                        <a href="#" class="text-gray-700 block px-4 py-2 hover:bg-gray-100 hover:font-bold">Institutions Issued with Cease and Desist Order</a>
+                        <a href="#" class="text-gray-700 block px-4 py-2 hover:bg-gray-100 hover:font-bold">Registry of Accredited Assessors</a>
+                        <a href="#" class="text-gray-700 block px-4 py-2 hover:bg-gray-100 hover:font-bold">Registry of Trainers with NTTC</a>
+                        <a href="#" class="text-gray-700 block px-4 py-2 hover:bg-gray-100 hover:font-bold">Regional Expert Panel</a>
+                        <a href="#" class="text-gray-700 block px-4 py-2 hover:bg-gray-100 hover:font-bold">Regional Lead Assessor for Various Qualification</a>
+                        <a href="#" class="text-gray-700 block px-4 py-2 hover:bg-gray-100 hover:font-bold hover:rounded">RWAC for Regional Lead Assessor</a>
                     </div>
                 </div>
                 <div class="relative group">
-                    <button class="text-white font-medium px-2 py-1 uppercase focus:outline-none" 
-                    :class="scrolled ? 'hover:text-amber-300' : 'hover:text-blue-300'">
+                    <button class="text-white font-medium px-2 py-1 uppercase focus:outline-none hover:text-amber-300">
                         Resources
                     </button>
                     <div class="absolute bg-white border invisible opacity-0 rounded shadow-lg transition-all duration-200 w-60 z-50 group-hover:opacity-100 group-hover:visible">
-                        <a href="#" class="text-gray-700 block px-4 py-2 hover:bg-gray-100 hover:rounded">TESDA Circulars</a>
-                        <a href="#" class="text-gray-700 block px-4 py-2 hover:bg-gray-100">TESDA Board Resolution</a>
-                        <a href="#" class="text-gray-700 block px-4 py-2 hover:bg-gray-100">Downloadable Files</a>
-                        <a href="#" class="text-gray-700 block px-4 py-2 hover:bg-gray-100">Media</a>
-                        <a href="#" class="text-gray-700 block px-4 py-2 hover:bg-gray-100">TESDA Newsletter</a>
-                        <a href="#" class="text-gray-700 block px-4 py-2 hover:bg-gray-100">LMIR</a>
-                        <a href="#" class="text-gray-700 block px-4 py-2 hover:bg-gray-100">Planning Guidelines</a>
-                        <a href="#" class="text-gray-700 block px-4 py-2 hover:bg-gray-100">Philippine TVET Statistics</a>
-                        <a href="#" class="text-gray-700 block px-4 py-2 hover:bg-gray-100">TESDA Annual Report</a>
-                        <a href="#" class="text-gray-700 block px-4 py-2 hover:bg-gray-100">TVET Brief</a>
-                        <a href="#" class="text-gray-700 block px-4 py-2 hover:bg-gray-100">TVET Glossary of Terms</a>
-                        <a href="#" class="text-gray-700 block px-4 py-2 hover:bg-gray-100">TVET-Related Policies and Legislations</a>
-                        <a href="#" class="text-gray-700 block px-4 py-2 hover:bg-gray-100">TVET Researchers and Studies</a>
-                        <a href="#" class="text-gray-700 block px-4 py-2 hover:bg-gray-100">Skills Need Anticipation</a>
-                        <a href="#" class="text-gray-700 block px-4 py-2 hover:bg-gray-100">TVET Skills Insights Report</a>
-                        <a href="#" class="text-gray-700 block px-4 py-2 hover:bg-gray-100 hover:rounded">ATVERC TVET Materials</a>
+                        <a href="#" class="text-gray-700 block px-4 py-2 hover:bg-gray-100 hover:font-bold hover:rounded">TESDA Circulars</a>
+                        <a href="#" class="text-gray-700 block px-4 py-2 hover:bg-gray-100 hover:font-bold">TESDA Board Resolution</a>
+                        <a href="#" class="text-gray-700 block px-4 py-2 hover:bg-gray-100 hover:font-bold">Downloadable Files</a>
+                        <a href="#" class="text-gray-700 block px-4 py-2 hover:bg-gray-100 hover:font-bold">Media</a>
+                        <a href="#" class="text-gray-700 block px-4 py-2 hover:bg-gray-100 hover:font-bold">TESDA Newsletter</a>
+                        <a href="#" class="text-gray-700 block px-4 py-2 hover:bg-gray-100 hover:font-bold">LMIR</a>
+                        <a href="#" class="text-gray-700 block px-4 py-2 hover:bg-gray-100 hover:font-bold">Planning Guidelines</a>
+                        <a href="#" class="text-gray-700 block px-4 py-2 hover:bg-gray-100 hover:font-bold">Philippine TVET Statistics</a>
+                        <a href="#" class="text-gray-700 block px-4 py-2 hover:bg-gray-100 hover:font-bold">TESDA Annual Report</a>
+                        <a href="#" class="text-gray-700 block px-4 py-2 hover:bg-gray-100 hover:font-bold">TVET Brief</a>
+                        <a href="#" class="text-gray-700 block px-4 py-2 hover:bg-gray-100 hover:font-bold">TVET Glossary of Terms</a>
+                        <a href="#" class="text-gray-700 block px-4 py-2 hover:bg-gray-100 hover:font-bold">TVET-Related Policies and Legislations</a>
+                        <a href="#" class="text-gray-700 block px-4 py-2 hover:bg-gray-100 hover:font-bold">TVET Researchers and Studies</a>
+                        <a href="#" class="text-gray-700 block px-4 py-2 hover:bg-gray-100 hover:font-bold">Skills Need Anticipation: Workplace Skills and Satisfactory Journey</a>
+                        <a href="#" class="text-gray-700 block px-4 py-2 hover:bg-gray-100 hover:font-bold">TVET Skills Insights Report</a>
+                        <a href="#" class="text-gray-700 block px-4 py-2 hover:bg-gray-100 hover:font-bold hover:rounded">ATVERC TVET Materials</a>
                     </div>
                 </div>
                 <div class="relative group">
-                    <button class="text-white font-medium px-2 py-1 uppercase focus:outline-none" 
-                    :class="scrolled ? 'hover:text-amber-300' : 'hover:text-blue-300'">
+                    <button class="text-white font-medium px-2 py-1 uppercase focus:outline-none hover:text-amber-300">
                         Contacts
                     </button>
                     <div class="absolute bg-white border invisible opacity-0 rounded shadow-lg transition-all duration-200 w-60 z-50 group-hover:opacity-100 group-hover:visible">
-                        <a href="{{ route('regional-district.offices') }}" class="text-gray-700 block px-4 py-2 hover:bg-gray-100 hover:rounded">Regional/District Offices</a>
-                        <a href="#" class="text-gray-700 block px-4 py-2 hover:bg-gray-100 hover:rounded">Technology Institute</a>
+                        <a href="{{ route('regional-district.offices') }}" class="text-gray-700 block px-4 py-2 hover:bg-gray-100 hover:font-bold hover:rounded">Regional/District Offices</a>
+                        <a href="{{ route('technology.institute') }}" class="text-gray-700 block px-4 py-2 hover:bg-gray-100 hover:font-bold hover:rounded">Technology Institute</a>
                     </div>
                 </div>
             </div>

@@ -5,7 +5,7 @@
         'resources/js/transparency/transparency-seal.js'])
 @endsection
 
-<x-layout>
+<x-layout-a>
     <section class="page-header">
         <div>
             <img src="{{ asset('images/transparency-seal.jpg') }}" alt="Transparency Seal" class="w-full h-auto">
@@ -4206,4 +4206,4 @@
     </section>
     <section class="page-footer">
     </section>
-</x-layout>
+</x-layout-a>
