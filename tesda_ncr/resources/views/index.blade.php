@@ -5,9 +5,10 @@
 @endsection
 
 <x-layout-a>
-    <div class="bg-cover bg-center bg-no-repeat min-h-screen" style="background-image: url('{{ asset('images/bg-home.jpg') }}')">
-        <div class="absolute inset-0 bg-black/60 backdrop-blur-xs"></div>
-        <div class="relative pl-24 pr-16 pt-28 z-10">
+    <section class="relative flex h-screen items-center justify-center overflow-hidden">
+        <div class="absolute bg-cover bg-center inset-0 blur-xs" style="background-image: url('{{ asset('images/bg-home.jpg') }}');"></div>
+        <div class="absolute inset-0 bg-black/60"></div>
+        <div class="relative pt-48 z-10">
             <div class="flex items-center justify-center space-x-5">
                 <img src="{{ asset('images/logos/tesda.png') }}" alt="TESDA-NCR Logo" class="w-3xs rounded-2xl">
                 <div class="text-white text-stroke-blue break-words space-y-4 uppercase w-1/2 whitespace-normal">
@@ -45,12 +46,39 @@
                 </div>
             </div>
         </div>
-    </div>
+    </section>
+    <section class="relative h-[30vh] overflow-hidden">
+        <div class="absolute inset-0 bg-cover bg-center blur-xs" style="background-image: url('{{ asset('images/bg-tesda-logo.webp') }}');"></div>
+        <div class="absolute inset-0 bg-black/60"></div>
+        <div class="flex flex-col items-center justify-center h-full relative z-10">
+                <div class="flex items-center justify-center text-center py-6 rounded-2xl space-x-60 w-3/4">
+                    <div class="flex items-center justify-center">
+                        <img src="{{ asset('images/logos/transparency-seal.png') }}" alt="Philippine Transparency Seal Logo" class="w-64 object-contain">
+                    </div>
+                    <div class="flex items-center justify-center">
+                        <img src="{{ asset('images/logos/dole.png') }}" alt="DOLE Logo" class="w-72 object-contain">
+                    </div>
+                    <div class="flex items-center justify-center">
+                        <img src="{{ asset('images/logos/foi.png') }}" alt="FOI Philippines Logo" class="w-96 object-contain">
+                    </div>
+                    <div class="flex items-center justify-center">
+                        <img src="{{ asset('images/logos/pqf.png') }}" alt="FOI Philippines Logo" class="w-60 object-contain">
+                    </div>
+                </div>
+        </div>
+    </section>
     <div class="bg-blue-700 flex items-center justify-center p-10">
         <h1 class="text-4xl text-white font-bold font-sans">We measure our worth by the satisfaction of the customers we serve.</h1>
     </div>
-    <div class="bg-white min-h-screen pl-24 pr-16 pt-16 z-10">
+    <section class="bg-white min-h-screen pl-24 pr-16 py-16 z-10">
         <div class="space-y-20">
+            <div class="flex items-center justify-center">
+                <div class="fb-video" 
+                    data-href="https://www.facebook.com/TESDAOfficial/videos/3808930295931226/?t=1" 
+                    data-width="700" 
+                    data-show-text="false">
+                </div>
+            </div>
             <div class="flex items-center justify-center">
                 <div class="text-center space-y-8 w-4xl">
                     <div>
@@ -68,15 +96,40 @@
                     </div>
                 </div>
             </div>
-            <div class="flex items-center justify-center pb-32">
-                <div class="fb-video" 
-                    data-href="https://www.facebook.com/TESDAOfficial/videos/3808930295931226/?t=1" 
-                    data-width="700" 
-                    data-show-text="false">
-                </div>
+        </div>
+    </section>
+    <div class="bg-blue-100 flex items-center justify-center py-6">
+        <div class="text-center space-y-8 w-4xl">
+            <div>
+                <h2 class="text-blue-800 text-4xl font-sans font-bold mb-1 uppercase">Data Privacy Notice</h2>
+                <p class="text-gray-600 text-2xl leading-relaxed">(Compliance to DPA of 2012, RA 10173)</p>
             </div>
         </div>
     </div>
+    <section class="bg-blue-700 text-white flex items-center justify-center">
+        <div class="mx-48 py-10 text-xl">
+            <p class="mb-8">Building 15, Gate 2, TESDA Complex, East Service Road, South Luzon Expressway, Fort Bonifacio, Taguig City, 1630</p>
+            <div class="telephone-number">
+                <span>Tel. No.: </span>
+                <span>8810-2540 / 8240-5016</span>
+            </div>
+            <div class="email">
+                <span>EMAIL: </span>
+                <span>ncr@tesda.gov.ph</span>
+            </div>
+        </div>
+        <div class="mx-48 py-10 text-xl">
+            <p class="mb-8">Building 15, Gate 2, TESDA Complex, East Service Road, South Luzon Expressway, Fort Bonifacio, Taguig City, 1630</p>
+            <div class="telephone-number">
+                <span>Tel. No.: </span>
+                <span>8810-2540 / 8240-5016</span>
+            </div>
+            <div class="email">
+                <span>EMAIL: </span>
+                <span>ncr@tesda.gov.ph</span>
+            </div>
+        </div>
+    </section>
     <div id="fb-root"></div>
     <script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v19.0">
     </script>
