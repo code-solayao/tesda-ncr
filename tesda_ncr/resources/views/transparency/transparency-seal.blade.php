@@ -4204,6 +4204,4 @@
             </div>
         </div>
     </section>
-    <section class="page-footer">
-    </section>
 </x-layout-a>

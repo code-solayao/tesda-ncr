@@ -1,5 +1,6 @@
 <?php
 
+use App\Http\Controllers\AboutController;
 use App\Http\Controllers\AuthController;
 use App\Http\Controllers\ContactsController;
 use App\Http\Controllers\HomeController;
@@ -17,6 +18,12 @@ Route::middleware('guest')->controller(AuthController::class)->group(function ()
 
 Route::controller(HomeController::class)->group(function () {
     Route::get('/', 'index')->name('home');
+});
+
+Route::controller(AboutController::class)->group(function () {
+    Route::get('/history', 'history')->name('history');
+    Route::get('/vision-mission-value-statement-and-quality-policy', 'vision_mission')->name('vision.mission');
+    Route::get('/organizational-chart', 'organisational_chart')->name('organisational.chart');
 });
 
 Route::controller(TransparencyController::class)->group(function () {

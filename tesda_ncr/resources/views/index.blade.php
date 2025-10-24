@@ -49,7 +49,7 @@
     </section>
     <section class="relative h-[30vh] overflow-hidden">
         <div class="absolute inset-0 bg-cover bg-center blur-xs" style="background-image: url('{{ asset('images/bg-tesda-logo.webp') }}');"></div>
-        <div class="absolute inset-0 bg-black/60"></div>
+        <div class="absolute inset-0 bg-black/80"></div>
         <div class="flex flex-col items-center justify-center h-full relative z-10">
                 <div class="flex items-center justify-center text-center py-6 rounded-2xl space-x-60 w-3/4">
                     <div class="flex items-center justify-center">

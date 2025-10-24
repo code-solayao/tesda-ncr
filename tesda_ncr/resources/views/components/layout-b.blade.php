@@ -29,9 +29,9 @@
                         About
                     </button>
                     <div class="absolute bg-white border invisible opacity-0 rounded shadow-lg transition-all duration-200 w-60 z-50 group-hover:opacity-100 group-hover:visible">
-                        <a href="{{ route('transparency.seal') }}" class="text-gray-700 block px-4 py-2 hover:bg-gray-100 hover:font-bold hover:rounded">History</a>
-                        <a href="#" class="text-gray-700 block px-4 py-2 hover:bg-gray-100 hover:font-bold">Mission, Vision, Value Statement and Quality Policy</a>
-                        <a href="#" class="text-gray-700 block px-4 py-2 hover:bg-gray-100 hover:font-bold hover:rounded">Organization Chart</a>
+                        <a href="{{ route('history') }}" class="text-gray-700 block px-4 py-2 hover:bg-gray-100 hover:font-bold hover:rounded">History</a>
+                        <a href="{{ route('vision.mission') }}" class="text-gray-700 block px-4 py-2 hover:bg-gray-100 hover:font-bold">Vision, Mission, Value and Quality Policy</a>
+                        <a href="{{ route('organisational.chart') }}" class="text-gray-700 block px-4 py-2 hover:bg-gray-100 hover:font-bold hover:rounded">Organization Chart</a>
                     </div>
                 </div>
                 <div class="relative group">
