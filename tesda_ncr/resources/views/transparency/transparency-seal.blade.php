@@ -3609,7 +3609,7 @@
                         TESDA Additional Transparency Compliance
                     </button>
                     <div class="bg-gray-200 hidden px-10 py-4 rounded">
-                        <ul class="list-decimal space-y-2 text-green-800">
+                        <ul class="list-decimal space-y-2 text-black">
                             <li>
                                 <a href="#" target="_blank" rel="noopener noreferrer">
                                     <span class="hover:text-blue-700 hover:underline">TESDA Efficiency and Integrity Development Plan 2022-2026</span>

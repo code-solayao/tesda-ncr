@@ -40,9 +40,9 @@
                     </button>
                     <div class="absolute bg-white border invisible opacity-0 rounded shadow-lg transition-all duration-200 w-60 z-50 group-hover:opacity-100 group-hover:visible">
                         <a href="{{ route('transparency.seal') }}" class="text-gray-700 block px-4 py-2 hover:bg-gray-100 hover:font-bold hover:rounded">Transparency Seal</a>
-                        <a href="#" class="text-gray-700 block px-4 py-2 hover:bg-gray-100 hover:font-bold">Citizen's Charter</a>
-                        <a href="#" class="text-gray-700 block px-4 py-2 hover:bg-gray-100 hover:font-bold">PhilGEPS Posting</a>
-                        <a href="#" class="text-gray-700 block px-4 py-2 hover:bg-gray-100 hover:font-bold hover:rounded">Committee on Anti-Red Tape Act (CART)</a>
+                        <a href="{{ route('citizens.charter') }}" class="text-gray-700 block px-4 py-2 hover:bg-gray-100 hover:font-bold">Citizen's Charter</a>
+                        <a href="{{ route('philgeps.posting') }}" class="text-gray-700 block px-4 py-2 hover:bg-gray-100 hover:font-bold">PhilGEPS Posting</a>
+                        <a href="{{ route('tesda.cart') }}" class="text-gray-700 block px-4 py-2 hover:bg-gray-100 hover:font-bold hover:rounded">Committee on Anti-Red Tape Act (CART)</a>
                     </div>
                 </div>
                 <div class="relative group">
@@ -50,7 +50,7 @@
                         Programs and Services
                     </button>
                     <div class="absolute bg-white border invisible opacity-0 rounded shadow-lg transition-all duration-200 w-60 z-50 group-hover:opacity-100 group-hover:visible">
-                        <a href="#" class="text-gray-700 block px-4 py-2 hover:bg-gray-100 hover:font-bold hover:rounded">TVET Programs</a>
+                        <a href="{{ route('tvet.programs') }}" class="text-gray-700 block px-4 py-2 hover:bg-gray-100 hover:font-bold hover:rounded">TVET Programs</a>
                         <a href="#" class="text-gray-700 block px-4 py-2 hover:bg-gray-100 hover:font-bold">Competency Standards Development</a>
                         <a href="#" class="text-gray-700 block px-4 py-2 hover:bg-gray-100 hover:font-bold">Competency Assessment and Certification</a>
                         <a href="#" class="text-gray-700 block px-4 py-2 hover:bg-gray-100 hover:font-bold">Program Registration and Accreditation</a>

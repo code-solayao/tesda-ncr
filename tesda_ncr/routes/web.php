@@ -4,6 +4,7 @@ use App\Http\Controllers\AboutController;
 use App\Http\Controllers\AuthController;
 use App\Http\Controllers\ContactsController;
 use App\Http\Controllers\HomeController;
+use App\Http\Controllers\ProgramsAndServices;
 use App\Http\Controllers\TransparencyController;
 use Illuminate\Support\Facades\Route;
 
@@ -28,6 +29,13 @@ Route::controller(AboutController::class)->group(function () {
 
 Route::controller(TransparencyController::class)->group(function () {
     Route::get('/transparency-seal', 'transparency_seal')->name('transparency.seal');
+    Route::get('/citizens-charter', 'citizens_charter')->name('citizens.charter');
+    Route::get('/philgeps-posting', 'philgeps_posting')->name('philgeps.posting');
+    Route::get('/committee-on-anti-red-tape', 'tesda_cart')->name('tesda.cart');
+});
+
+Route::controller(ProgramsAndServices::class)->group(function () {
+    Route::get('/tvet-programs', 'tvet_programs')->name('tvet.programs');
 });
 
 Route::controller(ContactsController::class)->group(function () {
