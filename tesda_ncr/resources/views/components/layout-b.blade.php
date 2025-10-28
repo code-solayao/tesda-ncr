@@ -51,10 +51,10 @@
                     </button>
                     <div class="absolute bg-white border invisible opacity-0 rounded shadow-lg transition-all duration-200 w-60 z-50 group-hover:opacity-100 group-hover:visible">
                         <a href="{{ route('tvet.programs') }}" class="text-gray-700 block px-4 py-2 hover:bg-gray-100 hover:font-bold hover:rounded">TVET Programs</a>
-                        <a href="#" class="text-gray-700 block px-4 py-2 hover:bg-gray-100 hover:font-bold">Competency Standards Development</a>
-                        <a href="#" class="text-gray-700 block px-4 py-2 hover:bg-gray-100 hover:font-bold">Competency Assessment and Certification</a>
-                        <a href="#" class="text-gray-700 block px-4 py-2 hover:bg-gray-100 hover:font-bold">Program Registration and Accreditation</a>
-                        <a href="#" class="text-gray-700 block px-4 py-2 hover:bg-gray-100 hover:font-bold">National TESD Plan</a>
+                        <a href="{{ route('comp.stand.dev') }}" class="text-gray-700 block px-4 py-2 hover:bg-gray-100 hover:font-bold">Competency Standards Development</a>
+                        <a href="{{ route('assess.and.cert') }}" class="text-gray-700 block px-4 py-2 hover:bg-gray-100 hover:font-bold">Competency Assessment and Certification</a>
+                        <a href="{{ route('prog.reg.and.accred') }}" class="text-gray-700 block px-4 py-2 hover:bg-gray-100 hover:font-bold">Program Registration and Accreditation</a>
+                        <a href="{{ route('nat.tesd.plan') }}" class="text-gray-700 block px-4 py-2 hover:bg-gray-100 hover:font-bold">National TESD Plan</a>
                         <a href="#" class="text-gray-700 block px-4 py-2 hover:bg-gray-100 hover:font-bold">Training Regulations</a>
                         <a href="#" class="text-gray-700 block px-4 py-2 hover:bg-gray-100 hover:font-bold hover:rounded">Competency Standards</a>
                     </div>

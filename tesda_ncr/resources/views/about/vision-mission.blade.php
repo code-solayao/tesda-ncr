@@ -16,7 +16,7 @@
     <div class="bg-white flex -mt-[660px] relative w-full">
         <main class="flex px-60 py-12 overflow-y-auto">
             <div class="w-full h-fit space-y-8">
-                <div class="text-gray-600 text-xl font-sans leading-relaxed">
+                <div class="text-gray-700 text-xl font-sans leading-relaxed">
                     <p class="font-semibold">Mandate</p>
                     <p>
                         The Technical Education and Skills Development Authority (TESDA) is the government agency tasked to manage and supervise 
@@ -26,22 +26,22 @@
                         Department of Labor and Employment (DOLE).
                     </p>
                 </div>
-                <div class="text-gray-600 text-xl font-sans leading-relaxed">
+                <div class="text-gray-700 text-xl font-sans leading-relaxed">
                     <p class="font-semibold">Vision</p>
                     <p>The transformational leader in the technical education and skills development of the Filipino workforce.</p>
                 </div>
-                <div class="text-gray-600 text-xl font-sans leading-relaxed">
+                <div class="text-gray-700 text-xl font-sans leading-relaxed">
                     <p class="font-semibold">Mission</p>
                     <p>
                         TESDA sets direction, promulgates relevant standards, and implements programs geared towards a quality-assured and inclusive 
                         technical education and skills development and certification system.
                     </p>
                 </div>
-                <div class="text-gray-600 text-xl font-sans leading-relaxed">
+                <div class="text-gray-700 text-xl font-sans leading-relaxed">
                     <p class="font-semibold">Values Statement</p>
                     <p>We believe in demonstrated competence, institutional integrity, personal commitment, culture of innovativeness and a deep sense of nationalism.</p>
                 </div>
-                <div class="text-gray-600 text-xl font-sans leading-relaxed">
+                <div class="text-gray-700 text-xl font-sans leading-relaxed">
                     <p class="font-semibold">Quality Policy</p>
                     <p>"We measure our worth by the satisfaction of the customers we serve"</p>
                     <p class="my-4">To achieve this, we commit to comply with applicable requirement and continually improve our systems and processes through: </p>

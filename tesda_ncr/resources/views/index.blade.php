@@ -83,13 +83,13 @@
                 <div class="text-center space-y-8 w-4xl">
                     <div>
                         <h2 class="text-blue-800 text-5xl font-[Fremont,Verdana] font-bold mb-5 uppercase">Vision</h2>
-                        <p class="text-gray-600 text-2xl leading-relaxed">
+                        <p class="text-gray-700 text-2xl leading-relaxed">
                             The transformational leader in the technical education and skills development of the Filipino workforce.
                         </p>
                     </div>
                     <div>
                         <h2 class="text-blue-800 text-5xl font-[Fremont,Verdana] font-bold mb-5 uppercase">Mission</h2>
-                        <p class="text-gray-600 text-2xl leading-relaxed">
+                        <p class="text-gray-700 text-2xl leading-relaxed">
                             TESDA sets direction, promulgates relevant standards, and implements programs geared towards quality assured and inclusive technical education 
                             and skills development and certification system.
                         </p>
@@ -102,7 +102,7 @@
         <div class="text-center space-y-8 w-4xl">
             <div>
                 <h2 class="text-blue-800 text-4xl font-sans font-bold mb-1 uppercase">Data Privacy Notice</h2>
-                <p class="text-gray-600 text-2xl leading-relaxed">(Compliance to DPA of 2012, RA 10173)</p>
+                <p class="text-gray-700 text-2xl leading-relaxed">(Compliance to DPA of 2012, RA 10173)</p>
             </div>
         </div>
     </div>

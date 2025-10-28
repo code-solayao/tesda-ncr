@@ -14,13 +14,13 @@
     <section class="page-content">
         <div class="px-60 py-12">
             <h3 class="text-blue-800 text-2xl font-semibold mb-8">Symbolism</h3>
-            <p class="text-gray-600 text-xl font-sans leading-relaxed my-8">
+            <p class="text-gray-700 text-xl font-sans leading-relaxed my-8">
                 A pearl buried inside a tightly shut shell is practically worthless. Government information is a pearl, 
                 meant to be shared with the public in order to maximize its inherent value. The Transparency Seal, depicted by a pearl shining out of an open shell, 
                 is a symbol of a policy shift towards openness in access to government information. On the one hand, it hopes to inspire Filipinos in the civil service 
                 to be more open to citizen engagement; on the other, to invite the Filipino citizenry to exercise their right to participate in governance.
             </p>
-            <p class="text-gray-600 text-xl font-sans leading-relaxed my-8">
+            <p class="text-gray-700 text-xl font-sans leading-relaxed my-8">
                 This initiative is envisioned as a step in the right direction towards solidifying the position of the Philippines as the Pearl of the Orient 
                 - a shining example of democratic virtue in the region.
             </p>

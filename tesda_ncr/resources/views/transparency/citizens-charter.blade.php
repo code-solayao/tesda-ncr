@@ -16,7 +16,7 @@
     <section class="bg-white -mt-[660px] relative w-full">
         <div class="px-60 py-12 overflow-y-auto">
             <div class="w-full h-[calc(75vh-4rem)]">
-                <div class="text-gray-600 text-xl font-semibold leading-relaxed space-y-4">
+                <div class="text-gray-700 text-xl font-semibold leading-relaxed space-y-4">
                     <div>
                         <a href="#" target="_blank" rel="noopener noreferrer">
                             <span class="hover:text-blue-600 hover:underline">Citizen's Charter</span>

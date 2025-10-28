@@ -36,6 +36,10 @@ Route::controller(TransparencyController::class)->group(function () {
 
 Route::controller(ProgramsAndServices::class)->group(function () {
     Route::get('/tvet-programs', 'tvet_programs')->name('tvet.programs');
+    Route::get('/competency-standards-development', 'comp_stand_dev')->name('comp.stand.dev');
+    Route::get('/assessment-and-certification', 'assess_and_cert')->name('assess.and.cert');
+    Route::get('/program-registration-and-accreditation', 'prog_reg_and_accred')->name('prog.reg.and.accred');
+    Route::get('/national-tesd-plan', 'nat_tesd_plan')->name('nat.tesd.plan');
 });
 
 Route::controller(ContactsController::class)->group(function () {

@@ -16,7 +16,7 @@
     <div class="bg-white flex -mt-[660px] relative w-full">
         <main class="flex px-60 py-12 overflow-y-auto">
             <div class="w-full h-fit space-y-5">
-                <div class="text-gray-600 text-xl font-sans leading-relaxed">
+                <div class="text-gray-700 text-xl font-sans leading-relaxed">
                     <p>
                         In view of the need to provide equitable access and provision of TESD programs to the growing TVET clients, 
                         TESDA continues to undertake direct training provisions. There are four training modalities school-based, center-based, enterprised-based 
@@ -24,31 +24,31 @@
                         enterprised-based training through DTS/apprenticeship and community-based training in convergence with the LGU’s.
                     </p>
                 </div>
-                <div class="text-gray-600 text-xl font-sans leading-relaxed">
+                <div class="text-gray-700 text-xl font-sans leading-relaxed">
                     <ul class="list-disc mx-4 px-7 space-y-2">
                         <li>
                             <a href="#" target="_blank" rel="noopener noreferrer">
-                                <span class="hover:text-blue-700 hover:underline">School Based Program</span>
+                                <span class="text-blue-600 hover:underline">School Based Program</span>
                             </a>
                         </li>
                         <li>
                             <a href="#" target="_blank" rel="noopener noreferrer">
-                                <span class="hover:text-blue-700 hover:underline">Centre Based Program</span>
+                                <span class="text-blue-600 hover:underline">Centre Based Program</span>
                             </a>
                         </li>
                         <li>
                             <a href="#" target="_blank" rel="noopener noreferrer">
-                                <span class="hover:text-blue-700 hover:underline">Community Based Program</span>
+                                <span class="text-blue-600 hover:underline">Community Based Program</span>
                             </a>
                         </li>
                         <li>
                             <a href="#" target="_blank" rel="noopener noreferrer">
-                                <span class="hover:text-blue-700 hover:underline">Enterprise Based Program</span>
+                                <span class="text-blue-600 hover:underline">Enterprise Based Program</span>
                             </a>
                         </li>
                     </ul>
                 </div>
-                <div class="text-gray-600 text-xl font-sans leading-relaxed space-y-4">
+                <div class="text-gray-700 text-xl font-sans leading-relaxed space-y-4">
                     <p class="font-semibold uppercase">TESDA Supports Training Provision</p>
                     <p>
                         TESD creates opportunities for people to be responsible and become productive citizens. The need to provide and make accessible relevant 
