@@ -5,6 +5,7 @@ use App\Http\Controllers\AuthController;
 use App\Http\Controllers\ContactsController;
 use App\Http\Controllers\HomeController;
 use App\Http\Controllers\ProgramsAndServices;
+use App\Http\Controllers\ResourcesController;
 use App\Http\Controllers\TransparencyController;
 use Illuminate\Support\Facades\Route;
 
@@ -40,6 +41,10 @@ Route::controller(ProgramsAndServices::class)->group(function () {
     Route::get('/assessment-and-certification', 'assess_and_cert')->name('assess.and.cert');
     Route::get('/program-registration-and-accreditation', 'prog_reg_and_accred')->name('prog.reg.and.accred');
     Route::get('/national-tesd-plan', 'nat_tesd_plan')->name('nat.tesd.plan');
+});
+
+Route::controller(ResourcesController::class)->group(function () {
+    Route::get('/downloadable-files', 'downloadable_files')->name('downloadable.files');
 });
 
 Route::controller(ContactsController::class)->group(function () {

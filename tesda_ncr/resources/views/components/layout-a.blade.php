@@ -62,8 +62,14 @@
                         <a href="{{ route('assess.and.cert') }}" class="text-gray-700 block px-4 py-2 hover:bg-gray-100 hover:font-bold">Competency Assessment and Certification</a>
                         <a href="{{ route('prog.reg.and.accred') }}" class="text-gray-700 block px-4 py-2 hover:bg-gray-100 hover:font-bold">Program Registration and Accreditation</a>
                         <a href="{{ route('nat.tesd.plan') }}" class="text-gray-700 block px-4 py-2 hover:bg-gray-100 hover:font-bold">National TESD Plan</a>
-                        <a href="#" class="text-gray-700 block px-4 py-2 hover:bg-gray-100 hover:font-bold">Training Regulations</a>
-                        <a href="#" class="text-gray-700 block px-4 py-2 hover:bg-gray-100 hover:font-bold hover:rounded">Competency Standards</a>
+                        <a href="https://www.tesda.gov.ph/Download/Training_Regulations?Searchcat=Training%20Regulations" target="_blank" rel="noopener noreferrer" 
+                        class="text-gray-700 block px-4 py-2 hover:bg-gray-100 hover:font-bold">
+                            Training Regulations
+                        </a>
+                        <a href="https://www.tesda.gov.ph/Download/Competency_Standards" target="_blank" rel="noopener noreferrer" 
+                        class="text-gray-700 block px-4 py-2 hover:bg-gray-100 hover:font-bold hover:rounded">
+                            Competency Standards
+                        </a>
                     </div>
                 </div>
                 <div class="relative group">
@@ -72,14 +78,38 @@
                         Verifications
                     </button>
                     <div class="absolute bg-white border invisible opacity-0 rounded shadow-lg transition-all duration-200 w-60 z-50 group-hover:opacity-100 group-hover:visible">
-                        <a href="#" class="text-gray-700 block px-4 py-2 hover:bg-gray-100 hover:font-bold hover:rounded">Assessment Centers</a>
-                        <a href="#" class="text-gray-700 block px-4 py-2 hover:bg-gray-100 hover:font-bold">TVI with Registered Programs</a>
-                        <a href="#" class="text-gray-700 block px-4 py-2 hover:bg-gray-100 hover:font-bold">Institutions Issued with Cease and Desist Order</a>
-                        <a href="#" class="text-gray-700 block px-4 py-2 hover:bg-gray-100 hover:font-bold">Registry of Accredited Assessors</a>
-                        <a href="#" class="text-gray-700 block px-4 py-2 hover:bg-gray-100 hover:font-bold">Registry of Trainers with NTTC</a>
-                        <a href="#" class="text-gray-700 block px-4 py-2 hover:bg-gray-100 hover:font-bold">Regional Expert Panel</a>
-                        <a href="#" class="text-gray-700 block px-4 py-2 hover:bg-gray-100 hover:font-bold">Regional Lead Assessor for Various Qualification</a>
-                        <a href="#" class="text-gray-700 block px-4 py-2 hover:bg-gray-100 hover:font-bold hover:rounded">RWAC for Regional Lead Assessor</a>
+                        <a href="https://www.tesda.gov.ph/AssessmentCenters/" target="_blank" rel="noopener noreferrer" 
+                        class="text-gray-700 block px-4 py-2 hover:bg-gray-100 hover:font-bold hover:rounded">
+                            Assessment Centers
+                        </a>
+                        <a href="https://www.tesda.gov.ph/TVI" target="_blank" rel="noopener noreferrer" 
+                        class="text-gray-700 block px-4 py-2 hover:bg-gray-100 hover:font-bold">
+                            TVI with Registered Programs
+                        </a>
+                        <a href="https://www.tesda.gov.ph/About/TESDA/27876" target="_blank" rel="noopener noreferrer" 
+                        class="text-gray-700 block px-4 py-2 hover:bg-gray-100 hover:font-bold">
+                            Institutions Issued with Cease and Desist Order
+                        </a>
+                        <a href="https://www.tesda.gov.ph/CA" target="_blank" rel="noopener noreferrer" 
+                        class="text-gray-700 block px-4 py-2 hover:bg-gray-100 hover:font-bold">
+                            Registry of Accredited Assessors
+                        </a>
+                        <a href="https://www.tesda.gov.ph/NTTC" target="_blank" rel="noopener noreferrer" 
+                        class="text-gray-700 block px-4 py-2 hover:bg-gray-100 hover:font-bold">
+                            Registry of Trainers with NTTC
+                        </a>
+                        <a href="https://www.tesda.gov.ph/Panel" target="_blank" rel="noopener noreferrer" 
+                        class="text-gray-700 block px-4 py-2 hover:bg-gray-100 hover:font-bold">
+                            Regional Expert Panel
+                        </a>
+                        <a href="https://www.tesda.gov.ph/RLA" target="_blank" rel="noopener noreferrer" 
+                        class="text-gray-700 block px-4 py-2 hover:bg-gray-100 hover:font-bold">
+                            Regional Lead Assessor for Various Qualification
+                        </a>
+                        <a href="https://www.tesda.gov.ph/RWACRLA" target="_blank" rel="noopener noreferrer" 
+                        class="text-gray-700 block px-4 py-2 hover:bg-gray-100 hover:font-bold hover:rounded">
+                            RWAC for Regional Lead Assessor
+                        </a>
                     </div>
                 </div>
                 <div class="relative group">
@@ -88,22 +118,49 @@
                         Resources
                     </button>
                     <div class="absolute bg-white border invisible opacity-0 rounded shadow-lg transition-all duration-200 w-60 z-50 group-hover:opacity-100 group-hover:visible">
-                        <a href="#" class="text-gray-700 block px-4 py-2 hover:bg-gray-100 hover:font-bold hover:rounded">TESDA Circulars</a>
-                        <a href="#" class="text-gray-700 block px-4 py-2 hover:bg-gray-100 hover:font-bold">TESDA Board Resolution</a>
-                        <a href="#" class="text-gray-700 block px-4 py-2 hover:bg-gray-100 hover:font-bold">Downloadable Files</a>
-                        <a href="#" class="text-gray-700 block px-4 py-2 hover:bg-gray-100 hover:font-bold">Media</a>
-                        <a href="#" class="text-gray-700 block px-4 py-2 hover:bg-gray-100 hover:font-bold">TESDA Newsletter</a>
+                        <a href="https://www.tesda.gov.ph/About/TESDA/21992" target="_blank" rel="noopener noreferrer" 
+                        class="text-gray-700 block px-4 py-2 hover:bg-gray-100 hover:font-bold hover:rounded">
+                            TESDA Circulars
+                        </a>
+                        <a href="https://www.tesda.gov.ph/boardreso" target="_blank" rel="noopener noreferrer" 
+                        class="text-gray-700 block px-4 py-2 hover:bg-gray-100 hover:font-bold">
+                            TESDA Board Resolution
+                        </a>
+                        <a href="{{ route('downloadable.files') }}" class="text-gray-700 block px-4 py-2 hover:bg-gray-100 hover:font-bold">Downloadable Files</a>
+                        <a href="https://www.tesda.gov.ph/Media" target="_blank" rel="noopener noreferrer" 
+                        class="text-gray-700 block px-4 py-2 hover:bg-gray-100 hover:font-bold">
+                            Media
+                        </a>
+                        <a href="https://www.tesda.gov.ph/About/TESDA/27893" target="_blank" rel="noopener noreferrer" 
+                        class="text-gray-700 block px-4 py-2 hover:bg-gray-100 hover:font-bold">
+                            TESDA Newsletter
+                        </a>
                         <a href="#" class="text-gray-700 block px-4 py-2 hover:bg-gray-100 hover:font-bold">LMIR</a>
                         <a href="#" class="text-gray-700 block px-4 py-2 hover:bg-gray-100 hover:font-bold">Planning Guidelines</a>
                         <a href="#" class="text-gray-700 block px-4 py-2 hover:bg-gray-100 hover:font-bold">Philippine TVET Statistics</a>
-                        <a href="#" class="text-gray-700 block px-4 py-2 hover:bg-gray-100 hover:font-bold">TESDA Annual Report</a>
+                        <a href="https://www.tesda.gov.ph/About/TESDA/27893" target="_blank" rel="noopener noreferrer" 
+                        class="text-gray-700 block px-4 py-2 hover:bg-gray-100 hover:font-bold">
+                            TESDA Annual Report
+                        </a>
                         <a href="#" class="text-gray-700 block px-4 py-2 hover:bg-gray-100 hover:font-bold">TVET Brief</a>
-                        <a href="#" class="text-gray-700 block px-4 py-2 hover:bg-gray-100 hover:font-bold">TVET Glossary of Terms</a>
-                        <a href="#" class="text-gray-700 block px-4 py-2 hover:bg-gray-100 hover:font-bold">TVET-Related Policies and Legislations</a>
-                        <a href="#" class="text-gray-700 block px-4 py-2 hover:bg-gray-100 hover:font-bold">TVET Researchers and Studies</a>
+                        <a href="https://www.tesda.gov.ph/Glossary" target="_blank" rel="noopener noreferrer" 
+                        class="text-gray-700 block px-4 py-2 hover:bg-gray-100 hover:font-bold">
+                            TVET Glossary of Terms
+                        </a>
+                        <a href="https://www.tesda.gov.ph/About/TESDA/20892" target="_blank" rel="noopener noreferrer" 
+                        class="text-gray-700 block px-4 py-2 hover:bg-gray-100 hover:font-bold">
+                            TVET-Related Policies and Legislations
+                        </a>
+                        <a href="https://www.tesda.gov.ph/About/TESDA/20863" target="_blank" rel="noopener noreferrer" 
+                        class="text-gray-700 block px-4 py-2 hover:bg-gray-100 hover:font-bold">
+                            TVET Researchers and Studies
+                        </a>
                         <a href="#" class="text-gray-700 block px-4 py-2 hover:bg-gray-100 hover:font-bold">Skills Need Anticipation: Workplace Skills and Satisfactory Journey</a>
                         <a href="#" class="text-gray-700 block px-4 py-2 hover:bg-gray-100 hover:font-bold">TVET Skills Insights Report</a>
-                        <a href="#" class="text-gray-700 block px-4 py-2 hover:bg-gray-100 hover:font-bold hover:rounded">ATVERC TVET Materials</a>
+                        <a href="https://bit.ly/atvercwebsite" target="_blank" rel="noopener noreferrer" 
+                        class="text-gray-700 block px-4 py-2 hover:bg-gray-100 hover:font-bold hover:rounded">
+                            ATVERC TVET Materials
+                        </a>
                     </div>
                 </div>
                 <div class="relative group">
