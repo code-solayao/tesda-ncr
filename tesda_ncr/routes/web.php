@@ -45,6 +45,7 @@ Route::controller(ProgramsAndServices::class)->group(function () {
 
 Route::controller(ResourcesController::class)->group(function () {
     Route::get('/downloadable-files', 'downloadable_files')->name('downloadable.files');
+    Route::get('/labor-market-intelligence-report', 'lmir')->name('lmir');
 });
 
 Route::controller(ContactsController::class)->group(function () {

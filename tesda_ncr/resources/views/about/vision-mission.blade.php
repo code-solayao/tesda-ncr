@@ -5,7 +5,7 @@
 @endsection
 
 <x-layout-b>
-    <section class="bg-cover bg-center bg-no-repeat min-h-screen" style="background-image: url('{{ asset('images/bg-home.jpg') }}')"> 
+    <section class="bg-cover bg-center bg-no-repeat h-[calc(100vh-4rem)]" style="background-image: url('{{ asset('images/bg-home.jpg') }}')"> 
         <div class="absolute inset-0 bg-black/40 backdrop-blur-xs"></div>
         <div class="relative mx-32 mt-16 py-24 z-10">
             <div class="mx-auto w-fit">
@@ -13,8 +13,8 @@
             </div>
         </div>
     </section>
-    <div class="bg-white flex -mt-[660px] relative w-full">
-        <main class="flex px-60 py-12 overflow-y-auto">
+    <section class="bg-white flex -mt-[600px] relative w-full">
+        <div class="flex px-60 py-12 overflow-y-auto">
             <div class="w-full h-fit space-y-8">
                 <div class="text-gray-700 text-xl font-sans leading-relaxed">
                     <p class="font-semibold">Mandate</p>
@@ -68,6 +68,6 @@
                     </p>
                 </div>
             </div>
-        </main>
-    </div>
+        </div>
+    </section>
 </x-layout-b>

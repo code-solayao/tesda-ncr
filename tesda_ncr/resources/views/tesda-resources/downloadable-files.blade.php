@@ -5,16 +5,17 @@
 @endsection
 
 <x-layout-b>
-    <section class="bg-cover bg-center bg-no-repeat min-h-screen" style="background-image: url('{{ asset('images/bg-home.jpg') }}')"> 
-        <div class="absolute inset-0 bg-black/40 backdrop-blur-xs"></div>
-        <div class="relative mx-32 mt-16 py-24 z-10">
-            <div class="mx-auto w-fit">
+    <section class="relative flex h-screen items-start justify-center overflow-hidden">
+        <div class="absolute bg-cover bg-center bg-no-repeat inset-0 blur-xs" style="background-image: url('{{ asset('images/bg-home.jpg') }}');"></div>
+        <div class="absolute inset-0 bg-black/40"></div>
+        <div class="relative mx-32 my-14 py-20 z-10">
+            <div class="mx-auto text-center w-fit">
                 <span class="text-white text-6xl font-bold uppercase">Downloadable Files</span>
             </div>
         </div>
     </section>
-    <div class="bg-white flex -mt-[660px] relative w-full">
-        <main class="flex px-60 py-12 overflow-y-auto">
+    <section class="bg-white flex -mt-[660px] relative w-full">
+        <div class="flex px-60 py-12 overflow-y-auto">
             <div class="text-gray-700 text-xl font-sans leading-relaxed w-full h-[calc(70vh-4rem)] space-y-5">
                 <ul class="list-disc list-inside space-y-2">
                     <li>
@@ -49,6 +50,6 @@
                     </li>
                 </ul>
             </div>
-        </main>
-    </div>
+        </div>
+    </section>
 </x-layout-b>
