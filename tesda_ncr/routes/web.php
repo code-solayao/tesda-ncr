@@ -37,15 +37,19 @@ Route::controller(TransparencyController::class)->group(function () {
 
 Route::controller(ProgramsAndServices::class)->group(function () {
     Route::get('/tvet-programs', 'tvet_programs')->name('tvet.programs');
-    Route::get('/competency-standards-development', 'comp_stand_dev')->name('comp.stand.dev');
-    Route::get('/assessment-and-certification', 'assess_and_cert')->name('assess.and.cert');
-    Route::get('/program-registration-and-accreditation', 'prog_reg_and_accred')->name('prog.reg.and.accred');
-    Route::get('/national-tesd-plan', 'nat_tesd_plan')->name('nat.tesd.plan');
+    Route::get('/competency-standards-development', 'comp_stand_develop')->name('comp.stand.develop');
+    Route::get('/assessment-and-certification', 'assess_and_certif')->name('assess.and.certif');
+    Route::get('/program-registration-and-accreditation', 'program_reg_accredit')->name('program.reg.accredit');
+    Route::get('/national-tesd-plan', 'national_tesd_plan')->name('national.tesd.plan');
 });
 
 Route::controller(ResourcesController::class)->group(function () {
     Route::get('/downloadable-files', 'downloadable_files')->name('downloadable.files');
     Route::get('/labor-market-intelligence-report', 'lmir')->name('lmir');
+    Route::get('/planning-guidelines', 'planning_guidelines')->name('planning.guidelines');
+    Route::get('/tvet-statistics', 'tvet_statistics')->name('tvet.statistics');
+    Route::get('/tvet-brief', 'tvet_brief')->name('tvet.brief');
+    Route::get('/skills-need-anticipation', 'skills_need_anticipation')->name('skills.need.anticipation');
 });
 
 Route::controller(ContactsController::class)->group(function () {

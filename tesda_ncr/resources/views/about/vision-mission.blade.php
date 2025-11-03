@@ -5,18 +5,19 @@
 @endsection
 
 <x-layout-b>
-    <section class="bg-cover bg-center bg-no-repeat h-[calc(100vh-4rem)]" style="background-image: url('{{ asset('images/bg-home.jpg') }}')"> 
-        <div class="absolute inset-0 bg-black/40 backdrop-blur-xs"></div>
-        <div class="relative mx-32 mt-16 py-24 z-10">
-            <div class="mx-auto w-fit">
+    <section class="relative flex h-screen items-start justify-center overflow-hidden">
+        <div class="absolute bg-cover bg-center bg-no-repeat inset-0 blur-xs" style="background-image: url('{{ asset('images/bg-home.jpg') }}');"></div>
+        <div class="absolute inset-0 bg-black/40"></div>
+        <div class="relative mx-32 my-14 py-20 z-10">
+            <div class="mx-auto text-center w-fit">
                 <span class="text-white text-6xl font-bold uppercase">Vision, Mission, Value and Quality Statement</span>
             </div>
         </div>
     </section>
-    <section class="bg-white flex -mt-[600px] relative w-full">
+    <section class="bg-white flex -mt-[640px] relative w-full">
         <div class="flex px-60 py-12 overflow-y-auto">
-            <div class="w-full h-fit space-y-8">
-                <div class="text-gray-700 text-xl font-sans leading-relaxed">
+            <div class="text-gray-700 text-xl font-sans leading-relaxed w-full space-y-5">
+                <div>
                     <p class="font-semibold">Mandate</p>
                     <p>
                         The Technical Education and Skills Development Authority (TESDA) is the government agency tasked to manage and supervise 
@@ -26,22 +27,22 @@
                         Department of Labor and Employment (DOLE).
                     </p>
                 </div>
-                <div class="text-gray-700 text-xl font-sans leading-relaxed">
+                <div>
                     <p class="font-semibold">Vision</p>
                     <p>The transformational leader in the technical education and skills development of the Filipino workforce.</p>
                 </div>
-                <div class="text-gray-700 text-xl font-sans leading-relaxed">
+                <div>
                     <p class="font-semibold">Mission</p>
                     <p>
                         TESDA sets direction, promulgates relevant standards, and implements programs geared towards a quality-assured and inclusive 
                         technical education and skills development and certification system.
                     </p>
                 </div>
-                <div class="text-gray-700 text-xl font-sans leading-relaxed">
+                <div>
                     <p class="font-semibold">Values Statement</p>
                     <p>We believe in demonstrated competence, institutional integrity, personal commitment, culture of innovativeness and a deep sense of nationalism.</p>
                 </div>
-                <div class="text-gray-700 text-xl font-sans leading-relaxed">
+                <div>
                     <p class="font-semibold">Quality Policy</p>
                     <p>"We measure our worth by the satisfaction of the customers we serve"</p>
                     <p class="my-4">To achieve this, we commit to comply with applicable requirement and continually improve our systems and processes through: </p>

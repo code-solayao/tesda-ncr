@@ -14,7 +14,7 @@
             </div>
         </div>
     </section>
-    <section class="bg-white -mt-[640px] relative w-full">
+    <section class="bg-white flex -mt-[640px] relative w-full">
         <div class="px-60 py-12 overflow-y-auto">
             <div class="w-full h-[calc(75vh-4rem)]">
                 <div class="text-gray-700 text-xl font-semibold leading-relaxed space-y-4">

@@ -106,19 +106,11 @@
             </div>
         </div>
     </div>
-    <section class="bg-blue-700 text-white flex items-center justify-center">
-        <div class="mx-48 py-10 text-xl">
-            <p class="mb-8">Building 15, Gate 2, TESDA Complex, East Service Road, South Luzon Expressway, Fort Bonifacio, Taguig City, 1630</p>
-            <div class="telephone-number">
-                <span>Tel. No.: </span>
-                <span>8810-2540 / 8240-5016</span>
-            </div>
-            <div class="email">
-                <span>EMAIL: </span>
-                <span>ncr@tesda.gov.ph</span>
-            </div>
+    <section class="bg-blue-700 text-white flex items-center justify-center space-x-10">
+        <div class="py-10 w-xl">
+            <img src="{{ asset('images/logos/tesda-transparent.png') }}" alt="National TESD Plan 2023-2028" class="w-fit h-auto">
         </div>
-        <div class="mx-48 py-10 text-xl">
+        <div class="py-10 text-xl w-xl">
             <p class="mb-8">Building 15, Gate 2, TESDA Complex, East Service Road, South Luzon Expressway, Fort Bonifacio, Taguig City, 1630</p>
             <div class="telephone-number">
                 <span>Tel. No.: </span>

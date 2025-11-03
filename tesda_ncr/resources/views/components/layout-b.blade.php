@@ -31,7 +31,7 @@
                     <div class="absolute bg-white border invisible opacity-0 rounded shadow-lg transition-all duration-200 w-60 z-50 group-hover:opacity-100 group-hover:visible">
                         <a href="{{ route('history') }}" class="text-gray-700 block px-4 py-2 hover:bg-gray-100 hover:font-bold hover:rounded">History</a>
                         <a href="{{ route('vision.mission') }}" class="text-gray-700 block px-4 py-2 hover:bg-gray-100 hover:font-bold">Vision, Mission, Value and Quality Policy</a>
-                        <a href="{{ route('organisational.chart') }}" class="text-gray-700 block px-4 py-2 hover:bg-gray-100 hover:font-bold hover:rounded">Organization Chart</a>
+                        <a href="{{ route('organisational.chart') }}" class="text-gray-700 block px-4 py-2 hover:bg-gray-100 hover:font-bold hover:rounded">Organizational Chart</a>
                     </div>
                 </div>
                 <div class="relative group">
@@ -51,10 +51,10 @@
                     </button>
                     <div class="absolute bg-white border invisible opacity-0 rounded shadow-lg transition-all duration-200 w-60 z-50 group-hover:opacity-100 group-hover:visible">
                         <a href="{{ route('tvet.programs') }}" class="text-gray-700 block px-4 py-2 hover:bg-gray-100 hover:font-bold hover:rounded">TVET Programs</a>
-                        <a href="{{ route('comp.stand.dev') }}" class="text-gray-700 block px-4 py-2 hover:bg-gray-100 hover:font-bold">Competency Standards Development</a>
-                        <a href="{{ route('assess.and.cert') }}" class="text-gray-700 block px-4 py-2 hover:bg-gray-100 hover:font-bold">Competency Assessment and Certification</a>
-                        <a href="{{ route('prog.reg.and.accred') }}" class="text-gray-700 block px-4 py-2 hover:bg-gray-100 hover:font-bold">Program Registration and Accreditation</a>
-                        <a href="{{ route('nat.tesd.plan') }}" class="text-gray-700 block px-4 py-2 hover:bg-gray-100 hover:font-bold">National TESD Plan</a>
+                        <a href="{{ route('comp.stand.develop') }}" class="text-gray-700 block px-4 py-2 hover:bg-gray-100 hover:font-bold">Competency Standards Development</a>
+                        <a href="{{ route('assess.and.certif') }}" class="text-gray-700 block px-4 py-2 hover:bg-gray-100 hover:font-bold">Competency Assessment and Certification</a>
+                        <a href="{{ route('program.reg.accredit') }}" class="text-gray-700 block px-4 py-2 hover:bg-gray-100 hover:font-bold">Program Registration and Accreditation</a>
+                        <a href="{{ route('national.tesd.plan') }}" class="text-gray-700 block px-4 py-2 hover:bg-gray-100 hover:font-bold">National TESD Plan</a>
                         <a href="https://www.tesda.gov.ph/Download/Training_Regulations?Searchcat=Training%20Regulations" target="_blank" rel="noopener noreferrer" 
                         class="text-gray-700 block px-4 py-2 hover:bg-gray-100 hover:font-bold">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" class="size-5 inline">
@@ -169,8 +169,8 @@
                             </svg> TESDA Newsletter
                         </a>
                         <a href="{{ route('lmir') }}" class="text-gray-700 block px-4 py-2 hover:bg-gray-100 hover:font-bold">LMIR</a>
-                        <a href="#" class="text-gray-700 block px-4 py-2 hover:bg-gray-100 hover:font-bold">Planning Guidelines</a>
-                        <a href="#" class="text-gray-700 block px-4 py-2 hover:bg-gray-100 hover:font-bold">Philippine TVET Statistics</a>
+                        <a href="{{ route('planning.guidelines') }}" class="text-gray-700 block px-4 py-2 hover:bg-gray-100 hover:font-bold">Planning Guidelines</a>
+                        <a href="{{ route('tvet.statistics') }}" class="text-gray-700 block px-4 py-2 hover:bg-gray-100 hover:font-bold">Philippine TVET Statistics</a>
                         <a href="https://www.tesda.gov.ph/About/TESDA/27893" target="_blank" rel="noopener noreferrer" 
                         class="text-gray-700 block px-4 py-2 hover:bg-gray-100 hover:font-bold">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" class="size-5 inline">
@@ -178,7 +178,7 @@
                                 <path fill-rule="evenodd" d="M6.194 12.753a.75.75 0 0 0 1.06.053L16.5 4.44v2.81a.75.75 0 0 0 1.5 0v-4.5a.75.75 0 0 0-.75-.75h-4.5a.75.75 0 0 0 0 1.5h2.553l-9.056 8.194a.75.75 0 0 0-.053 1.06Z" clip-rule="evenodd" />
                             </svg> TESDA Annual Report
                         </a>
-                        <a href="#" class="text-gray-700 block px-4 py-2 hover:bg-gray-100 hover:font-bold">TVET Brief</a>
+                        <a href="{{ route('tvet.brief') }}" class="text-gray-700 block px-4 py-2 hover:bg-gray-100 hover:font-bold">TVET Brief</a>
                         <a href="https://www.tesda.gov.ph/Glossary" target="_blank" rel="noopener noreferrer" 
                         class="text-gray-700 block px-4 py-2 hover:bg-gray-100 hover:font-bold">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" class="size-5 inline">
@@ -200,7 +200,7 @@
                                 <path fill-rule="evenodd" d="M6.194 12.753a.75.75 0 0 0 1.06.053L16.5 4.44v2.81a.75.75 0 0 0 1.5 0v-4.5a.75.75 0 0 0-.75-.75h-4.5a.75.75 0 0 0 0 1.5h2.553l-9.056 8.194a.75.75 0 0 0-.053 1.06Z" clip-rule="evenodd" />
                             </svg> TVET Researchers and Studies
                         </a>
-                        <a href="#" class="text-gray-700 block px-4 py-2 hover:bg-gray-100 hover:font-bold">Skills Need Anticipation: Workplace Skills and Satisfactory Journey</a>
+                        <a href="{{ route('skills.need.anticipation') }}" class="text-gray-700 block px-4 py-2 hover:bg-gray-100 hover:font-bold">Skills Need Anticipation: Workplace Skills and Satisfactory Journey</a>
                         <a href="#" class="text-gray-700 block px-4 py-2 hover:bg-gray-100 hover:font-bold">TVET Skills Insights Report</a>
                         <a href="https://bit.ly/atvercwebsite" target="_blank" rel="noopener noreferrer" 
                         class="text-gray-700 block px-4 py-2 hover:bg-gray-100 hover:font-bold hover:rounded">

@@ -22,7 +22,7 @@
                     <p class="text-blue-800 font-medium">MaGaling at MakaBagong TVET para sa Bagong Pilipinas:</p>
                     <p>TVET as a Pathway to Recovery and Socio-Economic Transformation</p>
                 </div>
-                <img src="{{ asset('images/nat-tesd-plan/NTESDP2023-2028.png') }}" alt="National TESD Plan 2023-2028" class="w-fit h-auto">
+                <img src="{{ asset('images/national-tesd-plan/NTESDP2023-2028.png') }}" alt="National TESD Plan 2023-2028" class="w-fit h-auto">
                 <p>
                     Related files can be downloaded 
                     <a href="http://bit.ly/NTESDPdownload" target="_blank" rel="noopener noreferrer">
@@ -42,7 +42,7 @@
                 <p><a href="https://drive.google.com/file/d/1oGQXa6FvWD41zKSCul-apjMiYRtFBUIm/view?usp=drive_link" target="_blank" rel="noopener noreferrer">
                         <span class="text-blue-600 hover:underline">Click to watch the NTESDP Audio-Video Presentation</span>
                 </a></p>
-                <img src="{{ asset('images/nat-tesd-plan/NTESDP2023-2028-2x.png') }}" alt="National TESD Plan 2023-2028 (2x)" class="w-fit h-auto">
+                <img src="{{ asset('images/national-tesd-plan/NTESDP2023-2028-2x.png') }}" alt="National TESD Plan 2023-2028 (2x)" class="w-fit h-auto">
                 <p>
                     The NTESDP 2023-2028 is anchored on the vision of A Globally Recognized Philippine TVET as a Catalyst for Education and Lifelong Learning, Workforce, 
                     and Socio-Economic Transformation, with Area-based Demand-driven TVET as its central strategy. This overarching vision aligns with the objectives of 
@@ -77,7 +77,7 @@
                 <div>
                     <p>For the NTESDP 2023-2028, there are ten (10) identified priority sectors, which are the country’s key employment generators.</p>
                     <div class="space-y-1">
-                        <img src="{{ asset('images/nat-tesd-plan/NTESDP2023-2028-3x.png') }}" alt="National TESD Plan 2023-2028 (3x)" class="float-left mr-4 w-fit h-auto">
+                        <img src="{{ asset('images/national-tesd-plan/NTESDP2023-2028-3x.png') }}" alt="National TESD Plan 2023-2028 (3x)" class="float-left mr-4 w-fit h-auto">
                         <ol class="list-decimal list-inside">
                             <li>Agriculture</li>
                             <li>Manufacturing (including food manufacturing and electronics)</li>
@@ -96,7 +96,7 @@
                 <div>
                     <p class="text-blue-800 font-medium">STRATEGIC FRAMEWORK</p>
                     <div class="space-y-5">
-                        <img src="{{ asset('images/nat-tesd-plan/NTESDP2023-2028-4x.png') }}" alt="National TESD Plan 2023-2028 (4x)" class="float-left mr-4 w-fit h-auto">
+                        <img src="{{ asset('images/national-tesd-plan/NTESDP2023-2028-4x.png') }}" alt="National TESD Plan 2023-2028 (4x)" class="float-left mr-4 w-fit h-auto">
                         <p>
                             The NTESDP aims for Philippine TVET shall acquire the same level and respect and recognition given to other TVET systems in the 
                             other parts of the world and shall serve as a primary platform for lifelong learning that can be accessed by every Filipino in search of 
