@@ -63,7 +63,7 @@
                                 <p class="collapsible cursor-pointer hover:text-blue-700 hover:underline">BED 1: Financial Plan</p>
                                 <ul class="[list-style-type:circle] hidden mx-4 p-2 space-y-2">
                                     <li>
-                                        <a href="#" target="_blank" rel="noopener noreferrer">
+                                        <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
                                             <span class="hover:text-blue-700 hover:underline">2025</span>
                                         </a> | 
                                         <a href="#" target="_blank" rel="noopener noreferrer">
@@ -2721,165 +2721,165 @@
                     <div class="bg-gray-200 hidden px-10 py-4 rounded">
                         <ul class="list-disc space-y-2 text-black">
                             <li>2025: 
-                                <a href="#" target="_blank" rel="noopener noreferrer">
+                                <a href="https://www.tesda.gov.ph/Uploads/File/transparency/update2025/V/V%201st%20Qtr%202025.pdf" target="_blank" rel="noopener noreferrer">
                                     <span class="hover:text-blue-700 hover:underline">1st Qtr</span>
                                 </a> | 
-                                <a href="#" target="_blank" rel="noopener noreferrer">
+                                <a href="https://www.tesda.gov.ph/Uploads/File/transparency/update2025/V/V%202nd%20Qtr%202025.pdf" target="_blank" rel="noopener noreferrer">
                                     <span class="hover:text-blue-700 hover:underline">2nd Qtr</span>
                                 </a>
                             </li>
                             <li>2024: 
-                                <a href="#" target="_blank" rel="noopener noreferrer">
+                                <a href="https://www.tesda.gov.ph/Uploads/File/transparency/update2024/V/2024%20V%201st%20Qtr.pdf" target="_blank" rel="noopener noreferrer">
                                     <span class="hover:text-blue-700 hover:underline">1st Qtr</span>
                                 </a> | 
-                                <a href="#" target="_blank" rel="noopener noreferrer">
+                                <a href="https://www.tesda.gov.ph/Uploads/File/transparency/update2024/V/2024%20Quarterly%20Status%20Report%20-%20V%20-%20Q2%20.pdf" target="_blank" rel="noopener noreferrer">
                                     <span class="hover:text-blue-700 hover:underline">2nd Qtr</span>
                                 </a> | 
-                                <a href="#" target="_blank" rel="noopener noreferrer">
+                                <a href="https://www.tesda.gov.ph/Uploads/File/transparency/update2024/V/2024%20Quarterly%20Status%20Report.xlsx%20-%20V%20-%20Q3%20.pdf" target="_blank" rel="noopener noreferrer">
                                     <span class="hover:text-blue-700 hover:underline">3rd Qtr</span>
                                 </a> | 
-                                <a href="#" target="_blank" rel="noopener noreferrer">
+                                <a href="https://www.tesda.gov.ph/Uploads/File/transparency/update2024/V/V%20-%204th%20Qtr%202024.pdf" target="_blank" rel="noopener noreferrer">
                                     <span class="hover:text-blue-700 hover:underline">4th Qtr</span>
                                 </a>
                             </li>
                             <li>2023: 
-                                <a href="#" target="_blank" rel="noopener noreferrer">
+                                <a href="https://www.tesda.gov.ph/Uploads/File/transparency/update2023/V/V%20-%20as%20of%20March%202023.pdf" target="_blank" rel="noopener noreferrer">
                                     <span class="hover:text-blue-700 hover:underline">1st Qtr</span>
                                 </a> | 
-                                <a href="#" target="_blank" rel="noopener noreferrer">
+                                <a href="https://www.tesda.gov.ph/Uploads/File/transparency/update2023/V/V%20-%202nd%20Qtr.pdf" target="_blank" rel="noopener noreferrer">
                                     <span class="hover:text-blue-700 hover:underline">2nd Qtr</span>
                                 </a> | 
-                                <a href="#" target="_blank" rel="noopener noreferrer">
+                                <a href="https://www.tesda.gov.ph/Uploads/File/transparency/update2023/V/VQ3.pdf" target="_blank" rel="noopener noreferrer">
                                     <span class="hover:text-blue-700 hover:underline">3rd Qtr</span>
                                 </a> | 
-                                <a href="#" target="_blank" rel="noopener noreferrer">
+                                <a href="https://www.tesda.gov.ph/Uploads/File/transparency/update2023/V/V%204th%20Qtr.pdf" target="_blank" rel="noopener noreferrer">
                                     <span class="hover:text-blue-700 hover:underline">4th Qtr</span>
                                 </a>
                             </li>
                             <li>2022: 
-                                <a href="#" target="_blank" rel="noopener noreferrer">
+                                <a href="https://www.tesda.gov.ph/Uploads/File/transparency/update2022/V/2022%201st%20Qtr%20V.pdf" target="_blank" rel="noopener noreferrer">
                                     <span class="hover:text-blue-700 hover:underline">1st Qtr</span>
                                 </a> | 
-                                <a href="#" target="_blank" rel="noopener noreferrer">
+                                <a href="https://www.tesda.gov.ph/Uploads/File/transparency/update2022/V/2022%202Q_V.pdf" target="_blank" rel="noopener noreferrer">
                                     <span class="hover:text-blue-700 hover:underline">2nd Qtr</span>
                                 </a> | 
-                                <a href="#" target="_blank" rel="noopener noreferrer">
+                                <a href="https://www.tesda.gov.ph/Uploads/File/transparency/update2022/V/2022%20V%20-%20Q3.pdf" target="_blank" rel="noopener noreferrer">
                                     <span class="hover:text-blue-700 hover:underline">3rd Qtr</span>
                                 </a> | 
-                                <a href="#" target="_blank" rel="noopener noreferrer">
+                                <a href="https://www.tesda.gov.ph/Uploads/File/transparency/update2022/V/V%20-%20Q4.pdf" target="_blank" rel="noopener noreferrer">
                                     <span class="hover:text-blue-700 hover:underline">4th Qtr</span>
                                 </a>
                             </li>
                             <li>2021: 
-                                <a href="#" target="_blank" rel="noopener noreferrer">
+                                <a href="https://www.tesda.gov.ph/Uploads/File/transparency/update2021/V/V-1st%20Qtr%202021.pdf" target="_blank" rel="noopener noreferrer">
                                     <span class="hover:text-blue-700 hover:underline">1st Qtr</span>
                                 </a> | 
-                                <a href="#" target="_blank" rel="noopener noreferrer">
+                                <a href="https://www.tesda.gov.ph/Uploads/File/transparency/update2021/V/V-2nd%20Qtr%202021.pdf" target="_blank" rel="noopener noreferrer">
                                     <span class="hover:text-blue-700 hover:underline">2nd Qtr</span>
                                 </a> | 
-                                <a href="#" target="_blank" rel="noopener noreferrer">
+                                <a href="https://www.tesda.gov.ph/Uploads/File/transparency/update2021/V/V%20-%20Q3%202021.pdf" target="_blank" rel="noopener noreferrer">
                                     <span class="hover:text-blue-700 hover:underline">3rd Qtr</span>
                                 </a> | 
-                                <a href="#" target="_blank" rel="noopener noreferrer">
+                                <a href="https://www.tesda.gov.ph/Uploads/File/transparency/update2021/V/V-Q4%202021.pdf" target="_blank" rel="noopener noreferrer">
                                     <span class="hover:text-blue-700 hover:underline">4th Qtr</span>
                                 </a>
                             </li>
                             <li>2020: 
-                                <a href="#" target="_blank" rel="noopener noreferrer">
+                                <a href="https://www.tesda.gov.ph/Uploads/File/transparency/update2020/V%20-%20Q1.pdf" target="_blank" rel="noopener noreferrer">
                                     <span class="hover:text-blue-700 hover:underline">1st Qtr</span>
                                 </a> | 
-                                <a href="#" target="_blank" rel="noopener noreferrer">
+                                <a href="https://www.tesda.gov.ph/Uploads/File/transparency/update2020/V%20-%20Q2.pdf" target="_blank" rel="noopener noreferrer">
                                     <span class="hover:text-blue-700 hover:underline">2nd Qtr</span>
                                 </a> | 
-                                <a href="#" target="_blank" rel="noopener noreferrer">
+                                <a href="https://www.tesda.gov.ph/Uploads/File/transparency/update2020/V%20-%20Q3.pdf" target="_blank" rel="noopener noreferrer">
                                     <span class="hover:text-blue-700 hover:underline">3rd Qtr</span>
                                 </a> | 
-                                <a href="#" target="_blank" rel="noopener noreferrer">
+                                <a href="https://www.tesda.gov.ph/Uploads/File/transparency/update2020/V%20-%20Q4.pdf" target="_blank" rel="noopener noreferrer">
                                     <span class="hover:text-blue-700 hover:underline">4th Qtr</span>
                                 </a>
                             </li>
                             <li>2019: 
-                                <a href="#" target="_blank" rel="noopener noreferrer">
+                                <a href="https://www.tesda.gov.ph/Uploads/File/transparency/update2020/V/V%20-%201Q.pdf" target="_blank" rel="noopener noreferrer">
                                     <span class="hover:text-blue-700 hover:underline">1st Qtr</span>
                                 </a> | 
-                                <a href="#" target="_blank" rel="noopener noreferrer">
+                                <a href="https://www.tesda.gov.ph/Uploads/File/transparency/update2020/V/V%20-%202Q.pdf" target="_blank" rel="noopener noreferrer">
                                     <span class="hover:text-blue-700 hover:underline">2nd Qtr</span>
                                 </a> | 
-                                <a href="#" target="_blank" rel="noopener noreferrer">
+                                <a href="https://www.tesda.gov.ph/Uploads/File/transparency/update2020/V/V%20-%203Q.pdf" target="_blank" rel="noopener noreferrer">
                                     <span class="hover:text-blue-700 hover:underline">3rd Qtr</span>
                                 </a> | 
-                                <a href="#" target="_blank" rel="noopener noreferrer">
+                                <a href="https://www.tesda.gov.ph/Uploads/File/transparency/update2020/V/V%20-%204Q.pdf" target="_blank" rel="noopener noreferrer">
                                     <span class="hover:text-blue-700 hover:underline">4th Qtr</span>
                                 </a>
                             </li>
                             <li>2018: 
-                                <a href="#" target="_blank" rel="noopener noreferrer">
+                                <a href="https://www.tesda.gov.ph/Uploads/File/transparency/update2019/V/V%20-%201Q.pdf" target="_blank" rel="noopener noreferrer">
                                     <span class="hover:text-blue-700 hover:underline">1st Qtr</span>
                                 </a> | 
-                                <a href="#" target="_blank" rel="noopener noreferrer">
+                                <a href="https://www.tesda.gov.ph/Uploads/File/transparency/update2019/V/V%20-%202Q.pdf" target="_blank" rel="noopener noreferrer">
                                     <span class="hover:text-blue-700 hover:underline">2nd Qtr</span>
                                 </a> | 
-                                <a href="#" target="_blank" rel="noopener noreferrer">
+                                <a href="https://www.tesda.gov.ph/Uploads/File/transparency/update2019/V/V%20-%203Q.pdf" target="_blank" rel="noopener noreferrer">
                                     <span class="hover:text-blue-700 hover:underline">3rd Qtr</span>
                                 </a> | 
-                                <a href="#" target="_blank" rel="noopener noreferrer">
+                                <a href="https://www.tesda.gov.ph/Uploads/File/transparency/update2019/V/V-%204Q.pdf" target="_blank" rel="noopener noreferrer">
                                     <span class="hover:text-blue-700 hover:underline">4th Qtr</span>
                                 </a>
                             </li>
                             <li>2017: 
-                                <a href="#" target="_blank" rel="noopener noreferrer">
+                                <a href="https://www.tesda.gov.ph/Uploads/File/transparency/update2018/V/V%20-%20Q1.pdf" target="_blank" rel="noopener noreferrer">
                                     <span class="hover:text-blue-700 hover:underline">1st Qtr</span>
                                 </a> | 
-                                <a href="#" target="_blank" rel="noopener noreferrer">
+                                <a href="https://www.tesda.gov.ph/Uploads/File/transparency/update2018/V/V%20-%20Q2.pdf" target="_blank" rel="noopener noreferrer">
                                     <span class="hover:text-blue-700 hover:underline">2nd Qtr</span>
                                 </a> | 
-                                <a href="#" target="_blank" rel="noopener noreferrer">
+                                <a href="https://www.tesda.gov.ph/Uploads/File/transparency/update2018/V/V%20-%20Q3.pdf" target="_blank" rel="noopener noreferrer">
                                     <span class="hover:text-blue-700 hover:underline">3rd Qtr</span>
                                 </a> | 
-                                <a href="#" target="_blank" rel="noopener noreferrer">
+                                <a href="https://www.tesda.gov.ph/Uploads/File/transparency/update2018/V/V%20-%20Q4.pdf" target="_blank" rel="noopener noreferrer">
                                     <span class="hover:text-blue-700 hover:underline">4th Qtr</span>
                                 </a>
                             </li>
                             <li>2016: 
-                                <a href="#" target="_blank" rel="noopener noreferrer">
+                                <a href="https://www.tesda.gov.ph/Uploads/File/transparency/Update2016/Major_Beneficiaries_Implementation/KRA%20AO%20March%202016.pdf" target="_blank" rel="noopener noreferrer">
                                     <span class="hover:text-blue-700 hover:underline">1st Qtr</span>
                                 </a> | 
-                                <a href="#" target="_blank" rel="noopener noreferrer">
+                                <a href="https://www.tesda.gov.ph/Uploads/File/transparency/Update2016/Major_Beneficiaries_Implementation/KRA%20AO%20June%202016.pdf" target="_blank" rel="noopener noreferrer">
                                     <span class="hover:text-blue-700 hover:underline">2nd Qtr</span>
                                 </a> | 
-                                <a href="#" target="_blank" rel="noopener noreferrer">
+                                <a href="https://www.tesda.gov.ph/Uploads/File/transparency/update2017/Major_Beneficiaries/KRA%20AO%20SEPTEMBER%202016.pdf" target="_blank" rel="noopener noreferrer">
                                     <span class="hover:text-blue-700 hover:underline">3rd Qtr</span>
                                 </a> | 
-                                <a href="#" target="_blank" rel="noopener noreferrer">
+                                <a href="https://www.tesda.gov.ph/Uploads/File/transparency/update2017/Major_Beneficiaries/KRA%20AO%20DEC%202016.pdf" target="_blank" rel="noopener noreferrer">
                                     <span class="hover:text-blue-700 hover:underline">4th Qtr</span>
                                 </a>
                             </li>
                             <li>
-                                <a href="#" target="_blank" rel="noopener noreferrer">
+                                <a href="https://www.tesda.gov.ph/Uploads/File/transparency/Update2016/Major_Beneficiaries_Implementation/Transparency%20Seal-AO%20DECEMBER%202015.pdf" target="_blank" rel="noopener noreferrer">
                                     <span class="hover:text-blue-700 hover:underline">2015</span>
                                 </a>
                             </li>
                             <li>
-                                <a href="#" target="_blank" rel="noopener noreferrer">
+                                <a href="https://www.tesda.gov.ph/Uploads/File/transparency/update2014/Major_beneficiaries_implementation/Status%20of%20ProgProj%20Implementation%20as%20of%20August%202014.pdf" target="_blank" rel="noopener noreferrer">
                                     <span class="hover:text-blue-700 hover:underline">2014</span>
                                 </a>
                             </li>
                             <li>2013: 
-                                <a href="#" target="_blank" rel="noopener noreferrer">
+                                <a href="https://www.tesda.gov.ph/uploads/File/transparency/update2013/Major_beneficiaries_implementation/Status%20of%20ProgProj%20Implementation%20as%20of%201st%20Qtr.%202013.pdf" target="_blank" rel="noopener noreferrer">
                                     <span class="hover:text-blue-700 hover:underline">1st Qtr</span>
                                 </a> | 
-                                <a href="#" target="_blank" rel="noopener noreferrer">
+                                <a href="https://www.tesda.gov.ph/uploads/File/transparency/update2013/Major_beneficiaries_implementation/Status%20of%20ProgProj%20Implementation%20as%20of%202nd%20Qtr.%202013.pdf" target="_blank" rel="noopener noreferrer">
                                     <span class="hover:text-blue-700 hover:underline">2nd Qtr</span>
                                 </a> | 
-                                <a href="#" target="_blank" rel="noopener noreferrer">
+                                <a href="https://www.tesda.gov.ph/uploads/File/transparency/update2013/Major_beneficiaries_implementation/Status%20of%20ProgProj%20Implementation%20as%20of%203rd%20Qtr.%202013.pdf" target="_blank" rel="noopener noreferrer">
                                     <span class="hover:text-blue-700 hover:underline">3rd Qtr</span>
                                 </a> | 
-                                <a href="#" target="_blank" rel="noopener noreferrer">
+                                <a href="https://www.tesda.gov.ph/uploads/File/transparency/update2013/Major_beneficiaries_implementation/Status%20of%20ProgProj%20Implementation%20as%20of%204th%20Qtr.%202013.pdf" target="_blank" rel="noopener noreferrer">
                                     <span class="hover:text-blue-700 hover:underline">4th Qtr</span>
                                 </a>
                             </li>
                             <li>
-                                <a href="#" target="_blank" rel="noopener noreferrer">
+                                <a href="https://www.tesda.gov.ph/uploads/File/transparency/TESDA%20Prog%20by%20KRA.pdf" target="_blank" rel="noopener noreferrer">
                                     <span class="hover:text-blue-700 hover:underline">2012</span>
                                 </a>
                             </li>
@@ -2893,165 +2893,165 @@
                     <div class="bg-gray-200 hidden px-10 py-4 rounded">
                         <ul class="list-disc space-y-2 text-black">
                             <li>2025: 
-                                <a href="#" target="_blank" rel="noopener noreferrer">
+                                <a href="https://www.tesda.gov.ph/Uploads/File/transparency/update2025/VI/VI%201st%20Qtr%202025.pdf" target="_blank" rel="noopener noreferrer">
                                     <span class="hover:text-blue-700 hover:underline">1st Qtr</span>
                                 </a> | 
-                                <a href="#" target="_blank" rel="noopener noreferrer">
+                                <a href="https://www.tesda.gov.ph/Uploads/File/transparency/update2025/VI/VI%202nd%20Qtr%202025.pdf" target="_blank" rel="noopener noreferrer">
                                     <span class="hover:text-blue-700 hover:underline">2nd Qtr</span>
                                 </a>
                             </li>
                             <li>2024: 
-                                <a href="#" target="_blank" rel="noopener noreferrer">
+                                <a href="https://www.tesda.gov.ph/Uploads/File/transparency/update2024/VI/FY%202024_VI_1st%20Quarter.pdf" target="_blank" rel="noopener noreferrer">
                                     <span class="hover:text-blue-700 hover:underline">1st Qtr</span>
                                 </a> | 
-                                <a href="#" target="_blank" rel="noopener noreferrer">
+                                <a href="https://www.tesda.gov.ph/Uploads/File/transparency/update2024/VI/2024%20Quarterly%20Status%20Report%20-%20VI%20-%202.pdf" target="_blank" rel="noopener noreferrer">
                                     <span class="hover:text-blue-700 hover:underline">2nd Qtr</span>
                                 </a> | 
-                                <a href="#" target="_blank" rel="noopener noreferrer">
+                                <a href="https://www.tesda.gov.ph/Uploads/File/transparency/update2024/VI/2024%20Quarterly%20Status%20Report%20%20-%20VI%20-%20Q3.pdf" target="_blank" rel="noopener noreferrer">
                                     <span class="hover:text-blue-700 hover:underline">3rd Qtr</span>
                                 </a> | 
-                                <a href="#" target="_blank" rel="noopener noreferrer">
+                                <a href="https://www.tesda.gov.ph/Uploads/File/transparency/update2024/VI/VI%20-%204th%20Qtr%202024.pdf" target="_blank" rel="noopener noreferrer">
                                     <span class="hover:text-blue-700 hover:underline">4th Qtr</span>
                                 </a>
                             </li>
                             <li>2023: 
-                                <a href="#" target="_blank" rel="noopener noreferrer">
+                                <a href="https://www.tesda.gov.ph/Uploads/File/transparency/update2023/VI/VI%20-%20March%202023.pdf" target="_blank" rel="noopener noreferrer">
                                     <span class="hover:text-blue-700 hover:underline">1st Qtr</span>
                                 </a> | 
-                                <a href="#" target="_blank" rel="noopener noreferrer">
+                                <a href="https://www.tesda.gov.ph/Uploads/File/transparency/update2023/VI/VI%20-%202nd%20Qtr.pdf" target="_blank" rel="noopener noreferrer">
                                     <span class="hover:text-blue-700 hover:underline">2nd Qtr</span>
                                 </a> | 
-                                <a href="#" target="_blank" rel="noopener noreferrer">
+                                <a href="https://www.tesda.gov.ph/Uploads/File/transparency/update2023/VI/VI%20Q3.pdf" target="_blank" rel="noopener noreferrer">
                                     <span class="hover:text-blue-700 hover:underline">3rd Qtr</span>
                                 </a> | 
-                                <a href="#" target="_blank" rel="noopener noreferrer">
+                                <a href="https://www.tesda.gov.ph/Uploads/File/transparency/update2023/VI/FY%202023%20_VI%20v2_4th%20Quarter.pdf" target="_blank" rel="noopener noreferrer">
                                     <span class="hover:text-blue-700 hover:underline">4th Qtr</span>
                                 </a>
                             </li>
                             <li>2022: 
-                                <a href="#" target="_blank" rel="noopener noreferrer">
+                                <a href="https://www.tesda.gov.ph/Uploads/File/transparency/update2022/VI/2022%201st%20Qtr%20VI.pdf" target="_blank" rel="noopener noreferrer">
                                     <span class="hover:text-blue-700 hover:underline">1st Qtr</span>
                                 </a> | 
-                                <a href="#" target="_blank" rel="noopener noreferrer">
+                                <a href="https://www.tesda.gov.ph/Uploads/File/transparency/update2022/VI/2022%202Q_VI.pdf" target="_blank" rel="noopener noreferrer">
                                     <span class="hover:text-blue-700 hover:underline">2nd Qtr</span>
                                 </a> | 
-                                <a href="#" target="_blank" rel="noopener noreferrer">
+                                <a href="https://www.tesda.gov.ph/Uploads/File/transparency/update2022/VI/2022%20VI%20-%20Q3.pdf" target="_blank" rel="noopener noreferrer">
                                     <span class="hover:text-blue-700 hover:underline">3rd Qtr</span>
                                 </a> | 
-                                <a href="#" target="_blank" rel="noopener noreferrer">
+                                <a href="https://www.tesda.gov.ph/Uploads/File/transparency/update2022/VI/VI%20-%20Q4%20v2.pdf" target="_blank" rel="noopener noreferrer">
                                     <span class="hover:text-blue-700 hover:underline">4th Qtr</span>
                                 </a>
                             </li>
                             <li>2021: 
-                                <a href="#" target="_blank" rel="noopener noreferrer">
+                                <a href="https://www.tesda.gov.ph/Uploads/File/transparency/update2021/VI/VI-1st%20Qtr%202021.pdf" target="_blank" rel="noopener noreferrer">
                                     <span class="hover:text-blue-700 hover:underline">1st Qtr</span>
                                 </a> | 
-                                <a href="#" target="_blank" rel="noopener noreferrer">
+                                <a href="https://www.tesda.gov.ph/Uploads/File/transparency/update2021/VI/VI-2nd%20Qtr%202021.pdf" target="_blank" rel="noopener noreferrer">
                                     <span class="hover:text-blue-700 hover:underline">2nd Qtr</span>
                                 </a> | 
-                                <a href="#" target="_blank" rel="noopener noreferrer">
+                                <a href="https://www.tesda.gov.ph/Uploads/File/transparency/update2021/VI/VI%20-%20Q3%202021.pdf" target="_blank" rel="noopener noreferrer">
                                     <span class="hover:text-blue-700 hover:underline">3rd Qtr</span>
                                 </a> | 
-                                <a href="#" target="_blank" rel="noopener noreferrer">
+                                <a href="https://www.tesda.gov.ph/Uploads/File/transparency/update2021/VI/VI-Q4%202021.pdf" target="_blank" rel="noopener noreferrer">
                                     <span class="hover:text-blue-700 hover:underline">4th Qtr</span>
                                 </a>
                             </li>
                             <li>2020: 
-                                <a href="#" target="_blank" rel="noopener noreferrer">
+                                <a href="https://www.tesda.gov.ph/Uploads/File/transparency/update2020/VI%20-%20Q1.pdf" target="_blank" rel="noopener noreferrer">
                                     <span class="hover:text-blue-700 hover:underline">1st Qtr</span>
                                 </a> | 
-                                <a href="#" target="_blank" rel="noopener noreferrer">
+                                <a href="https://www.tesda.gov.ph/Uploads/File/transparency/update2020/VI%20-%20Q2.pdf" target="_blank" rel="noopener noreferrer">
                                     <span class="hover:text-blue-700 hover:underline">2nd Qtr</span>
                                 </a> | 
-                                <a href="#" target="_blank" rel="noopener noreferrer">
+                                <a href="https://www.tesda.gov.ph/Uploads/File/transparency/update2020/VI%20-%20Q3.pdf" target="_blank" rel="noopener noreferrer">
                                     <span class="hover:text-blue-700 hover:underline">3rd Qtr</span>
                                 </a> | 
-                                <a href="#" target="_blank" rel="noopener noreferrer">
+                                <a href="https://www.tesda.gov.ph/Uploads/File/transparency/update2020/VI%20-%20Q4.pdf" target="_blank" rel="noopener noreferrer">
                                     <span class="hover:text-blue-700 hover:underline">4th Qtr</span>
                                 </a>
                             </li>
                             <li>2019: 
-                                <a href="#" target="_blank" rel="noopener noreferrer">
+                                <a href="https://www.tesda.gov.ph/Uploads/File/transparency/update2020/VI/VI%20-%201Q.pdf" target="_blank" rel="noopener noreferrer">
                                     <span class="hover:text-blue-700 hover:underline">1st Qtr</span>
                                 </a> | 
-                                <a href="#" target="_blank" rel="noopener noreferrer">
+                                <a href="https://www.tesda.gov.ph/Uploads/File/transparency/update2020/VI/VI%20-%202Q.pdf" target="_blank" rel="noopener noreferrer">
                                     <span class="hover:text-blue-700 hover:underline">2nd Qtr</span>
                                 </a> | 
-                                <a href="#" target="_blank" rel="noopener noreferrer">
+                                <a href="https://www.tesda.gov.ph/Uploads/File/transparency/update2020/VI/VI%20-%203Q.pdf" target="_blank" rel="noopener noreferrer">
                                     <span class="hover:text-blue-700 hover:underline">3rd Qtr</span>
                                 </a> | 
-                                <a href="#" target="_blank" rel="noopener noreferrer">
+                                <a href="https://www.tesda.gov.ph/Uploads/File/transparency/update2020/VI/VI%20-%204Q.pdf" target="_blank" rel="noopener noreferrer">
                                     <span class="hover:text-blue-700 hover:underline">4th Qtr</span>
                                 </a>
                             </li>
                             <li>2018: 
-                                <a href="#" target="_blank" rel="noopener noreferrer">
+                                <a href="https://www.tesda.gov.ph/Uploads/File/transparency/update2019/VI/VI%20-%201Q.pdf" target="_blank" rel="noopener noreferrer">
                                     <span class="hover:text-blue-700 hover:underline">1st Qtr</span>
                                 </a> | 
-                                <a href="#" target="_blank" rel="noopener noreferrer">
+                                <a href="https://www.tesda.gov.ph/Uploads/File/transparency/update2019/VI/VI%20-%202Q.pdf" target="_blank" rel="noopener noreferrer">
                                     <span class="hover:text-blue-700 hover:underline">2nd Qtr</span>
                                 </a> | 
-                                <a href="#" target="_blank" rel="noopener noreferrer">
+                                <a href="https://www.tesda.gov.ph/Uploads/File/transparency/update2019/VI/VI%20-%203Q.pdf" target="_blank" rel="noopener noreferrer">
                                     <span class="hover:text-blue-700 hover:underline">3rd Qtr</span>
                                 </a> | 
-                                <a href="#" target="_blank" rel="noopener noreferrer">
+                                <a href="https://www.tesda.gov.ph/Uploads/File/transparency/update2019/VI/VI%20-%204Q.pdf" target="_blank" rel="noopener noreferrer">
                                     <span class="hover:text-blue-700 hover:underline">4th Qtr</span>
                                 </a>
                             </li>
                             <li>2017: 
-                                <a href="#" target="_blank" rel="noopener noreferrer">
+                                <a href="https://www.tesda.gov.ph/Uploads/File/transparency/update2018/VI/VI%20-%202017%20Status%20(Q1).pdf" target="_blank" rel="noopener noreferrer">
                                     <span class="hover:text-blue-700 hover:underline">1st Qtr</span>
                                 </a> | 
-                                <a href="#" target="_blank" rel="noopener noreferrer">
+                                <a href="https://www.tesda.gov.ph/Uploads/File/transparency/update2018/VI/VI%20-%202017%20Status%20(Q2).pdf" target="_blank" rel="noopener noreferrer">
                                     <span class="hover:text-blue-700 hover:underline">2nd Qtr</span>
                                 </a> | 
-                                <a href="#" target="_blank" rel="noopener noreferrer">
+                                <a href="https://www.tesda.gov.ph/Uploads/File/transparency/update2018/VI/VI%20-%202017%20Status%20(Q3).pdf" target="_blank" rel="noopener noreferrer">
                                     <span class="hover:text-blue-700 hover:underline">3rd Qtr</span>
                                 </a> | 
-                                <a href="#" target="_blank" rel="noopener noreferrer">
+                                <a href="https://www.tesda.gov.ph/Uploads/File/transparency/update2018/VI/VI%20-%202017%20Status%20(Q4).pdf" target="_blank" rel="noopener noreferrer">
                                     <span class="hover:text-blue-700 hover:underline">4th Qtr</span>
                                 </a>
                             </li>
                             <li>2016: 
-                                <a href="#" target="_blank" rel="noopener noreferrer">
+                                <a href="https://www.tesda.gov.ph/Uploads/File/transparency/Update2016/Major_Beneficiaries_Implementation/KRA%20AO%20March%202016.pdf" target="_blank" rel="noopener noreferrer">
                                     <span class="hover:text-blue-700 hover:underline">1st Qtr</span>
                                 </a> | 
-                                <a href="#" target="_blank" rel="noopener noreferrer">
+                                <a href="https://www.tesda.gov.ph/Uploads/File/transparency/Update2016/Major_Beneficiaries_Implementation/KRA%20AO%20June%202016.pdf" target="_blank" rel="noopener noreferrer">
                                     <span class="hover:text-blue-700 hover:underline">2nd Qtr</span>
                                 </a> | 
-                                <a href="#" target="_blank" rel="noopener noreferrer">
+                                <a href="https://www.tesda.gov.ph/Uploads/File/transparency/update2017/Major_Beneficiaries/KRA%20AO%20SEPTEMBER%202016.pdf" target="_blank" rel="noopener noreferrer">
                                     <span class="hover:text-blue-700 hover:underline">3rd Qtr</span>
                                 </a> | 
-                                <a href="#" target="_blank" rel="noopener noreferrer">
+                                <a href="https://www.tesda.gov.ph/Uploads/File/transparency/update2017/Major_Beneficiaries/KRA%20AO%20DEC%202016.pdf" target="_blank" rel="noopener noreferrer">
                                     <span class="hover:text-blue-700 hover:underline">4th Qtr</span>
                                 </a>
                             </li>
                             <li>
-                                <a href="#" target="_blank" rel="noopener noreferrer">
+                                <a href="https://www.tesda.gov.ph/Uploads/File/transparency/Update2016/Major_Beneficiaries_Implementation/Transparency%20Seal-AO%20DECEMBER%202015.pdf" target="_blank" rel="noopener noreferrer">
                                     <span class="hover:text-blue-700 hover:underline">2015</span>
                                 </a>
                             </li>
                             <li>
-                                <a href="#" target="_blank" rel="noopener noreferrer">
+                                <a href="https://www.tesda.gov.ph/Uploads/File/transparency/update2014/Major_beneficiaries_implementation/Status%20of%20ProgProj%20Implementation%20as%20of%20August%202014.pdf" target="_blank" rel="noopener noreferrer">
                                     <span class="hover:text-blue-700 hover:underline">2014</span>
                                 </a>
                             </li>
                             <li>2013: 
-                                <a href="#" target="_blank" rel="noopener noreferrer">
+                                <a href="https://www.tesda.gov.ph/uploads/File/transparency/update2013/Major_beneficiaries_implementation/Status%20of%20ProgProj%20Implementation%20as%20of%201st%20Qtr.%202013.pdf" target="_blank" rel="noopener noreferrer">
                                     <span class="hover:text-blue-700 hover:underline">1st Qtr</span>
                                 </a> | 
-                                <a href="#" target="_blank" rel="noopener noreferrer">
+                                <a href="https://www.tesda.gov.ph/uploads/File/transparency/update2013/Major_beneficiaries_implementation/Status%20of%20ProgProj%20Implementation%20as%20of%202nd%20Qtr.%202013.pdf" target="_blank" rel="noopener noreferrer">
                                     <span class="hover:text-blue-700 hover:underline">2nd Qtr</span>
                                 </a> | 
-                                <a href="#" target="_blank" rel="noopener noreferrer">
+                                <a href="https://www.tesda.gov.ph/uploads/File/transparency/update2013/Major_beneficiaries_implementation/Status%20of%20ProgProj%20Implementation%20as%20of%203rd%20Qtr.%202013.pdf" target="_blank" rel="noopener noreferrer">
                                     <span class="hover:text-blue-700 hover:underline">3rd Qtr</span>
                                 </a> | 
-                                <a href="#" target="_blank" rel="noopener noreferrer">
+                                <a href="https://www.tesda.gov.ph/uploads/File/transparency/update2013/Major_beneficiaries_implementation/Status%20of%20ProgProj%20Implementation%20as%20of%204th%20Qtr.%202013.pdf" target="_blank" rel="noopener noreferrer">
                                     <span class="hover:text-blue-700 hover:underline">4th Qtr</span>
                                 </a>
                             </li>
                             <li>
-                                <a href="#" target="_blank" rel="noopener noreferrer">
+                                <a href="https://www.tesda.gov.ph/uploads/File/transparency/TESDA%20Prog%20by%20KRA.pdf" target="_blank" rel="noopener noreferrer">
                                     <span class="hover:text-blue-700 hover:underline">2012</span>
                                 </a>
                             </li>
@@ -3071,33 +3071,13 @@
                                         <p class="collapsible cursor-pointer hover:text-blue-700 hover:underline">2025</p>
                                         <ul class="[list-style-type:square] hidden mx-4 p-2 space-y-2">
                                             <li>
-                                                <a href="#" target="_blank" rel="noopener noreferrer">
-                                                    <span class="hover:text-blue-700 hover:underline">FY 2025 Annual Procurement Plan (Changes within 1st Semester)</span>
+                                                <a href="http://gofile.me/5G3uP/m07fAtxl7" target="_blank" rel="noopener noreferrer">
+                                                    <span class="hover:text-blue-700 hover:underline">FY 2025 APP Non-CSE</span>
                                                 </a>
                                             </li>
                                             <li>
-                                                <a href="#" target="_blank" rel="noopener noreferrer">
-                                                    <span class="hover:text-blue-700 hover:underline">TESDA CO APP 2025</span>
-                                                </a>
-                                            </li>
-                                            <li>
-                                                <a href="#" target="_blank" rel="noopener noreferrer">
+                                                <a href="http://gofile.me/5G3uP/rvzkcuDhz" target="_blank" rel="noopener noreferrer">
                                                     <span class="hover:text-blue-700 hover:underline">FY 2025 APP CSE</span>
-                                                </a>
-                                            </li>
-                                            <li>
-                                                <a href="#" target="_blank" rel="noopener noreferrer">
-                                                    <span class="hover:text-blue-700 hover:underline">FY 2025 INDICATIVE APP NON-CSE (SSP)</span>
-                                                </a>
-                                            </li>
-                                            <li>
-                                                <a href="#" target="_blank" rel="noopener noreferrer">
-                                                    <span class="hover:text-blue-700 hover:underline">FY 2025 INDICATIVE APP NON-CSE</span>
-                                                </a>
-                                            </li>
-                                            <li>
-                                                <a href="#" target="_blank" rel="noopener noreferrer">
-                                                    <span class="hover:text-blue-700 hover:underline">FY 2026 Indicative Annual Procurement Plan non-CSE</span>
                                                 </a>
                                             </li>
                                         </ul>
@@ -3106,33 +3086,13 @@
                                         <p class="collapsible cursor-pointer hover:text-blue-700 hover:underline">2024</p>
                                         <ul class="[list-style-type:square] hidden mx-4 p-2 space-y-2">
                                             <li>
-                                                <a href="#" target="_blank" rel="noopener noreferrer">
-                                                    <span class="hover:text-blue-700 hover:underline">2024 - APP Changes within 2nd Sem (SSP)</span>
+                                                <a href="http://gofile.me/5G3uP/889jyJFue" target="_blank" rel="noopener noreferrer">
+                                                    <span class="hover:text-blue-700 hover:underline">FY 2024 APP Non-CSE</span>
                                                 </a>
                                             </li>
                                             <li>
-                                                <a href="#" target="_blank" rel="noopener noreferrer">
-                                                    <span class="hover:text-blue-700 hover:underline">APP Changes within the 2nd Sem (GAA)</span>
-                                                </a>
-                                            </li>
-                                            <li>
-                                                <a href="#" target="_blank" rel="noopener noreferrer">
-                                                    <span class="hover:text-blue-700 hover:underline">FY 2024 PMR 2nd Semester</span>
-                                                </a>
-                                            </li>
-                                            <li>
-                                                <a href="#" target="_blank" rel="noopener noreferrer">
-                                                    <span class="hover:text-blue-700 hover:underline">FY 2024 Annual Procurement Plan (Changes within 1st Semester)</span>
-                                                </a>
-                                            </li>
-                                            <li>
-                                                <a href="#" target="_blank" rel="noopener noreferrer">
-                                                    <span class="hover:text-blue-700 hover:underline">FY 2024 Annual Procurement Plan</span>
-                                                </a>
-                                            </li>
-                                            <li>
-                                                <a href="#" target="_blank" rel="noopener noreferrer">
-                                                    <span class="hover:text-blue-700 hover:underline">FY 2024 PMR 1st Semester</span>
+                                                <a href="http://gofile.me/5G3uP/YPhrknUB2" target="_blank" rel="noopener noreferrer">
+                                                    <span class="hover:text-blue-700 hover:underline">FY 2024 APP CSE</span>
                                                 </a>
                                             </li>
                                         </ul>
@@ -3141,27 +3101,27 @@
                                         <p class="collapsible cursor-pointer hover:text-blue-700 hover:underline">2023</p>
                                         <ul class="[list-style-type:square] hidden mx-4 p-2 space-y-2">
                                             <li>
-                                                <a href="#" target="_blank" rel="noopener noreferrer">
+                                                <a href="http://gofile.me/5G3uP/CVEvCpj5u" target="_blank" rel="noopener noreferrer">
                                                     <span class="hover:text-blue-700 hover:underline">FY 2023 Indicative APP</span>
                                                 </a>
                                             </li>
                                             <li>
-                                                <a href="#" target="_blank" rel="noopener noreferrer">
+                                                <a href="http://gofile.me/5G3uP/zT3emk7V6" target="_blank" rel="noopener noreferrer">
                                                     <span class="hover:text-blue-700 hover:underline">FY 2023 APP Non-CSE</span>
                                                 </a>
                                             </li>
                                             <li>
-                                                <a href="#" target="_blank" rel="noopener noreferrer">
+                                                <a href="http://gofile.me/5G3uP/382f4PzZi" target="_blank" rel="noopener noreferrer">
                                                     <span class="hover:text-blue-700 hover:underline">FY 2023 APP CSE</span>
                                                 </a>
                                             </li>
                                             <li>
-                                                <a href="#" target="_blank" rel="noopener noreferrer">
+                                                <a href="http://gofile.me/5G3uP/13YUVag7r" target="_blank" rel="noopener noreferrer">
                                                     <span class="hover:text-blue-700 hover:underline">FY 2023 APP 1st Quater (Supplemental)</span>
                                                 </a>
                                             </li>
                                             <li>
-                                                <a href="#" target="_blank" rel="noopener noreferrer">
+                                                <a href="http://gofile.me/5G3uP/jFVxIfbOH" target="_blank" rel="noopener noreferrer">
                                                     <span class="hover:text-blue-700 hover:underline">FY 2023 APP 2nd Quarter (Supplemental)</span>
                                                 </a>
                                             </li>
@@ -3171,17 +3131,17 @@
                                         <p class="collapsible cursor-pointer hover:text-blue-700 hover:underline">2022</p>
                                         <ul class="[list-style-type:square] hidden mx-4 p-2 space-y-2">
                                             <li>
-                                                <a href="#" target="_blank" rel="noopener noreferrer">
+                                                <a href="http://gofile.me/5G3uP/UJ6aFLr8l" target="_blank" rel="noopener noreferrer">
                                                     <span class="hover:text-blue-700 hover:underline">FY 2022 Indicative APP - CSE</span>
                                                 </a>
                                             </li>
                                             <li>
-                                                <a href="#" target="_blank" rel="noopener noreferrer">
+                                                <a href="http://gofile.me/5G3uP/bfaOZST0e" target="_blank" rel="noopener noreferrer">
                                                     <span class="hover:text-blue-700 hover:underline">FY 2022 APP CSE</span>
                                                 </a>
                                             </li>
                                             <li>
-                                                <a href="#" target="_blank" rel="noopener noreferrer">
+                                                <a href="http://gofile.me/5G3uP/tb2qbGA4y" target="_blank" rel="noopener noreferrer">
                                                     <span class="hover:text-blue-700 hover:underline">FY 2022 APP Non-CSE (Final)</span>
                                                 </a>
                                             </li>
@@ -3196,12 +3156,12 @@
                                                 </a>
                                             </li>
                                             <li>
-                                                <a href="#" target="_blank" rel="noopener noreferrer">
+                                                <a href="http://gofile.me/5G3uP/eOc1EyCva" target="_blank" rel="noopener noreferrer">
                                                     <span class="hover:text-blue-700 hover:underline">FY 2021 Indicative APP Non-CSE</span>
                                                 </a>
                                             </li>
                                             <li>
-                                                <a href="#" target="_blank" rel="noopener noreferrer">
+                                                <a href="http://gofile.me/5G3uP/krji3Rh6b" target="_blank" rel="noopener noreferrer">
                                                     <span class="hover:text-blue-700 hover:underline">FY 2021 APP</span>
                                                 </a>
                                             </li>
@@ -3211,12 +3171,12 @@
                                         <p class="collapsible cursor-pointer hover:text-blue-700 hover:underline">2020</p>
                                         <ul class="[list-style-type:square] hidden mx-4 p-2 space-y-2">
                                             <li>
-                                                <a href="#" target="_blank" rel="noopener noreferrer">
+                                                <a href="http://gofile.me/5G3uP/SaBZgywMY" target="_blank" rel="noopener noreferrer">
                                                     <span class="hover:text-blue-700 hover:underline">FY 2020 APP Non-CSE</span>
                                                 </a>
                                             </li>
                                             <li>
-                                                <a href="#" target="_blank" rel="noopener noreferrer">
+                                                <a href="http://gofile.me/5G3uP/SaBZgywMY" target="_blank" rel="noopener noreferrer">
                                                     <span class="hover:text-blue-700 hover:underline">FY 2020 APP-CSE</span>
                                                 </a>
                                             </li>
@@ -3226,37 +3186,37 @@
                                         <p class="collapsible cursor-pointer hover:text-blue-700 hover:underline">2019</p>
                                         <ul class="[list-style-type:square] hidden mx-4 p-2 space-y-2">
                                             <li>
-                                                <a href="#" target="_blank" rel="noopener noreferrer">
+                                                <a href="http://gofile.me/5G3uP/XbZ2hyGAm" target="_blank" rel="noopener noreferrer">
                                                     <span class="hover:text-blue-700 hover:underline">APP CSE District Offices</span>
                                                 </a>
                                             </li>
                                             <li>
-                                                <a href="#" target="_blank" rel="noopener noreferrer">
+                                                <a href="http://gofile.me/5G3uP/Ab1WFgjMX" target="_blank" rel="noopener noreferrer">
                                                     <span class="hover:text-blue-700 hover:underline">APP CSE</span>
                                                 </a>
                                             </li>
                                         </ul>
                                     </li>
                                     <li>
-                                        <a href="" target="_blank" rel="noopener noreferrer">
+                                        <a href="http://gofile.me/5G3uP/rKmEDdXLj" target="_blank" rel="noopener noreferrer">
                                             <span class="hover:text-blue-700 hover:underline">2018</span>
                                         </a> | 
-                                        <a href="" target="_blank" rel="noopener noreferrer">
+                                        <a href="http://gofile.me/5G3uP/u68UfQGVj" target="_blank" rel="noopener noreferrer">
                                             <span class="hover:text-blue-700 hover:underline">2017</span>
                                         </a> | 
-                                        <a href="" target="_blank" rel="noopener noreferrer">
+                                        <a href="http://gofile.me/5G3uP/9wAabh8qX" target="_blank" rel="noopener noreferrer">
                                             <span class="hover:text-blue-700 hover:underline">2016</span>
                                         </a> | 
-                                        <a href="" target="_blank" rel="noopener noreferrer">
+                                        <a href="http://gofile.me/5G3uP/c8aBkW1l3" target="_blank" rel="noopener noreferrer">
                                             <span class="hover:text-blue-700 hover:underline">2015</span>
                                         </a> | 
-                                        <a href="" target="_blank" rel="noopener noreferrer">
+                                        <a href="http://gofile.me/5G3uP/oVPIT5xu6" target="_blank" rel="noopener noreferrer">
                                             <span class="hover:text-blue-700 hover:underline">2014</span>
                                         </a> | 
-                                        <a href="" target="_blank" rel="noopener noreferrer">
+                                        <a href="http://gofile.me/5G3uP/Lr2oxgYAL" target="_blank" rel="noopener noreferrer">
                                             <span class="hover:text-blue-700 hover:underline">2013</span>
                                         </a> | 
-                                        <a href="" target="_blank" rel="noopener noreferrer">
+                                        <a href="http://gofile.me/5G3uP/XAuCbufC1" target="_blank" rel="noopener noreferrer">
                                             <span class="hover:text-blue-700 hover:underline">2012</span>
                                         </a>
                                     </li>
@@ -3266,12 +3226,12 @@
                                 <p class="collapsible cursor-pointer hover:text-blue-700 hover:underline">Agency Procurement Compliance and Performance Indicator System (APCPI)</p>
                                 <ul class="[list-style-type:circle] hidden mx-4 p-2 space-y-2">
                                     <li>
-                                        <a href="#" target="_blank" rel="noopener noreferrer">
+                                        <a href="http://gofile.me/5G3uP/TOWb978Ik" target="_blank" rel="noopener noreferrer">
                                             <span class="hover:text-blue-700 hover:underline">2021 APCPI</span>
                                         </a>
                                     </li>
                                     <li>
-                                        <a href="#" target="_blank" rel="noopener noreferrer">
+                                        <a href="http://gofile.me/5G3uP/TClHFC72j" target="_blank" rel="noopener noreferrer">
                                             <span class="hover:text-blue-700 hover:underline">2020 APCPI</span>
                                         </a>
                                     </li>
@@ -3281,10 +3241,10 @@
                                 <p class="collapsible cursor-pointer hover:text-blue-700 hover:underline">Contracts awarded and Names of Suppliers/Contractors/Consultants</p>
                                 <ul class="[list-style-type:circle] hidden mx-4 p-2 space-y-2">
                                     <li>
-                                        <a href="#" target="_blank" rel="noopener noreferrer">
+                                        <a href="http://gofile.me/5G3uP/z4vvQpWiV" target="_blank" rel="noopener noreferrer">
                                             <span class="hover:text-blue-700 hover:underline">2020</span>
                                         </a> | 
-                                        <a href="#" target="_blank" rel="noopener noreferrer">
+                                        <a href="http://gofile.me/5G3uP/9rFohy8ob" target="_blank" rel="noopener noreferrer">
                                             <span class="hover:text-blue-700 hover:underline">2019</span>
                                         </a>
                                     </li>
@@ -3327,18 +3287,18 @@
                                         <p class="collapsible cursor-pointer hover:text-blue-700 hover:underline">2023</p>
                                         <ul class="[list-style-type:square] hidden mx-4 p-2 space-y-2">
                                             <li>
-                                                <a href="#" target="_blank" rel="noopener noreferrer">
+                                                <a href="http://gofile.me/5G3uP/OoaVxa2qp" target="_blank" rel="noopener noreferrer">
                                                     <span class="hover:text-blue-700 hover:underline">January - June 2023</span>
                                                 </a> | 
-                                                <a href="#" target="_blank" rel="noopener noreferrer">
+                                                <a href="http://gofile.me/5G3uP/13YUVag7r" target="_blank" rel="noopener noreferrer">
                                                     <span class="hover:text-blue-700 hover:underline">January - June 2023 (Supplemental)</span>
                                                 </a>
                                             </li>
                                             <li>
-                                                <a href="#" target="_blank" rel="noopener noreferrer">
+                                                <a href="http://gofile.me/5G3uP/hLsDz2jbs" target="_blank" rel="noopener noreferrer">
                                                     <span class="hover:text-blue-700 hover:underline">July - December 2023</span>
                                                 </a> | 
-                                                <a href="#" target="_blank" rel="noopener noreferrer">
+                                                <a href="http://gofile.me/5G3uP/jFVxIfbOH" target="_blank" rel="noopener noreferrer">
                                                     <span class="hover:text-blue-700 hover:underline">July - December 2023 (Supplemental)</span>
                                                 </a>
                                             </li>
@@ -3348,15 +3308,15 @@
                                         <p class="collapsible cursor-pointer hover:text-blue-700 hover:underline">2022</p>
                                         <ul class="[list-style-type:square] hidden mx-4 p-2 space-y-2">
                                             <li>
-                                                <a href="#" target="_blank" rel="noopener noreferrer">
+                                                <a href="http://gofile.me/5G3uP/qTXwZN6Iw" target="_blank" rel="noopener noreferrer">
                                                     <span class="hover:text-blue-700 hover:underline">January - June 2022</span>
                                                 </a> | 
-                                                <a href="#" target="_blank" rel="noopener noreferrer">
+                                                <a href="http://gofile.me/5G3uP/MWb1jYkwp" target="_blank" rel="noopener noreferrer">
                                                     <span class="hover:text-blue-700 hover:underline">January - June 2022 (Supplemental)</span>
                                                 </a>
                                             </li>
                                             <li>
-                                                <a href="#" target="_blank" rel="noopener noreferrer">
+                                                <a href="http://gofile.me/5G3uP/3Vc1zbogD" target="_blank" rel="noopener noreferrer">
                                                     <span class="hover:text-blue-700 hover:underline">July - December 2022</span>
                                                 </a>
                                             </li>
@@ -3371,7 +3331,7 @@
                                                 </a>
                                             </li>
                                             <li>
-                                                <a href="#" target="_blank" rel="noopener noreferrer">
+                                                <a href="http://gofile.me/5G3uP/9UcfP8idP" target="_blank" rel="noopener noreferrer">
                                                     <span class="hover:text-blue-700 hover:underline">July - December 2021</span>
                                                 </a>
                                             </li>
@@ -3494,73 +3454,73 @@
                     <div class="bg-gray-200 hidden px-10 py-4 rounded">
                         <ul class="space-y-2 text-black">
                             <li>
-                                <a href="#" target="_blank" rel="noopener noreferrer">
+                                <a href="https://www.tesda.gov.ph/Uploads/File/transparency/update2017/Citizen%20Charter/1%20Cover%20Page.doc" target="_blank" rel="noopener noreferrer">
                                     <span class="hover:text-blue-700 hover:underline">Cover Page</span>
                                 </a>
                             </li>
                             <li>
-                                <a href="#" target="_blank" rel="noopener noreferrer">
+                                <a href="https://www.tesda.gov.ph/Uploads/File/GOOD%20GOVERNANCE/Citizens%20Charter%202020/TESDA%20Citizens%20Charter%202024.pdf" target="_blank" rel="noopener noreferrer">
                                     <span class="hover:text-blue-700 hover:underline">TESDA Citizens Charter</span>
                                 </a>
                             </li>
                             <h3 class="text-blue-800 text-lg font-medium mt-6">Annexes</h3>
                             <li>
-                                <a href="#" target="_blank" rel="noopener noreferrer">
+                                <a href="https://www.tesda.gov.ph/Uploads/File/transparency/update2017/Citizen%20Charter/Annex%201%20-%20Customer%20Satisfaction%20Management%20System%20Forms.pdf" target="_blank" rel="noopener noreferrer">
                                     <span class="hover:text-blue-700 hover:underline">Annex 1 - Customer Satisfaction Management System Forms</span>
                                 </a>
                             </li>
                             <li>
-                                <a href="#" target="_blank" rel="noopener noreferrer">
+                                <a href="https://www.tesda.gov.ph/Uploads/File/transparency/update2017/Citizen%20Charter/Annex%202%20-%20LSI%20Application%20Form.pdf" target="_blank" rel="noopener noreferrer">
                                     <span class="hover:text-blue-700 hover:underline">Annex 2 - LSI Application Form</span>
                                 </a>
                             </li>
                             <li>
-                                <a href="#" target="_blank" rel="noopener noreferrer">
+                                <a href="https://www.tesda.gov.ph/Uploads/File/transparency/update2017/Citizen%20Charter/Annex%203%20-%20LSI%20Employment%20Information.pdf" target="_blank" rel="noopener noreferrer">
                                     <span class="hover:text-blue-700 hover:underline">Annex 3 - LSI Employment Information</span>
                                 </a>
                             </li>
                             <li>
-                                <a href="#" target="_blank" rel="noopener noreferrer">
+                                <a href="https://www.tesda.gov.ph/Uploads/File/transparency/update2017/Citizen%20Charter/Annex%204%20-%20LSI%20Interview%20Sheet.pdf" target="_blank" rel="noopener noreferrer">
                                     <span class="hover:text-blue-700 hover:underline">Annex 4 - LSI Interview Sheet</span>
                                 </a>
                             </li>
                             <li>
-                                <a href="#" target="_blank" rel="noopener noreferrer">
+                                <a href="https://www.tesda.gov.ph/Uploads/File/transparency/update2017/Citizen%20Charter/Annex%205%20-%20LSI%20Learners%20Form.pdf" target="_blank" rel="noopener noreferrer">
                                     <span class="hover:text-blue-700 hover:underline">Annex 5 - LSI Learners Form</span>
                                 </a>
                             </li>
                             <li>
-                                <a href="#" target="_blank" rel="noopener noreferrer">
+                                <a href="https://www.tesda.gov.ph/Uploads/File/transparency/update2017/Citizen%20Charter/Annex%206%20-%20NTTA%20Forms.doc" target="_blank" rel="noopener noreferrer">
                                     <span class="hover:text-blue-700 hover:underline">Annex 6 - NTTA Forms</span>
                                 </a>
                             </li>
                             <li>
-                                <a href="#" target="_blank" rel="noopener noreferrer">
+                                <a href="https://www.tesda.gov.ph/Uploads/File/transparency/update2017/Citizen%20Charter/Annex%207%20-%20TWC%20Forms.pdf" target="_blank" rel="noopener noreferrer">
                                     <span class="hover:text-blue-700 hover:underline">Annex 7 - TWC Forms</span>
                                 </a>
                             </li>
                             <li>
-                                <a href="#" target="_blank" rel="noopener noreferrer">
+                                <a href="https://www.tesda.gov.ph/Uploads/File/transparency/update2017/Citizen%20Charter/Annex%208%20-%20Program%20Registration%20Forms.docx" target="_blank" rel="noopener noreferrer">
                                     <span class="hover:text-blue-700 hover:underline">Annex 8 - Program Registration Forms</span>
                                 </a>
                             </li>
                             <li>
-                                <a href="#" target="_blank" rel="noopener noreferrer">
+                                <a href="https://www.tesda.gov.ph/Uploads/File/transparency/update2017/Citizen%20Charter/Annex%209%20-%20Accreditation%20ACs%20Forms.docx" target="_blank" rel="noopener noreferrer">
                                     <span class="hover:text-blue-700 hover:underline">Annex 9 - Accreditation ACs Forms</span>
                                 </a>
                             </li>
                             <li>
-                                <a href="#" target="_blank" rel="noopener noreferrer">
+                                <a href="https://www.tesda.gov.ph/Uploads/File/transparency/update2017/Citizen%20Charter/Annex%2010%20-%20Accreditation%20Assessors%20Forms.docx" target="_blank" rel="noopener noreferrer">
                                     <span class="hover:text-blue-700 hover:underline">Annex 10 - Accreditation Assessors Forms</span>
                                 </a>
                             </li>
                             <li>
-                                <a href="#" target="_blank" rel="noopener noreferrer">
+                                <a href="https://www.tesda.gov.ph/Uploads/File/transparency/update2017/Citizen%20Charter/Annex%2011%20-%20Competency%20Assessment%20Forms.docx" target="_blank" rel="noopener noreferrer">
                                     <span class="hover:text-blue-700 hover:underline">Annex 11 - Competency Assessment Forms</span>
                                 </a>
                             </li>
                             <li>
-                                <a href="#" target="_blank" rel="noopener noreferrer">
+                                <a href="https://www.tesda.gov.ph/Uploads/File/transparency/update2017/Citizen%20Charter/Annex%2012%20-%20School%20Sample%20Forms.pdf" target="_blank" rel="noopener noreferrer">
                                     <span class="hover:text-blue-700 hover:underline">Annex 12 - School Sample Forms</span>
                                 </a>
                             </li>
@@ -3574,7 +3534,7 @@
                     <div class="bg-gray-200 hidden px-10 py-4 rounded">
                         <ul class="list-disc space-y-2 text-black">
                             <li>
-                                <a href="#" target="_blank" rel="noopener noreferrer">
+                                <a href="https://www.tesda.gov.ph/About/TESDA/21988" target="_blank" rel="noopener noreferrer">
                                     <span class="hover:text-blue-700 hover:underline">ISO 9001 Certificate</span>
                                 </a>
                             </li>
@@ -3582,17 +3542,17 @@
                                 <p class="collapsible cursor-pointer hover:text-blue-700 hover:underline">Documented Information on ISO 9001: 2015 aligned QMS</p>
                                 <ul class="[list-style-type:circle] hidden mx-4 p-2 space-y-2">
                                     <li>
-                                        <a href="#" target="_blank" rel="noopener noreferrer">
+                                        <a href="https://www.tesda.gov.ph/Uploads/File/transparency/update2022/QMS/TESDA%20QUALITY%20MANUAL.pdf" target="_blank" rel="noopener noreferrer">
                                             <span class="hover:text-blue-700 hover:underline">TESDA Quality Manual</span>
                                         </a>
                                     </li>
                                     <li>
-                                        <a href="#" target="_blank" rel="noopener noreferrer">
+                                        <a href="https://www.tesda.gov.ph/Uploads/File/transparency/update2024/QMS/CERTIFICATION.pdf" target="_blank" rel="noopener noreferrer">
                                             <span class="hover:text-blue-700 hover:underline">Certification on the Conduct of IQA</span>
                                         </a>
                                     </li>
                                     <li>
-                                        <a href="#" target="_blank" rel="noopener noreferrer">
+                                        <a href="https://www.tesda.gov.ph/About/TESDA/27884" target="_blank" rel="noopener noreferrer">
                                             <span class="hover:text-blue-700 hover:underline">Management Review Summary of Agenda Items</span>
                                         </a>
                                     </li>
@@ -3606,7 +3566,7 @@
                         TESDA Additional Transparency Compliance
                     </button>
                     <div class="bg-gray-200 hidden px-10 py-4 rounded">
-                        <ul class="list-decimal space-y-2 text-black">
+                        <ol class="list-decimal space-y-2 text-black">
                             <li>
                                 <a href="#" target="_blank" rel="noopener noreferrer">
                                     <span class="hover:text-blue-700 hover:underline">TESDA Efficiency and Integrity Development Plan 2022-2026</span>
@@ -3637,34 +3597,34 @@
                                         <a href="#" target="_blank" rel="noopener noreferrer">
                                             <span class="hover:text-blue-700 hover:underline">2020</span>
                                         </a> | 
-                                        <a href="#" target="_blank" rel="noopener noreferrer">
+                                        <a href="http://gofile.me/5G3uP/MqYyjvu2p" target="_blank" rel="noopener noreferrer">
                                             <span class="hover:text-blue-700 hover:underline">2019</span>
                                         </a> | 
-                                        <a href="#" target="_blank" rel="noopener noreferrer">
+                                        <a href="http://gofile.me/5G3uP/EGobeGpPY" target="_blank" rel="noopener noreferrer">
                                             <span class="hover:text-blue-700 hover:underline">2018</span>
                                         </a> | 
-                                        <a href="#" target="_blank" rel="noopener noreferrer">
+                                        <a href="http://gofile.me/5G3uP/Z8FWVrTCA" target="_blank" rel="noopener noreferrer">
                                             <span class="hover:text-blue-700 hover:underline">2017</span>
                                         </a> | 
-                                        <a href="#" target="_blank" rel="noopener noreferrer">
+                                        <a href="http://gofile.me/5G3uP/Nh4enA5sF" target="_blank" rel="noopener noreferrer">
                                             <span class="hover:text-blue-700 hover:underline">2016</span>
                                         </a> | 
-                                        <a href="#" target="_blank" rel="noopener noreferrer">
+                                        <a href="http://gofile.me/5G3uP/RJ8v45ZAu" target="_blank" rel="noopener noreferrer">
                                             <span class="hover:text-blue-700 hover:underline">2015</span>
                                         </a> | 
-                                        <a href="#" target="_blank" rel="noopener noreferrer">
+                                        <a href="http://gofile.me/5G3uP/CWg1aU07a" target="_blank" rel="noopener noreferrer">
                                             <span class="hover:text-blue-700 hover:underline">2014</span>
                                         </a> | 
-                                        <a href="#" target="_blank" rel="noopener noreferrer">
+                                        <a href="http://gofile.me/5G3uP/3ip3XXsVg" target="_blank" rel="noopener noreferrer">
                                             <span class="hover:text-blue-700 hover:underline">2013</span>
                                         </a> | 
-                                        <a href="#" target="_blank" rel="noopener noreferrer">
+                                        <a href="http://gofile.me/5G3uP/k1CxpHCxw" target="_blank" rel="noopener noreferrer">
                                             <span class="hover:text-blue-700 hover:underline">2012</span>
                                         </a> | 
-                                        <a href="#" target="_blank" rel="noopener noreferrer">
+                                        <a href="http://gofile.me/5G3uP/XCrbaISD0" target="_blank" rel="noopener noreferrer">
                                             <span class="hover:text-blue-700 hover:underline">2011</span>
                                         </a> | 
-                                        <a href="#" target="_blank" rel="noopener noreferrer">
+                                        <a href="http://gofile.me/5G3uP/733t9OJcS" target="_blank" rel="noopener noreferrer">
                                             <span class="hover:text-blue-700 hover:underline">2010</span>
                                         </a>
                                     </li>
@@ -3758,16 +3718,16 @@
                                         </a>
                                     </li>
                                     <li>2020: 
-                                        <a href="#" target="_blank" rel="noopener noreferrer">
+                                        <a href="http://gofile.me/5G3uP/wpVNsODtt" target="_blank" rel="noopener noreferrer">
                                             <span class="hover:text-blue-700 hover:underline">1st Qtr</span>
                                         </a> | 
-                                        <a href="#" target="_blank" rel="noopener noreferrer">
+                                        <a href="http://gofile.me/5G3uP/Ax4Oguu6a" target="_blank" rel="noopener noreferrer">
                                             <span class="hover:text-blue-700 hover:underline">2nd Qtr</span>
                                         </a> | 
-                                        <a href="#" target="_blank" rel="noopener noreferrer">
+                                        <a href="http://gofile.me/5G3uP/OCHHucMyD" target="_blank" rel="noopener noreferrer">
                                             <span class="hover:text-blue-700 hover:underline">3rd Qtr</span>
                                         </a> | 
-                                        <a href="#" target="_blank" rel="noopener noreferrer">
+                                        <a href="http://gofile.me/5G3uP/1FbIsDoVU" target="_blank" rel="noopener noreferrer">
                                             <span class="hover:text-blue-700 hover:underline">4th Qtr</span>
                                         </a>
                                     </li>
@@ -3786,25 +3746,22 @@
                                         </a>
                                     </li>
                                     <li>
-                                        <a href="#" target="_blank" rel="noopener noreferrer">
+                                        <a href="http://gofile.me/5G3uP/osu2IBk9e" target="_blank" rel="noopener noreferrer">
                                             <span class="hover:text-blue-700 hover:underline">2018</span>
                                         </a> | 
-                                        <a href="#" target="_blank" rel="noopener noreferrer">
-                                            <span class="hover:text-blue-700 hover:underline">2017</span>
-                                        </a> | 
-                                        <a href="#" target="_blank" rel="noopener noreferrer">
+                                        <a href="http://gofile.me/5G3uP/O8SOdrJ7N" target="_blank" rel="noopener noreferrer">
                                             <span class="hover:text-blue-700 hover:underline">2016</span>
                                         </a> | 
                                         <a href="#" target="_blank" rel="noopener noreferrer">
                                             <span class="hover:text-blue-700 hover:underline">2015</span>
                                         </a> | 
-                                        <a href="#" target="_blank" rel="noopener noreferrer">
+                                        <a href="http://gofile.me/5G3uP/ndMvnpvsi" target="_blank" rel="noopener noreferrer">
                                             <span class="hover:text-blue-700 hover:underline">2014</span>
                                         </a> | 
-                                        <a href="#" target="_blank" rel="noopener noreferrer">
+                                        <a href="http://gofile.me/5G3uP/gXAVNNyBV" target="_blank" rel="noopener noreferrer">
                                             <span class="hover:text-blue-700 hover:underline">2013</span>
                                         </a> | 
-                                        <a href="#" target="_blank" rel="noopener noreferrer">
+                                        <a href="http://gofile.me/5G3uP/4kn2DfsEF" target="_blank" rel="noopener noreferrer">
                                             <span class="hover:text-blue-700 hover:underline">2012</span>
                                         </a>
                                     </li>
@@ -3870,16 +3827,16 @@
                                         </a>
                                     </li>
                                     <li>2021: 
-                                        <a href="#" target="_blank" rel="noopener noreferrer">
+                                        <a href="http://gofile.me/5G3uP/GdOmEaxcG" target="_blank" rel="noopener noreferrer">
                                             <span class="hover:text-blue-700 hover:underline">1st Qtr</span>
                                         </a> | 
-                                        <a href="#" target="_blank" rel="noopener noreferrer">
+                                        <a href="http://gofile.me/5G3uP/oFI7QfR36" target="_blank" rel="noopener noreferrer">
                                             <span class="hover:text-blue-700 hover:underline">2nd Qtr</span>
                                         </a> | 
-                                        <a href="#" target="_blank" rel="noopener noreferrer">
+                                        <a href="http://gofile.me/5G3uP/jm3w3QqHy" target="_blank" rel="noopener noreferrer">
                                             <span class="hover:text-blue-700 hover:underline">3rd Qtr</span>
                                         </a> | 
-                                        <a href="#" target="_blank" rel="noopener noreferrer">
+                                        <a href="http://gofile.me/5G3uP/l7luvEjFA" target="_blank" rel="noopener noreferrer">
                                             <span class="hover:text-blue-700 hover:underline">4th Qtr</span>
                                         </a>
                                     </li>
@@ -3898,27 +3855,27 @@
                                         </a>
                                     </li>
                                     <li>2019: 
-                                        <a href="#" target="_blank" rel="noopener noreferrer">
+                                        <a href="http://gofile.me/5G3uP/6XArDU500" target="_blank" rel="noopener noreferrer">
                                             <span class="hover:text-blue-700 hover:underline">1st Qtr</span>
                                         </a> | 
-                                        <a href="#" target="_blank" rel="noopener noreferrer">
+                                        <a href="http://gofile.me/5G3uP/NB9rpxmtN" target="_blank" rel="noopener noreferrer">
                                             <span class="hover:text-blue-700 hover:underline">2nd Qtr</span>
                                         </a> | 
-                                        <a href="#" target="_blank" rel="noopener noreferrer">
+                                        <a href="http://gofile.me/5G3uP/nWzT74vtl" target="_blank" rel="noopener noreferrer">
                                             <span class="hover:text-blue-700 hover:underline">3rd Qtr</span>
                                         </a> | 
-                                        <a href="#" target="_blank" rel="noopener noreferrer">
+                                        <a href="http://gofile.me/5G3uP/ARAhN2p2I" target="_blank" rel="noopener noreferrer">
                                             <span class="hover:text-blue-700 hover:underline">4th Qtr</span>
                                         </a>
                                     </li>
                                     <li>2018: 
-                                        <a href="#" target="_blank" rel="noopener noreferrer">
+                                        <a href="http://gofile.me/5G3uP/8Yu7lhVmh" target="_blank" rel="noopener noreferrer">
                                             <span class="hover:text-blue-700 hover:underline">1st Qtr</span>
                                         </a> | 
-                                        <a href="#" target="_blank" rel="noopener noreferrer">
+                                        <a href="http://gofile.me/5G3uP/hsFJrR2Aj" target="_blank" rel="noopener noreferrer">
                                             <span class="hover:text-blue-700 hover:underline">2nd Qtr</span>
                                         </a> | 
-                                        <a href="#" target="_blank" rel="noopener noreferrer">
+                                        <a href="http://gofile.me/5G3uP/8qJC1xc27" target="_blank" rel="noopener noreferrer">
                                             <span class="hover:text-blue-700 hover:underline">3rd Qtr</span>
                                         </a> | 
                                         <a href="#" target="_blank" rel="noopener noreferrer">
@@ -3932,13 +3889,13 @@
                                         <a href="#" target="_blank" rel="noopener noreferrer">
                                             <span class="hover:text-blue-700 hover:underline">2016</span>
                                         </a> | 
-                                        <a href="#" target="_blank" rel="noopener noreferrer">
+                                        <a href="http://gofile.me/5G3uP/CExscZvSl" target="_blank" rel="noopener noreferrer">
                                             <span class="hover:text-blue-700 hover:underline">2015</span>
                                         </a> | 
                                         <a href="#" target="_blank" rel="noopener noreferrer">
                                             <span class="hover:text-blue-700 hover:underline">2014</span>
                                         </a> | 
-                                        <a href="#" target="_blank" rel="noopener noreferrer">
+                                        <a href="http://gofile.me/5G3uP/NGAy6Ijm9" target="_blank" rel="noopener noreferrer">
                                             <span class="hover:text-blue-700 hover:underline">2013</span>
                                         </a>
                                     </li>
@@ -3960,18 +3917,18 @@
                                         <p class="collapsible cursor-pointer hover:text-blue-700 hover:underline">2021</p>
                                         <ul class="[list-style-type:circle] hidden mx-4 p-2 space-y-2">
                                             <li>
-                                                <a href="#" target="_blank" rel="noopener noreferrer">
+                                                <a href="http://gofile.me/5G3uP/ogPUwdI5c" target="_blank" rel="noopener noreferrer">
                                                     <span class="hover:text-blue-700 hover:underline">Consolidated Trial Balance Trust Fund - 1st Qtr</span>
                                                 </a> | 
-                                                <a href="#" target="_blank" rel="noopener noreferrer">
+                                                <a href="http://gofile.me/5G3uP/fTiCY9JKS" target="_blank" rel="noopener noreferrer">
                                                     <span class="hover:text-blue-700 hover:underline">Consolidated Trial Balance Trust Fund - 2nd Qtr</span>
                                                 </a>
                                             </li>
                                             <li>
-                                                <a href="#" target="_blank" rel="noopener noreferrer">
+                                                <a href="http://gofile.me/5G3uP/J7uX3uBDv" target="_blank" rel="noopener noreferrer">
                                                     <span class="hover:text-blue-700 hover:underline">Consolidated Trial Balance Trust Fund - 3rd Qtr</span>
                                                 </a> | 
-                                                <a href="#" target="_blank" rel="noopener noreferrer">
+                                                <a href="http://gofile.me/5G3uP/MJpb5VwF8" target="_blank" rel="noopener noreferrer">
                                                     <span class="hover:text-blue-700 hover:underline">Consolidated All Funds - December 2021</span>
                                                 </a>
                                             </li>
@@ -3981,10 +3938,10 @@
                                         <p class="collapsible cursor-pointer hover:text-blue-700 hover:underline">2020</p>
                                         <ul class="[list-style-type:circle] hidden mx-4 p-2 space-y-2">
                                             <li>
-                                                <a href="#" target="_blank" rel="noopener noreferrer">
+                                                <a href="http://gofile.me/5G3uP/bch7vjy5C" target="_blank" rel="noopener noreferrer">
                                                     <span class="hover:text-blue-700 hover:underline">Financial Statements CY 2020 - 1st Quarter</span>
                                                 </a> | 
-                                                <a href="#" target="_blank" rel="noopener noreferrer">
+                                                <a href="http://gofile.me/5G3uP/ITSMTuLy9" target="_blank" rel="noopener noreferrer">
                                                     <span class="hover:text-blue-700 hover:underline">Financial Statements CY 2020 - 2nd Quarter</span>
                                                 </a>
                                             </li>
@@ -3992,7 +3949,7 @@
                                                 <a href="#" target="_blank" rel="noopener noreferrer">
                                                     <span class="hover:text-blue-700 hover:underline">Financial Statements CY 2020 - 3rd Quarter</span>
                                                 </a> | 
-                                                <a href="#" target="_blank" rel="noopener noreferrer">
+                                                <a href="http://gofile.me/5G3uP/Vq4jAxPvd" target="_blank" rel="noopener noreferrer">
                                                     <span class="hover:text-blue-700 hover:underline">Financial Statements CY 2020 - 4th Quarter</span>
                                                 </a>
                                             </li>
@@ -4002,10 +3959,10 @@
                                         <p class="collapsible cursor-pointer hover:text-blue-700 hover:underline">2019</p>
                                         <ul class="[list-style-type:circle] hidden mx-4 p-2 space-y-2">
                                             <li>
-                                                <a href="#" target="_blank" rel="noopener noreferrer">
+                                                <a href="http://gofile.me/5G3uP/ej568y1nZ" target="_blank" rel="noopener noreferrer">
                                                     <span class="hover:text-blue-700 hover:underline">Financial Statements CY 2019 - 1st Quarter</span>
                                                 </a> | 
-                                                <a href="#" target="_blank" rel="noopener noreferrer">
+                                                <a href="http://gofile.me/5G3uP/uAMdp9nN9" target="_blank" rel="noopener noreferrer">
                                                     <span class="hover:text-blue-700 hover:underline">Financial Statements CY 2019 - 2nd Quarter</span>
                                                 </a>
                                             </li>
@@ -4023,19 +3980,40 @@
                                         <p class="collapsible cursor-pointer hover:text-blue-700 hover:underline">2018</p>
                                         <ul class="[list-style-type:circle] hidden mx-4 p-2 space-y-2">
                                             <li>
-                                                <a href="#" target="_blank" rel="noopener noreferrer">
+                                                <a href="http://gofile.me/5G3uP/qsGyfX8XO" target="_blank" rel="noopener noreferrer">
                                                     <span class="hover:text-blue-700 hover:underline">Financial Statements CY 2018 - 1st Quarter</span>
                                                 </a> | 
-                                                <a href="#" target="_blank" rel="noopener noreferrer">
+                                                <a href="http://gofile.me/5G3uP/Iune7xsgn" target="_blank" rel="noopener noreferrer">
                                                     <span class="hover:text-blue-700 hover:underline">Financial Statements CY 2018 - 2nd Quarter</span>
                                                 </a>
                                             </li>
                                             <li>
-                                                <a href="#" target="_blank" rel="noopener noreferrer">
+                                                <a href="http://gofile.me/5G3uP/zmoz4AUQE" target="_blank" rel="noopener noreferrer">
                                                     <span class="hover:text-blue-700 hover:underline">Financial Statements CY 2018 - 3rd Quarter</span>
                                                 </a> | 
-                                                <a href="#" target="_blank" rel="noopener noreferrer">
+                                                <a href="http://gofile.me/5G3uP/rLRecKRih" target="_blank" rel="noopener noreferrer">
                                                     <span class="hover:text-blue-700 hover:underline">Financial Statements CY 2018 - 4th Quarter</span>
+                                                </a>
+                                            </li>
+                                        </ul>
+                                    </li>
+                                    <li>
+                                        <p class="collapsible cursor-pointer hover:text-blue-700 hover:underline">2017</p>
+                                        <ul class="[list-style-type:circle] hidden mx-4 p-2 space-y-2">
+                                            <li>
+                                                <a href="http://gofile.me/5G3uP/uD5dQ5u9Z" target="_blank" rel="noopener noreferrer">
+                                                    <span class="hover:text-blue-700 hover:underline">Financial Statements CY 2017 - 1st Quarter</span>
+                                                </a> | 
+                                                <a href="http://gofile.me/5G3uP/hOUKRuno2" target="_blank" rel="noopener noreferrer">
+                                                    <span class="hover:text-blue-700 hover:underline">Financial Statements CY 2017 - 2nd Quarter</span>
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a href="http://gofile.me/5G3uP/HODd3rwgQ" target="_blank" rel="noopener noreferrer">
+                                                    <span class="hover:text-blue-700 hover:underline">Financial Statements CY 2017 - 3rd Quarter</span>
+                                                </a> | 
+                                                <a href="http://gofile.me/5G3uP/HmQmKZVb4" target="_blank" rel="noopener noreferrer">
+                                                    <span class="hover:text-blue-700 hover:underline">Financial Statements CY 2017 - 4th Quarter</span>
                                                 </a>
                                             </li>
                                         </ul>
@@ -4067,7 +4045,7 @@
                                         <a href="#" target="_blank" rel="noopener noreferrer">
                                             <span class="hover:text-blue-700 hover:underline">2021</span>
                                         </a> | 
-                                        <a href="#" target="_blank" rel="noopener noreferrer">
+                                        <a href="http://gofile.me/5G3uP/YdFyyIEBX" target="_blank" rel="noopener noreferrer">
                                             <span class="hover:text-blue-700 hover:underline">2020</span>
                                         </a> | 
                                         <a href="#" target="_blank" rel="noopener noreferrer">
@@ -4155,13 +4133,13 @@
                                         <a href="#" target="_blank" rel="noopener noreferrer">
                                             <span class="hover:text-blue-700 hover:underline">2021</span>
                                         </a> | 
-                                        <a href="#" target="_blank" rel="noopener noreferrer">
+                                        <a href="http://gofile.me/5G3uP/UthFkKMYF" target="_blank" rel="noopener noreferrer">
                                             <span class="hover:text-blue-700 hover:underline">2020</span>
                                         </a> | 
                                         <a href="#" target="_blank" rel="noopener noreferrer">
                                             <span class="hover:text-blue-700 hover:underline">2019</span>
                                         </a> | 
-                                        <a href="#" target="_blank" rel="noopener noreferrer">
+                                        <a href="http://gofile.me/5G3uP/ElECntTJ6" target="_blank" rel="noopener noreferrer">
                                             <span class="hover:text-blue-700 hover:underline">2018</span>
                                         </a>
                                     </li>
@@ -4195,7 +4173,7 @@
                                     </li>
                                 </ul>
                             </li>
-                        </ul>
+                        </ol>
                     </div>
                 </div>
             </div>

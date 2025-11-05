@@ -20,6 +20,7 @@ Route::middleware('guest')->controller(AuthController::class)->group(function ()
 
 Route::controller(HomeController::class)->group(function () {
     Route::get('/', 'index')->name('home');
+    Route::get('/not-found', 'not_found')->name('not.found');
 });
 
 Route::controller(AboutController::class)->group(function () {
