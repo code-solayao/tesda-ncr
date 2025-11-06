@@ -13,8 +13,7 @@
 
 @font-face {
     font-family: 'FremontBold';
-    src: url('../fonts/FremontBold.woff2') format('woff2'), 
-        url('../fonts/FremontBold.woff') format('woff');
+    src: url('../fonts/FremontBold.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
 }

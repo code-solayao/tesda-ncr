@@ -64,34 +64,34 @@
                                 <ul class="[list-style-type:circle] hidden mx-4 p-2 space-y-2">
                                     <li>
                                         <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
-                                            <span class="hover:text-blue-700 hover:underline">2025</span>
+                                            <span class="hover:text-blue-700 hover:underline text-gray-400">2025</span>
                                         </a> | 
-                                        <a href="#" target="_blank" rel="noopener noreferrer">
-                                            <span class="hover:text-blue-700 hover:underline">2024</span>
+                                        <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                            <span class="hover:text-blue-700 hover:underline text-gray-400">2024</span>
                                         </a> | 
-                                        <a href="#" target="_blank" rel="noopener noreferrer">
-                                            <span class="hover:text-blue-700 hover:underline">2023</span>
+                                        <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                            <span class="hover:text-blue-700 hover:underline text-gray-400">2023</span>
                                         </a> | 
-                                        <a href="#" target="_blank" rel="noopener noreferrer">
-                                            <span class="hover:text-blue-700 hover:underline">2022</span>
+                                        <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                            <span class="hover:text-blue-700 hover:underline text-gray-400">2022</span>
                                         </a> | 
-                                        <a href="#" target="_blank" rel="noopener noreferrer">
-                                            <span class="hover:text-blue-700 hover:underline">2021</span>
+                                        <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                            <span class="hover:text-blue-700 hover:underline text-gray-400">2021</span>
                                         </a> | 
-                                        <a href="#" target="_blank" rel="noopener noreferrer">
-                                            <span class="hover:text-blue-700 hover:underline">2020</span>
+                                        <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                            <span class="hover:text-blue-700 hover:underline text-gray-400">2020</span>
                                         </a> | 
-                                        <a href="#" target="_blank" rel="noopener noreferrer">
-                                            <span class="hover:text-blue-700 hover:underline">2019</span>
+                                        <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                            <span class="hover:text-blue-700 hover:underline text-gray-400">2019</span>
                                         </a> | 
-                                        <a href="#" target="_blank" rel="noopener noreferrer">
-                                            <span class="hover:text-blue-700 hover:underline">2018</span>
+                                        <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                            <span class="hover:text-blue-700 hover:underline text-gray-400">2018</span>
                                         </a> | 
-                                        <a href="#" target="_blank" rel="noopener noreferrer">
-                                            <span class="hover:text-blue-700 hover:underline">2017</span>
+                                        <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                            <span class="hover:text-blue-700 hover:underline text-gray-400">2017</span>
                                         </a> | 
-                                        <a href="#" target="_blank" rel="noopener noreferrer">
-                                            <span class="hover:text-blue-700 hover:underline">2016</span>
+                                        <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                            <span class="hover:text-blue-700 hover:underline text-gray-400">2016</span>
                                         </a> | 
                                         <a href="http://gofile.me/5G3uP/xxZRCNHcz" target="_blank" rel="noopener noreferrer">
                                             <span class="hover:text-blue-700 hover:underline">2015</span>
@@ -106,35 +106,35 @@
                                 <p class="collapsible cursor-pointer hover:text-blue-700 hover:underline">BED 2: Physical Plan</p>
                                 <ul class="[list-style-type:circle] hidden mx-4 p-2 space-y-2">
                                     <li>
-                                        <a href="#" target="_blank" rel="noopener noreferrer">
-                                            <span class="hover:text-blue-700 hover:underline">2025</span>
+                                        <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                            <span class="hover:text-blue-700 hover:underline text-gray-400">2025</span>
                                         </a> | 
-                                        <a href="#" target="_blank" rel="noopener noreferrer">
-                                            <span class="hover:text-blue-700 hover:underline">2024</span>
+                                        <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                            <span class="hover:text-blue-700 hover:underline text-gray-400">2024</span>
                                         </a> | 
-                                        <a href="#" target="_blank" rel="noopener noreferrer">
-                                            <span class="hover:text-blue-700 hover:underline">2023</span>
+                                        <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                            <span class="hover:text-blue-700 hover:underline text-gray-400">2023</span>
                                         </a> | 
-                                        <a href="#" target="_blank" rel="noopener noreferrer">
-                                            <span class="hover:text-blue-700 hover:underline">2022</span>
+                                        <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                            <span class="hover:text-blue-700 hover:underline text-gray-400">2022</span>
                                         </a> | 
-                                        <a href="#" target="_blank" rel="noopener noreferrer">
-                                            <span class="hover:text-blue-700 hover:underline">2021</span>
+                                        <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                            <span class="hover:text-blue-700 hover:underline text-gray-400">2021</span>
                                         </a> | 
-                                        <a href="#" target="_blank" rel="noopener noreferrer">
-                                            <span class="hover:text-blue-700 hover:underline">2020</span>
+                                        <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                            <span class="hover:text-blue-700 hover:underline text-gray-400">2020</span>
                                         </a> | 
-                                        <a href="#" target="_blank" rel="noopener noreferrer">
-                                            <span class="hover:text-blue-700 hover:underline">2019</span>
+                                        <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                            <span class="hover:text-blue-700 hover:underline text-gray-400">2019</span>
                                         </a> | 
-                                        <a href="#" target="_blank" rel="noopener noreferrer">
-                                            <span class="hover:text-blue-700 hover:underline">2018</span>
+                                        <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                            <span class="hover:text-blue-700 hover:underline text-gray-400">2018</span>
                                         </a> | 
                                         <a href="http://gofile.me/5G3uP/Hk7kuAJa7" target="_blank" rel="noopener noreferrer">
                                             <span class="hover:text-blue-700 hover:underline">2017</span>
                                         </a> | 
-                                        <a href="#" target="_blank" rel="noopener noreferrer">
-                                            <span class="hover:text-blue-700 hover:underline">2016</span>
+                                        <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                            <span class="hover:text-blue-700 hover:underline text-gray-400">2016</span>
                                         </a> | 
                                         <a href="http://gofile.me/5G3uP/TVZ7tBStn" target="_blank" rel="noopener noreferrer">
                                             <span class="hover:text-blue-700 hover:underline">2015</span>
@@ -149,35 +149,35 @@
                                 <p class="collapsible cursor-pointer hover:text-blue-700 hover:underline">BED 3: Monthly Cash Program/Monthly Disbursement Program</p>
                                 <ul class="[list-style-type:circle] hidden mx-4 p-2 space-y-2">
                                     <li>
-                                        <a href="#" target="_blank" rel="noopener noreferrer">
-                                            <span class="hover:text-blue-700 hover:underline">2025</span>
+                                        <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                            <span class="hover:text-blue-700 hover:underline text-gray-400">2025</span>
                                         </a> | 
-                                        <a href="#" target="_blank" rel="noopener noreferrer">
-                                            <span class="hover:text-blue-700 hover:underline">2024</span>
+                                        <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                            <span class="hover:text-blue-700 hover:underline text-gray-400">2024</span>
                                         </a> | 
-                                        <a href="#" target="_blank" rel="noopener noreferrer">
-                                            <span class="hover:text-blue-700 hover:underline">2023</span>
+                                        <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                            <span class="hover:text-blue-700 hover:underline text-gray-400">2023</span>
                                         </a> | 
-                                        <a href="#" target="_blank" rel="noopener noreferrer">
-                                            <span class="hover:text-blue-700 hover:underline">2022</span>
+                                        <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                            <span class="hover:text-blue-700 hover:underline text-gray-400">2022</span>
                                         </a> | 
-                                        <a href="#" target="_blank" rel="noopener noreferrer">
-                                            <span class="hover:text-blue-700 hover:underline">2021</span>
+                                        <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                            <span class="hover:text-blue-700 hover:underline text-gray-400">2021</span>
                                         </a> | 
-                                        <a href="#" target="_blank" rel="noopener noreferrer">
-                                            <span class="hover:text-blue-700 hover:underline">2020</span>
+                                        <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                            <span class="hover:text-blue-700 hover:underline text-gray-400">2020</span>
                                         </a> | 
-                                        <a href="#" target="_blank" rel="noopener noreferrer">
-                                            <span class="hover:text-blue-700 hover:underline">2019</span>
+                                        <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                            <span class="hover:text-blue-700 hover:underline text-gray-400">2019</span>
                                         </a> | 
-                                        <a href="#" target="_blank" rel="noopener noreferrer">
-                                            <span class="hover:text-blue-700 hover:underline">2018</span>
+                                        <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                            <span class="hover:text-blue-700 hover:underline text-gray-400">2018</span>
                                         </a> | 
-                                        <a href="#" target="_blank" rel="noopener noreferrer">
-                                            <span class="hover:text-blue-700 hover:underline">2017</span>
+                                        <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                            <span class="hover:text-blue-700 hover:underline text-gray-400">2017</span>
                                         </a> | 
-                                        <a href="#" target="_blank" rel="noopener noreferrer">
-                                            <span class="hover:text-blue-700 hover:underline">2016</span>
+                                        <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                            <span class="hover:text-blue-700 hover:underline text-gray-400">2016</span>
                                         </a> | 
                                         <a href="http://gofile.me/5G3uP/z9OtOPmVZ" target="_blank" rel="noopener noreferrer">
                                             <span class="hover:text-blue-700 hover:underline">2015</span>
@@ -212,35 +212,35 @@
                                 <p class="collapsible cursor-pointer hover:text-blue-700 hover:underline">Summary Report of Disbursements</p>
                                 <ul class="[list-style-type:circle] hidden mx-4 p-2 space-y-2">
                                     <li>
-                                        <a href="#" target="_blank" rel="noopener noreferrer">
-                                            <span class="hover:text-blue-700 hover:underline">2025</span>
+                                        <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                            <span class="hover:text-blue-700 hover:underline text-gray-400">2025</span>
                                         </a> | 
-                                        <a href="#" target="_blank" rel="noopener noreferrer">
-                                            <span class="hover:text-blue-700 hover:underline">2024</span>
+                                        <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                            <span class="hover:text-blue-700 hover:underline text-gray-400">2024</span>
                                         </a> | 
-                                        <a href="#" target="_blank" rel="noopener noreferrer">
-                                            <span class="hover:text-blue-700 hover:underline">2023</span>
+                                        <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                            <span class="hover:text-blue-700 hover:underline text-gray-400">2023</span>
                                         </a> | 
-                                        <a href="#" target="_blank" rel="noopener noreferrer">
-                                            <span class="hover:text-blue-700 hover:underline">2022</span>
+                                        <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                            <span class="hover:text-blue-700 hover:underline text-gray-400">2022</span>
                                         </a> | 
-                                        <a href="#" target="_blank" rel="noopener noreferrer">
-                                            <span class="hover:text-blue-700 hover:underline">2021</span>
+                                        <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                            <span class="hover:text-blue-700 hover:underline text-gray-400">2021</span>
                                         </a> | 
-                                        <a href="#" target="_blank" rel="noopener noreferrer">
-                                            <span class="hover:text-blue-700 hover:underline">2020</span>
+                                        <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                            <span class="hover:text-blue-700 hover:underline text-gray-400">2020</span>
                                         </a> | 
-                                        <a href="#" target="_blank" rel="noopener noreferrer">
-                                            <span class="hover:text-blue-700 hover:underline">2019</span>
+                                        <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                            <span class="hover:text-blue-700 hover:underline text-gray-400">2019</span>
                                         </a> | 
-                                        <a href="#" target="_blank" rel="noopener noreferrer">
-                                            <span class="hover:text-blue-700 hover:underline">2018</span>
+                                        <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                            <span class="hover:text-blue-700 hover:underline text-gray-400">2018</span>
                                         </a> | 
-                                        <a href="#" target="_blank" rel="noopener noreferrer">
-                                            <span class="hover:text-blue-700 hover:underline">2017</span>
+                                        <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                            <span class="hover:text-blue-700 hover:underline text-gray-400">2017</span>
                                         </a> | 
-                                        <a href="#" target="_blank" rel="noopener noreferrer">
-                                            <span class="hover:text-blue-700 hover:underline">2016</span>
+                                        <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                            <span class="hover:text-blue-700 hover:underline text-gray-400">2016</span>
                                         </a> | 
                                         <a href="http://gofile.me/5G3uP/m68EVKW2U" target="_blank" rel="noopener noreferrer">
                                             <span class="hover:text-blue-700 hover:underline">2015</span>
@@ -267,17 +267,17 @@
                                         <p class="collapsible cursor-pointer hover:text-blue-700 hover:underline">BAR 1: Quarterly Physical Report of Operations</p>
                                         <ul class="[list-style-type:square] hidden mx-4 p-2 space-y-2">
                                             <li>2025: 
-                                                <a href="#" target="_blank" rel="noopener noreferrer">
-                                                    <span class="hover:text-blue-700 hover:underline">1st Qtr</span>
+                                                <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                    <span class="hover:text-blue-700 hover:underline text-gray-400">1st Qtr</span>
                                                 </a> | 
-                                                <a href="#" target="_blank" rel="noopener noreferrer">
-                                                    <span class="hover:text-blue-700 hover:underline">2nd Qtr</span>
+                                                <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                    <span class="hover:text-blue-700 hover:underline text-gray-400">2nd Qtr</span>
                                                 </a> | 
-                                                <a href="#" target="_blank" rel="noopener noreferrer">
-                                                    <span class="hover:text-blue-700 hover:underline">3rd Qtr</span>
+                                                <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                    <span class="hover:text-blue-700 hover:underline text-gray-400">3rd Qtr</span>
                                                 </a> | 
-                                                <a href="#" target="_blank" rel="noopener noreferrer">
-                                                    <span class="hover:text-blue-700 hover:underline">4th Qtr</span>
+                                                <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                    <span class="hover:text-blue-700 hover:underline text-gray-400">4th Qtr</span>
                                                 </a>
                                             </li>
                                             <li>2024: 
@@ -295,17 +295,17 @@
                                                 </a>
                                             </li>
                                             <li>2023: 
-                                                <a href="#" target="_blank" rel="noopener noreferrer">
-                                                    <span class="hover:text-blue-700 hover:underline">1st Qtr</span>
+                                                <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                    <span class="hover:text-blue-700 hover:underline text-gray-400">1st Qtr</span>
                                                 </a> | 
-                                                <a href="#" target="_blank" rel="noopener noreferrer">
-                                                    <span class="hover:text-blue-700 hover:underline">2nd Qtr</span>
+                                                <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                    <span class="hover:text-blue-700 hover:underline text-gray-400">2nd Qtr</span>
                                                 </a> | 
-                                                <a href="#" target="_blank" rel="noopener noreferrer">
-                                                    <span class="hover:text-blue-700 hover:underline">3rd Qtr</span>
+                                                <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                    <span class="hover:text-blue-700 hover:underline text-gray-400">3rd Qtr</span>
                                                 </a> | 
-                                                <a href="#" target="_blank" rel="noopener noreferrer">
-                                                    <span class="hover:text-blue-700 hover:underline">4th Qtr</span>
+                                                <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                    <span class="hover:text-blue-700 hover:underline text-gray-400">4th Qtr</span>
                                                 </a>
                                             </li>
                                             <li>2022: 
@@ -318,13 +318,13 @@
                                                 <a href="http://gofile.me/5G3uP/kPrS8pE0f" target="_blank" rel="noopener noreferrer">
                                                     <span class="hover:text-blue-700 hover:underline">3rd Qtr</span>
                                                 </a> | 
-                                                <a href="#" target="_blank" rel="noopener noreferrer">
-                                                    <span class="hover:text-blue-700 hover:underline">4th Qtr</span>
+                                                <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                    <span class="hover:text-blue-700 hover:underline text-gray-400">4th Qtr</span>
                                                 </a>
                                             </li>
                                             <li>2021: 
-                                                <a href="#" target="_blank" rel="noopener noreferrer">
-                                                    <span class="hover:text-blue-700 hover:underline">1st Qtr</span>
+                                                <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                    <span class="hover:text-blue-700 hover:underline text-gray-400">1st Qtr</span>
                                                 </a> | 
                                                 <a href="http://gofile.me/5G3uP/1cObXwKjH" target="_blank" rel="noopener noreferrer">
                                                     <span class="hover:text-blue-700 hover:underline">2nd Qtr</span>
@@ -337,8 +337,8 @@
                                                 </a>
                                             </li>
                                             <li>2020: 
-                                                <a href="#" target="_blank" rel="noopener noreferrer">
-                                                    <span class="hover:text-blue-700 hover:underline">1st Qtr</span>
+                                                <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                    <span class="hover:text-blue-700 hover:underline text-gray-400">1st Qtr</span>
                                                 </a> | 
                                                 <a href="http://gofile.me/5G3uP/wE6B9vJYX" target="_blank" rel="noopener noreferrer">
                                                     <span class="hover:text-blue-700 hover:underline">2nd Qtr</span>
@@ -365,28 +365,28 @@
                                                 </a>
                                             </li>
                                             <li>2018: 
-                                                <a href="#" target="_blank" rel="noopener noreferrer">
-                                                    <span class="hover:text-blue-700 hover:underline">1st Qtr</span>
+                                                <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                    <span class="hover:text-blue-700 hover:underline text-gray-400">1st Qtr</span>
                                                 </a> | 
-                                                <a href="#" target="_blank" rel="noopener noreferrer">
-                                                    <span class="hover:text-blue-700 hover:underline">2nd Qtr</span>
+                                                <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                    <span class="hover:text-blue-700 hover:underline text-gray-400">2nd Qtr</span>
                                                 </a> | 
-                                                <a href="#" target="_blank" rel="noopener noreferrer">
-                                                    <span class="hover:text-blue-700 hover:underline">3rd Qtr</span>
+                                                <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                    <span class="hover:text-blue-700 hover:underline text-gray-400">3rd Qtr</span>
                                                 </a> | 
-                                                <a href="#" target="_blank" rel="noopener noreferrer">
-                                                    <span class="hover:text-blue-700 hover:underline">4th Qtr</span>
+                                                <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                    <span class="hover:text-blue-700 hover:underline text-gray-400">4th Qtr</span>
                                                 </a>
                                             </li>
                                             <li>
                                                 <a href="http://gofile.me/5G3uP/i4qLa2eem" target="_blank" rel="noopener noreferrer">
                                                     <span class="hover:text-blue-700 hover:underline">2017</span>
                                                 </a> | 
-                                                <a href="#" target="_blank" rel="noopener noreferrer">
-                                                    <span class="hover:text-blue-700 hover:underline">2016</span>
+                                                <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                    <span class="hover:text-blue-700 hover:underline text-gray-400">2016</span>
                                                 </a> | 
-                                                <a href="#" target="_blank" rel="noopener noreferrer">
-                                                    <span class="hover:text-blue-700 hover:underline">2015</span>
+                                                <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                    <span class="hover:text-blue-700 hover:underline text-gray-400">2015</span>
                                                 </a> | 
                                                 <a href="http://gofile.me/5G3uP/iAMEe0Wc4" target="_blank" rel="noopener noreferrer">
                                                     <span class="hover:text-blue-700 hover:underline">2014</span>
@@ -407,11 +407,11 @@
                                                         <a href="http://gofile.me/5G3uP/JjwoSpnfu" target="_blank" rel="noopener noreferrer">
                                                             <span class="hover:text-blue-700 hover:underline">2nd Qtr</span>
                                                         </a> | 
-                                                        <a href="#" target="_blank" rel="noopener noreferrer">
-                                                            <span class="hover:text-blue-700 hover:underline">3rd Qtr</span>
+                                                        <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                            <span class="hover:text-blue-700 hover:underline text-gray-400">3rd Qtr</span>
                                                         </a> | 
-                                                        <a href="#" target="_blank" rel="noopener noreferrer">
-                                                            <span class="hover:text-blue-700 hover:underline">4th Qtr</span>
+                                                        <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                            <span class="hover:text-blue-700 hover:underline text-gray-400">4th Qtr</span>
                                                         </a>
                                                     </li>
                                                     <li>Continuing Allocation: 
@@ -421,11 +421,11 @@
                                                         <a href="http://gofile.me/5G3uP/3OH5nSSj5" target="_blank" rel="noopener noreferrer">
                                                             <span class="hover:text-blue-700 hover:underline">2nd Qtr</span>
                                                         </a> | 
-                                                        <a href="#" target="_blank" rel="noopener noreferrer">
-                                                            <span class="hover:text-blue-700 hover:underline">3rd Qtr</span>
+                                                        <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                            <span class="hover:text-blue-700 hover:underline text-gray-400">3rd Qtr</span>
                                                         </a> | 
-                                                        <a href="#" target="_blank" rel="noopener noreferrer">
-                                                            <span class="hover:text-blue-700 hover:underline">4th Qtr</span>
+                                                        <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                            <span class="hover:text-blue-700 hover:underline text-gray-400">4th Qtr</span>
                                                         </a>
                                                     </li>
                                                 </ul>
@@ -467,31 +467,31 @@
                                                 <p class="collapsible cursor-pointer hover:text-blue-700 hover:underline">2023</p>
                                                 <ul class="[list-style-type:square] hidden mx-4 p-2 space-y-2">
                                                     <li>Current: 
-                                                        <a href="#" target="_blank" rel="noopener noreferrer">
-                                                            <span class="hover:text-blue-700 hover:underline">1st Qtr</span>
+                                                        <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                            <span class="hover:text-blue-700 hover:underline text-gray-400">1st Qtr</span>
                                                         </a> | 
-                                                        <a href="#" target="_blank" rel="noopener noreferrer">
-                                                            <span class="hover:text-blue-700 hover:underline">2nd Qtr</span>
+                                                        <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                            <span class="hover:text-blue-700 hover:underline text-gray-400">2nd Qtr</span>
                                                         </a> | 
-                                                        <a href="#" target="_blank" rel="noopener noreferrer">
-                                                            <span class="hover:text-blue-700 hover:underline">3rd Qtr</span>
+                                                        <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                            <span class="hover:text-blue-700 hover:underline text-gray-400">3rd Qtr</span>
                                                         </a> | 
-                                                        <a href="#" target="_blank" rel="noopener noreferrer">
-                                                            <span class="hover:text-blue-700 hover:underline">4th Qtr</span>
+                                                        <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                            <span class="hover:text-blue-700 hover:underline text-gray-400">4th Qtr</span>
                                                         </a>
                                                     </li>
                                                     <li>Continuing Allocation: 
-                                                        <a href="#" target="_blank" rel="noopener noreferrer">
-                                                            <span class="hover:text-blue-700 hover:underline">1st Qtr</span>
+                                                        <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                            <span class="hover:text-blue-700 hover:underline text-gray-400">1st Qtr</span>
                                                         </a> | 
-                                                        <a href="#" target="_blank" rel="noopener noreferrer">
-                                                            <span class="hover:text-blue-700 hover:underline">2nd Qtr</span>
+                                                        <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                            <span class="hover:text-blue-700 hover:underline text-gray-400">2nd Qtr</span>
                                                         </a> | 
-                                                        <a href="#" target="_blank" rel="noopener noreferrer">
-                                                            <span class="hover:text-blue-700 hover:underline">3rd Qtr</span>
+                                                        <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                            <span class="hover:text-blue-700 hover:underline text-gray-400">3rd Qtr</span>
                                                         </a> | 
-                                                        <a href="#" target="_blank" rel="noopener noreferrer">
-                                                            <span class="hover:text-blue-700 hover:underline">4th Qtr</span>
+                                                        <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                            <span class="hover:text-blue-700 hover:underline text-gray-400">4th Qtr</span>
                                                         </a>
                                                     </li>
                                                 </ul>
@@ -509,22 +509,22 @@
                                                         <a href="http://gofile.me/5G3uP/PXbESgPAP" target="_blank" rel="noopener noreferrer">
                                                             <span class="hover:text-blue-700 hover:underline">3rd Qtr</span>
                                                         </a> | 
-                                                        <a href="#" target="_blank" rel="noopener noreferrer">
-                                                            <span class="hover:text-blue-700 hover:underline">4th Qtr</span>
+                                                        <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                            <span class="hover:text-blue-700 hover:underline text-gray-400">4th Qtr</span>
                                                         </a>
                                                     </li>
                                                     <li>Continuing Allocation: 
-                                                        <a href="#" target="_blank" rel="noopener noreferrer">
-                                                            <span class="hover:text-blue-700 hover:underline">1st Qtr</span>
+                                                        <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                            <span class="hover:text-blue-700 hover:underline text-gray-400">1st Qtr</span>
                                                         </a> | 
-                                                        <a href="#" target="_blank" rel="noopener noreferrer">
-                                                            <span class="hover:text-blue-700 hover:underline">2nd Qtr</span>
+                                                        <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                            <span class="hover:text-blue-700 hover:underline text-gray-400">2nd Qtr</span>
                                                         </a> | 
-                                                        <a href="#" target="_blank" rel="noopener noreferrer">
-                                                            <span class="hover:text-blue-700 hover:underline">3rd Qtr</span>
+                                                        <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                            <span class="hover:text-blue-700 hover:underline text-gray-400">3rd Qtr</span>
                                                         </a> | 
-                                                        <a href="#" target="_blank" rel="noopener noreferrer">
-                                                            <span class="hover:text-blue-700 hover:underline">4th Qtr</span>
+                                                        <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                            <span class="hover:text-blue-700 hover:underline text-gray-400">4th Qtr</span>
                                                         </a>
                                                     </li>
                                                 </ul>
@@ -547,17 +547,17 @@
                                                         </a>
                                                     </li>
                                                     <li>Continuing Allocation: 
-                                                        <a href="#" target="_blank" rel="noopener noreferrer">
-                                                            <span class="hover:text-blue-700 hover:underline">1st Qtr</span>
+                                                        <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                            <span class="hover:text-blue-700 hover:underline text-gray-400">1st Qtr</span>
                                                         </a> | 
                                                         <a href="http://gofile.me/5G3uP/tcfYteXKt" target="_blank" rel="noopener noreferrer">
                                                             <span class="hover:text-blue-700 hover:underline">2nd Qtr</span>
                                                         </a> | 
-                                                        <a href="#" target="_blank" rel="noopener noreferrer">
-                                                            <span class="hover:text-blue-700 hover:underline">3rd Qtr</span>
+                                                        <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                            <span class="hover:text-blue-700 hover:underline text-gray-400">3rd Qtr</span>
                                                         </a> | 
-                                                        <a href="#" target="_blank" rel="noopener noreferrer">
-                                                            <span class="hover:text-blue-700 hover:underline">4th Qtr</span>
+                                                        <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                            <span class="hover:text-blue-700 hover:underline text-gray-400">4th Qtr</span>
                                                         </a>
                                                     </li>
                                                 </ul>
@@ -580,17 +580,17 @@
                                                         </a>
                                                     </li>
                                                     <li>Continuing Allocation: 
-                                                        <a href="#" target="_blank" rel="noopener noreferrer">
-                                                            <span class="hover:text-blue-700 hover:underline">1st Qtr</span>
+                                                        <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                            <span class="hover:text-blue-700 hover:underline text-gray-400">1st Qtr</span>
                                                         </a> | 
-                                                        <a href="#" target="_blank" rel="noopener noreferrer">
-                                                            <span class="hover:text-blue-700 hover:underline">2nd Qtr</span>
+                                                        <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                            <span class="hover:text-blue-700 hover:underline text-gray-400">2nd Qtr</span>
                                                         </a> | 
-                                                        <a href="#" target="_blank" rel="noopener noreferrer">
-                                                            <span class="hover:text-blue-700 hover:underline">3rd Qtr</span>
+                                                        <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                            <span class="hover:text-blue-700 hover:underline text-gray-400">3rd Qtr</span>
                                                         </a> | 
-                                                        <a href="#" target="_blank" rel="noopener noreferrer">
-                                                            <span class="hover:text-blue-700 hover:underline">4th Qtr</span>
+                                                        <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                            <span class="hover:text-blue-700 hover:underline text-gray-400">4th Qtr</span>
                                                         </a>
                                                     </li>
                                                 </ul>
@@ -613,17 +613,17 @@
                                                         </a>
                                                     </li>
                                                     <li>Continuing Allocation: 
-                                                        <a href="#" target="_blank" rel="noopener noreferrer">
-                                                            <span class="hover:text-blue-700 hover:underline">1st Qtr</span>
+                                                        <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                            <span class="hover:text-blue-700 hover:underline text-gray-400">1st Qtr</span>
                                                         </a> | 
-                                                        <a href="#" target="_blank" rel="noopener noreferrer">
-                                                            <span class="hover:text-blue-700 hover:underline">2nd Qtr</span>
+                                                        <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                            <span class="hover:text-blue-700 hover:underline text-gray-400">2nd Qtr</span>
                                                         </a> | 
-                                                        <a href="#" target="_blank" rel="noopener noreferrer">
-                                                            <span class="hover:text-blue-700 hover:underline">3rd Qtr</span>
+                                                        <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                            <span class="hover:text-blue-700 hover:underline text-gray-400">3rd Qtr</span>
                                                         </a> | 
-                                                        <a href="#" target="_blank" rel="noopener noreferrer">
-                                                            <span class="hover:text-blue-700 hover:underline">4th Qtr</span>
+                                                        <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                            <span class="hover:text-blue-700 hover:underline text-gray-400">4th Qtr</span>
                                                         </a>
                                                     </li>
                                                 </ul>
@@ -657,8 +657,8 @@
                                                 </a>
                                             </li>
                                             <li>
-                                                <a href="#" target="_blank" rel="noopener noreferrer">
-                                                    <span class="hover:text-blue-700 hover:underline">2016</span>
+                                                <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                    <span class="hover:text-blue-700 hover:underline text-gray-400">2016</span>
                                                 </a>
                                             </li>
                                             <li>
@@ -667,8 +667,8 @@
                                                 </a>
                                             </li>
                                             <li>
-                                                <a href="#" target="_blank" rel="noopener noreferrer">
-                                                    <span class="hover:text-blue-700 hover:underline">2014</span>
+                                                <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                    <span class="hover:text-blue-700 hover:underline text-gray-400">2014</span>
                                                 </a>
                                             </li>
                                         </ul>
@@ -686,11 +686,11 @@
                                                         <a href="http://gofile.me/5G3uP/pLW8yuRml" target="_blank" rel="noopener noreferrer">
                                                             <span class="hover:text-blue-700 hover:underline">2nd Qtr</span>
                                                         </a> | 
-                                                        <a href="#" target="_blank" rel="noopener noreferrer">
-                                                            <span class="hover:text-blue-700 hover:underline">3rd Qtr</span>
+                                                        <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                            <span class="hover:text-blue-700 hover:underline text-gray-400">3rd Qtr</span>
                                                         </a> | 
-                                                        <a href="#" target="_blank" rel="noopener noreferrer">
-                                                            <span class="hover:text-blue-700 hover:underline">4th Qtr</span>
+                                                        <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                            <span class="hover:text-blue-700 hover:underline text-gray-400">4th Qtr</span>
                                                         </a>
                                                     </li>
                                                     <li>Continuing Allocation: 
@@ -700,11 +700,11 @@
                                                         <a href="http://gofile.me/5G3uP/JWHoKzOA5" target="_blank" rel="noopener noreferrer">
                                                             <span class="hover:text-blue-700 hover:underline">2nd Qtr</span>
                                                         </a> | 
-                                                        <a href="#" target="_blank" rel="noopener noreferrer">
-                                                            <span class="hover:text-blue-700 hover:underline">3rd Qtr</span>
+                                                        <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                            <span class="hover:text-blue-700 hover:underline text-gray-400">3rd Qtr</span>
                                                         </a> | 
-                                                        <a href="#" target="_blank" rel="noopener noreferrer">
-                                                            <span class="hover:text-blue-700 hover:underline">4th Qtr</span>
+                                                        <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                            <span class="hover:text-blue-700 hover:underline text-gray-400">4th Qtr</span>
                                                         </a>
                                                     </li>
                                                 </ul>
@@ -736,8 +736,8 @@
                                                         <a href="http://gofile.me/5G3uP/FyPMg7kjR" target="_blank" rel="noopener noreferrer">
                                                             <span class="hover:text-blue-700 hover:underline">3rd Qtr</span>
                                                         </a> | 
-                                                        <a href="#" target="_blank" rel="noopener noreferrer">
-                                                            <span class="hover:text-blue-700 hover:underline">4th Qtr</span>
+                                                        <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                            <span class="hover:text-blue-700 hover:underline text-gray-400">4th Qtr</span>
                                                         </a>
                                                     </li>
                                                 </ul>
@@ -746,31 +746,31 @@
                                                 <p class="collapsible cursor-pointer hover:text-blue-700 hover:underline">2023</p>
                                                 <ul class="[list-style-type:square] hidden mx-4 p-2 space-y-2">
                                                     <li>Current: 
-                                                        <a href="#" target="_blank" rel="noopener noreferrer">
-                                                            <span class="hover:text-blue-700 hover:underline">1st Qtr</span>
+                                                        <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                            <span class="hover:text-blue-700 hover:underline text-gray-400">1st Qtr</span>
                                                         </a> | 
-                                                        <a href="#" target="_blank" rel="noopener noreferrer">
-                                                            <span class="hover:text-blue-700 hover:underline">2nd Qtr</span>
+                                                        <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                            <span class="hover:text-blue-700 hover:underline text-gray-400">2nd Qtr</span>
                                                         </a> | 
-                                                        <a href="#" target="_blank" rel="noopener noreferrer">
-                                                            <span class="hover:text-blue-700 hover:underline">3rd Qtr</span>
+                                                        <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                            <span class="hover:text-blue-700 hover:underline text-gray-400">3rd Qtr</span>
                                                         </a> | 
-                                                        <a href="#" target="_blank" rel="noopener noreferrer">
-                                                            <span class="hover:text-blue-700 hover:underline">4th Qtr</span>
+                                                        <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                            <span class="hover:text-blue-700 hover:underline text-gray-400">4th Qtr</span>
                                                         </a>
                                                     </li>
                                                     <li>Continuing Allocation: 
-                                                        <a href="#" target="_blank" rel="noopener noreferrer">
-                                                            <span class="hover:text-blue-700 hover:underline">1st Qtr</span>
+                                                        <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                            <span class="hover:text-blue-700 hover:underline text-gray-400">1st Qtr</span>
                                                         </a> | 
-                                                        <a href="#" target="_blank" rel="noopener noreferrer">
-                                                            <span class="hover:text-blue-700 hover:underline">2nd Qtr</span>
+                                                        <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                            <span class="hover:text-blue-700 hover:underline text-gray-400">2nd Qtr</span>
                                                         </a> | 
-                                                        <a href="#" target="_blank" rel="noopener noreferrer">
-                                                            <span class="hover:text-blue-700 hover:underline">3rd Qtr</span>
+                                                        <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                            <span class="hover:text-blue-700 hover:underline text-gray-400">3rd Qtr</span>
                                                         </a> | 
-                                                        <a href="#" target="_blank" rel="noopener noreferrer">
-                                                            <span class="hover:text-blue-700 hover:underline">4th Qtr</span>
+                                                        <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                            <span class="hover:text-blue-700 hover:underline text-gray-400">4th Qtr</span>
                                                         </a>
                                                     </li>
                                                 </ul>
@@ -788,22 +788,22 @@
                                                         <a href="http://gofile.me/5G3uP/6nGDApcZO" target="_blank" rel="noopener noreferrer">
                                                             <span class="hover:text-blue-700 hover:underline">3rd Qtr</span>
                                                         </a> | 
-                                                        <a href="#" target="_blank" rel="noopener noreferrer">
-                                                            <span class="hover:text-blue-700 hover:underline">4th Qtr</span>
+                                                        <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                            <span class="hover:text-blue-700 hover:underline text-gray-400">4th Qtr</span>
                                                         </a>
                                                     </li>
                                                     <li>Continuing Allocation: 
-                                                        <a href="#" target="_blank" rel="noopener noreferrer">
-                                                            <span class="hover:text-blue-700 hover:underline">1st Qtr</span>
+                                                        <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                            <span class="hover:text-blue-700 hover:underline text-gray-400">1st Qtr</span>
                                                         </a> | 
-                                                        <a href="#" target="_blank" rel="noopener noreferrer">
-                                                            <span class="hover:text-blue-700 hover:underline">2nd Qtr</span>
+                                                        <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                            <span class="hover:text-blue-700 hover:underline text-gray-400">2nd Qtr</span>
                                                         </a> | 
                                                         <a href="http://gofile.me/5G3uP/IIn8rAUN9" target="_blank" rel="noopener noreferrer">
                                                             <span class="hover:text-blue-700 hover:underline">3rd Qtr</span>
                                                         </a> | 
-                                                        <a href="#" target="_blank" rel="noopener noreferrer">
-                                                            <span class="hover:text-blue-700 hover:underline">4th Qtr</span>
+                                                        <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                            <span class="hover:text-blue-700 hover:underline text-gray-400">4th Qtr</span>
                                                         </a>
                                                     </li>
                                                 </ul>
@@ -826,8 +826,8 @@
                                                         </a>
                                                     </li>
                                                     <li>Continuing Allocation: 
-                                                        <a href="#" target="_blank" rel="noopener noreferrer">
-                                                            <span class="hover:text-blue-700 hover:underline">1st Qtr</span>
+                                                        <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                            <span class="hover:text-blue-700 hover:underline text-gray-400">1st Qtr</span>
                                                         </a> | 
                                                         <a href="http://gofile.me/5G3uP/K8zvIoIWC" target="_blank" rel="noopener noreferrer">
                                                             <span class="hover:text-blue-700 hover:underline">2nd Qtr</span>
@@ -835,8 +835,8 @@
                                                         <a href="http://gofile.me/5G3uP/rExpJeIYn" target="_blank" rel="noopener noreferrer">
                                                             <span class="hover:text-blue-700 hover:underline">3rd Qtr</span>
                                                         </a> | 
-                                                        <a href="#" target="_blank" rel="noopener noreferrer">
-                                                            <span class="hover:text-blue-700 hover:underline">4th Qtr</span>
+                                                        <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                            <span class="hover:text-blue-700 hover:underline text-gray-400">4th Qtr</span>
                                                         </a>
                                                     </li>
                                                 </ul>
@@ -859,17 +859,17 @@
                                                         </a>
                                                     </li>
                                                     <li>Continuing Allocation: 
-                                                        <a href="#" target="_blank" rel="noopener noreferrer">
-                                                            <span class="hover:text-blue-700 hover:underline">1st Qtr</span>
+                                                        <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                            <span class="hover:text-blue-700 hover:underline text-gray-400">1st Qtr</span>
                                                         </a> | 
-                                                        <a href="#" target="_blank" rel="noopener noreferrer">
-                                                            <span class="hover:text-blue-700 hover:underline">2nd Qtr</span>
+                                                        <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                            <span class="hover:text-blue-700 hover:underline text-gray-400">2nd Qtr</span>
                                                         </a> | 
-                                                        <a href="#" target="_blank" rel="noopener noreferrer">
-                                                            <span class="hover:text-blue-700 hover:underline">3rd Qtr</span>
+                                                        <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                            <span class="hover:text-blue-700 hover:underline text-gray-400">3rd Qtr</span>
                                                         </a> | 
-                                                        <a href="#" target="_blank" rel="noopener noreferrer">
-                                                            <span class="hover:text-blue-700 hover:underline">4th Qtr</span>
+                                                        <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                            <span class="hover:text-blue-700 hover:underline text-gray-400">4th Qtr</span>
                                                         </a>
                                                     </li>
                                                 </ul>
@@ -892,17 +892,17 @@
                                                         </a>
                                                     </li>
                                                     <li>Continuing Allocation: 
-                                                        <a href="#" target="_blank" rel="noopener noreferrer">
-                                                            <span class="hover:text-blue-700 hover:underline">1st Qtr</span>
+                                                        <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                            <span class="hover:text-blue-700 hover:underline text-gray-400">1st Qtr</span>
                                                         </a> | 
-                                                        <a href="#" target="_blank" rel="noopener noreferrer">
-                                                            <span class="hover:text-blue-700 hover:underline">2nd Qtr</span>
+                                                        <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                            <span class="hover:text-blue-700 hover:underline text-gray-400">2nd Qtr</span>
                                                         </a> | 
-                                                        <a href="#" target="_blank" rel="noopener noreferrer">
-                                                            <span class="hover:text-blue-700 hover:underline">3rd Qtr</span>
+                                                        <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                            <span class="hover:text-blue-700 hover:underline text-gray-400">3rd Qtr</span>
                                                         </a> | 
-                                                        <a href="#" target="_blank" rel="noopener noreferrer">
-                                                            <span class="hover:text-blue-700 hover:underline">4th Qtr</span>
+                                                        <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                            <span class="hover:text-blue-700 hover:underline text-gray-400">4th Qtr</span>
                                                         </a>
                                                     </li>
                                                 </ul>
@@ -936,18 +936,18 @@
                                                 </a>
                                             </li>
                                             <li>
-                                                <a href="#" target="_blank" rel="noopener noreferrer">
-                                                    <span class="hover:text-blue-700 hover:underline">2016</span>
+                                                <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                    <span class="hover:text-blue-700 hover:underline text-gray-400">2016</span>
                                                 </a>
                                             </li>
                                             <li>
-                                                <a href="#" target="_blank" rel="noopener noreferrer">
-                                                    <span class="hover:text-blue-700 hover:underline">2015</span>
+                                                <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                    <span class="hover:text-blue-700 hover:underline text-gray-400">2015</span>
                                                 </a>
                                             </li>
                                             <li>
-                                                <a href="#" target="_blank" rel="noopener noreferrer">
-                                                    <span class="hover:text-blue-700 hover:underline">2014</span>
+                                                <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                    <span class="hover:text-blue-700 hover:underline text-gray-400">2014</span>
                                                 </a>
                                             </li>
                                         </ul>
@@ -965,11 +965,11 @@
                                                         <a href="http://gofile.me/5G3uP/QKVWbIqLM" target="_blank" rel="noopener noreferrer">
                                                             <span class="hover:text-blue-700 hover:underline">2nd Qtr</span>
                                                         </a> | 
-                                                        <a href="#" target="_blank" rel="noopener noreferrer">
-                                                            <span class="hover:text-blue-700 hover:underline">3rd Qtr</span>
+                                                        <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                            <span class="hover:text-blue-700 hover:underline text-gray-400">3rd Qtr</span>
                                                         </a> | 
-                                                        <a href="#" target="_blank" rel="noopener noreferrer">
-                                                            <span class="hover:text-blue-700 hover:underline">4th Qtr</span>
+                                                        <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                            <span class="hover:text-blue-700 hover:underline text-gray-400">4th Qtr</span>
                                                         </a>
                                                     </li>
                                                     <li>Continuing Allocation: 
@@ -979,11 +979,11 @@
                                                         <a href="http://gofile.me/5G3uP/98wkk3JJe" target="_blank" rel="noopener noreferrer">
                                                             <span class="hover:text-blue-700 hover:underline">2nd Qtr</span>
                                                         </a> | 
-                                                        <a href="#" target="_blank" rel="noopener noreferrer">
-                                                            <span class="hover:text-blue-700 hover:underline">3rd Qtr</span>
+                                                        <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                            <span class="hover:text-blue-700 hover:underline text-gray-400">3rd Qtr</span>
                                                         </a> | 
-                                                        <a href="#" target="_blank" rel="noopener noreferrer">
-                                                            <span class="hover:text-blue-700 hover:underline">4th Qtr</span>
+                                                        <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                            <span class="hover:text-blue-700 hover:underline text-gray-400">4th Qtr</span>
                                                         </a>
                                                     </li>
                                                 </ul>
@@ -1025,31 +1025,31 @@
                                                 <p class="collapsible cursor-pointer hover:text-blue-700 hover:underline">2023</p>
                                                 <ul class="[list-style-type:square] hidden mx-4 p-2 space-y-2">
                                                     <li>Current: 
-                                                        <a href="#" target="_blank" rel="noopener noreferrer">
-                                                            <span class="hover:text-blue-700 hover:underline">1st Qtr</span>
+                                                        <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                            <span class="hover:text-blue-700 hover:underline text-gray-400">1st Qtr</span>
                                                         </a> | 
-                                                        <a href="#" target="_blank" rel="noopener noreferrer">
-                                                            <span class="hover:text-blue-700 hover:underline">2nd Qtr</span>
+                                                        <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                            <span class="hover:text-blue-700 hover:underline text-gray-400">2nd Qtr</span>
                                                         </a> | 
-                                                        <a href="#" target="_blank" rel="noopener noreferrer">
-                                                            <span class="hover:text-blue-700 hover:underline">3rd Qtr</span>
+                                                        <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                            <span class="hover:text-blue-700 hover:underline text-gray-400">3rd Qtr</span>
                                                         </a> | 
-                                                        <a href="#" target="_blank" rel="noopener noreferrer">
-                                                            <span class="hover:text-blue-700 hover:underline">4th Qtr</span>
+                                                        <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                            <span class="hover:text-blue-700 hover:underline text-gray-400">4th Qtr</span>
                                                         </a>
                                                     </li>
                                                     <li>Continuing Allocation: 
-                                                        <a href="#" target="_blank" rel="noopener noreferrer">
-                                                            <span class="hover:text-blue-700 hover:underline">1st Qtr</span>
+                                                        <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                            <span class="hover:text-blue-700 hover:underline text-gray-400">1st Qtr</span>
                                                         </a> | 
-                                                        <a href="#" target="_blank" rel="noopener noreferrer">
-                                                            <span class="hover:text-blue-700 hover:underline">2nd Qtr</span>
+                                                        <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                            <span class="hover:text-blue-700 hover:underline text-gray-400">2nd Qtr</span>
                                                         </a> | 
-                                                        <a href="#" target="_blank" rel="noopener noreferrer">
-                                                            <span class="hover:text-blue-700 hover:underline">3rd Qtr</span>
+                                                        <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                            <span class="hover:text-blue-700 hover:underline text-gray-400">3rd Qtr</span>
                                                         </a> | 
-                                                        <a href="#" target="_blank" rel="noopener noreferrer">
-                                                            <span class="hover:text-blue-700 hover:underline">4th Qtr</span>
+                                                        <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                            <span class="hover:text-blue-700 hover:underline text-gray-400">4th Qtr</span>
                                                         </a>
                                                     </li>
                                                 </ul>
@@ -1067,22 +1067,22 @@
                                                         <a href="http://gofile.me/5G3uP/tqMNi1gmq" target="_blank" rel="noopener noreferrer">
                                                             <span class="hover:text-blue-700 hover:underline">3rd Qtr</span>
                                                         </a> | 
-                                                        <a href="#" target="_blank" rel="noopener noreferrer">
+                                                        <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
                                                             <span class="hover:text-blue-700 hover:underline">4th Qtr</span>
                                                         </a>
                                                     </li>
                                                     <li>Continuing Allocation: 
-                                                        <a href="#" target="_blank" rel="noopener noreferrer">
-                                                            <span class="hover:text-blue-700 hover:underline">1st Qtr</span>
+                                                        <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                            <span class="hover:text-blue-700 hover:underline text-gray-400">1st Qtr</span>
                                                         </a> | 
-                                                        <a href="#" target="_blank" rel="noopener noreferrer">
-                                                            <span class="hover:text-blue-700 hover:underline">2nd Qtr</span>
+                                                        <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                            <span class="hover:text-blue-700 hover:underline text-gray-400">2nd Qtr</span>
                                                         </a> | 
-                                                        <a href="#" target="_blank" rel="noopener noreferrer">
-                                                            <span class="hover:text-blue-700 hover:underline">3rd Qtr</span>
+                                                        <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                            <span class="hover:text-blue-700 hover:underline text-gray-400">3rd Qtr</span>
                                                         </a> | 
-                                                        <a href="#" target="_blank" rel="noopener noreferrer">
-                                                            <span class="hover:text-blue-700 hover:underline">4th Qtr</span>
+                                                        <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                            <span class="hover:text-blue-700 hover:underline text-gray-400">4th Qtr</span>
                                                         </a>
                                                     </li>
                                                 </ul>
@@ -1105,8 +1105,8 @@
                                                         </a>
                                                     </li>
                                                     <li>Continuing Allocation: 
-                                                        <a href="#" target="_blank" rel="noopener noreferrer">
-                                                            <span class="hover:text-blue-700 hover:underline">1st Qtr</span>
+                                                        <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                            <span class="hover:text-blue-700 hover:underline text-gray-400">1st Qtr</span>
                                                         </a> | 
                                                         <a href="http://gofile.me/5G3uP/tcfYteXKt" target="_blank" rel="noopener noreferrer">
                                                             <span class="hover:text-blue-700 hover:underline">2nd Qtr</span>
@@ -1114,7 +1114,7 @@
                                                         <a href="http://gofile.me/5G3uP/K1ZWavL1c" target="_blank" rel="noopener noreferrer">
                                                             <span class="hover:text-blue-700 hover:underline">3rd Qtr</span>
                                                         </a> | 
-                                                        <a href="#" target="_blank" rel="noopener noreferrer">
+                                                        <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
                                                             <span class="hover:text-blue-700 hover:underline">4th Qtr</span>
                                                         </a>
                                                     </li>
@@ -1138,17 +1138,17 @@
                                                         </a>
                                                     </li>
                                                     <li>Continuing Allocation: 
-                                                        <a href="#" target="_blank" rel="noopener noreferrer">
-                                                            <span class="hover:text-blue-700 hover:underline">1st Qtr</span>
+                                                        <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                            <span class="hover:text-blue-700 hover:underline text-gray-400">1st Qtr</span>
                                                         </a> | 
-                                                        <a href="#" target="_blank" rel="noopener noreferrer">
-                                                            <span class="hover:text-blue-700 hover:underline">2nd Qtr</span>
+                                                        <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                            <span class="hover:text-blue-700 hover:underline text-gray-400">2nd Qtr</span>
                                                         </a> | 
-                                                        <a href="#" target="_blank" rel="noopener noreferrer">
-                                                            <span class="hover:text-blue-700 hover:underline">3rd Qtr</span>
+                                                        <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                            <span class="hover:text-blue-700 hover:underline text-gray-400">3rd Qtr</span>
                                                         </a> | 
-                                                        <a href="#" target="_blank" rel="noopener noreferrer">
-                                                            <span class="hover:text-blue-700 hover:underline">4th Qtr</span>
+                                                        <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                            <span class="hover:text-blue-700 hover:underline text-gray-400">4th Qtr</span>
                                                         </a>
                                                     </li>
                                                 </ul>
@@ -1171,17 +1171,17 @@
                                                         </a>
                                                     </li>
                                                     <li>Continuing Allocation: 
-                                                        <a href="#" target="_blank" rel="noopener noreferrer">
-                                                            <span class="hover:text-blue-700 hover:underline">1st Qtr</span>
+                                                        <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                            <span class="hover:text-blue-700 hover:underline text-gray-400">1st Qtr</span>
                                                         </a> | 
-                                                        <a href="#" target="_blank" rel="noopener noreferrer">
-                                                            <span class="hover:text-blue-700 hover:underline">2nd Qtr</span>
+                                                        <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                            <span class="hover:text-blue-700 hover:underline text-gray-400">2nd Qtr</span>
                                                         </a> | 
-                                                        <a href="#" target="_blank" rel="noopener noreferrer">
-                                                            <span class="hover:text-blue-700 hover:underline">3rd Qtr</span>
+                                                        <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                            <span class="hover:text-blue-700 hover:underline text-gray-400">3rd Qtr</span>
                                                         </a> | 
-                                                        <a href="#" target="_blank" rel="noopener noreferrer">
-                                                            <span class="hover:text-blue-700 hover:underline">4th Qtr</span>
+                                                        <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                            <span class="hover:text-blue-700 hover:underline text-gray-400">4th Qtr</span>
                                                         </a>
                                                     </li>
                                                 </ul>
@@ -1215,8 +1215,8 @@
                                                 </a>
                                             </li>
                                             <li>
-                                                <a href="#" target="_blank" rel="noopener noreferrer">
-                                                    <span class="hover:text-blue-700 hover:underline">2016</span>
+                                                <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                    <span class="hover:text-blue-700 hover:underline text-gray-400">2016</span>
                                                 </a>
                                             </li>
                                             <li>
@@ -1236,11 +1236,11 @@
                                                 <a href="http://gofile.me/5G3uP/4iySklwL3" target="_blank" rel="noopener noreferrer">
                                                     <span class="hover:text-blue-700 hover:underline">2nd Qtr</span>
                                                 </a> | 
-                                                <a href="#" target="_blank" rel="noopener noreferrer">
-                                                    <span class="hover:text-blue-700 hover:underline">3rd Qtr</span>
+                                                <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                    <span class="hover:text-blue-700 hover:underline text-gray-400">3rd Qtr</span>
                                                 </a> | 
-                                                <a href="#" target="_blank" rel="noopener noreferrer">
-                                                    <span class="hover:text-blue-700 hover:underline">4th Qtr</span>
+                                                <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                    <span class="hover:text-blue-700 hover:underline text-gray-400">4th Qtr</span>
                                                 </a>
                                             </li>
                                             <li>2024: 
@@ -1258,17 +1258,17 @@
                                                 </a>
                                             </li>
                                             <li>2023: 
-                                                <a href="#" target="_blank" rel="noopener noreferrer">
-                                                    <span class="hover:text-blue-700 hover:underline">1st Qtr</span>
+                                                <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                    <span class="hover:text-blue-700 hover:underline text-gray-400">1st Qtr</span>
                                                 </a> | 
-                                                <a href="#" target="_blank" rel="noopener noreferrer">
-                                                    <span class="hover:text-blue-700 hover:underline">2nd Qtr</span>
+                                                <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                    <span class="hover:text-blue-700 hover:underline text-gray-400">2nd Qtr</span>
                                                 </a> | 
-                                                <a href="#" target="_blank" rel="noopener noreferrer">
-                                                    <span class="hover:text-blue-700 hover:underline">3rd Qtr</span>
+                                                <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                    <span class="hover:text-blue-700 hover:underline text-gray-400">3rd Qtr</span>
                                                 </a> | 
-                                                <a href="#" target="_blank" rel="noopener noreferrer">
-                                                    <span class="hover:text-blue-700 hover:underline">4th Qtr</span>
+                                                <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                    <span class="hover:text-blue-700 hover:underline text-gray-400">4th Qtr</span>
                                                 </a>
                                             </li>
                                             <li>2022: 
@@ -1281,8 +1281,8 @@
                                                 <a href="http://gofile.me/5G3uP/aoTPjjToL" target="_blank" rel="noopener noreferrer">
                                                     <span class="hover:text-blue-700 hover:underline">3rd Qtr</span>
                                                 </a> | 
-                                                <a href="#" target="_blank" rel="noopener noreferrer">
-                                                    <span class="hover:text-blue-700 hover:underline">4th Qtr</span>
+                                                <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                    <span class="hover:text-blue-700 hover:underline text-gray-400">4th Qtr</span>
                                                 </a>
                                             </li>
                                             <li>2021: 
@@ -1300,59 +1300,59 @@
                                                 </a>
                                             </li>
                                             <li>2020: 
-                                                <a href="#" target="_blank" rel="noopener noreferrer">
-                                                    <span class="hover:text-blue-700 hover:underline">1st Qtr</span>
+                                                <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                    <span class="hover:text-blue-700 hover:underline text-gray-400">1st Qtr</span>
                                                 </a> | 
-                                                <a href="#" target="_blank" rel="noopener noreferrer">
-                                                    <span class="hover:text-blue-700 hover:underline">2nd Qtr</span>
+                                                <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                    <span class="hover:text-blue-700 hover:underline text-gray-400">2nd Qtr</span>
                                                 </a> | 
-                                                <a href="#" target="_blank" rel="noopener noreferrer">
-                                                    <span class="hover:text-blue-700 hover:underline">3rd Qtr</span>
+                                                <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                    <span class="hover:text-blue-700 hover:underline text-gray-400">3rd Qtr</span>
                                                 </a> | 
-                                                <a href="#" target="_blank" rel="noopener noreferrer">
-                                                    <span class="hover:text-blue-700 hover:underline">4th Qtr</span>
+                                                <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                    <span class="hover:text-blue-700 hover:underline text-gray-400">4th Qtr</span>
                                                 </a>
                                             </li>
                                             <li>2019: 
-                                                <a href="#" target="_blank" rel="noopener noreferrer">
-                                                    <span class="hover:text-blue-700 hover:underline">1st Qtr</span>
+                                                <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                    <span class="hover:text-blue-700 hover:underline text-gray-400">1st Qtr</span>
                                                 </a> | 
-                                                <a href="#" target="_blank" rel="noopener noreferrer">
-                                                    <span class="hover:text-blue-700 hover:underline">2nd Qtr</span>
+                                                <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                    <span class="hover:text-blue-700 hover:underline text-gray-400">2nd Qtr</span>
                                                 </a> | 
-                                                <a href="#" target="_blank" rel="noopener noreferrer">
-                                                    <span class="hover:text-blue-700 hover:underline">3rd Qtr</span>
+                                                <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                    <span class="hover:text-blue-700 hover:underline text-gray-400">3rd Qtr</span>
                                                 </a> | 
-                                                <a href="#" target="_blank" rel="noopener noreferrer">
-                                                    <span class="hover:text-blue-700 hover:underline">4th Qtr</span>
+                                                <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                    <span class="hover:text-blue-700 hover:underline text-gray-400">4th Qtr</span>
                                                 </a>
                                             </li>
                                             <li>2018: 
-                                                <a href="#" target="_blank" rel="noopener noreferrer">
-                                                    <span class="hover:text-blue-700 hover:underline">1st Qtr</span>
+                                                <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                    <span class="hover:text-blue-700 hover:underline text-gray-400">1st Qtr</span>
                                                 </a> | 
-                                                <a href="#" target="_blank" rel="noopener noreferrer">
-                                                    <span class="hover:text-blue-700 hover:underline">2nd Qtr</span>
+                                                <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                    <span class="hover:text-blue-700 hover:underline text-gray-400">2nd Qtr</span>
                                                 </a> | 
-                                                <a href="#" target="_blank" rel="noopener noreferrer">
-                                                    <span class="hover:text-blue-700 hover:underline">3rd Qtr</span>
+                                                <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                    <span class="hover:text-blue-700 hover:underline text-gray-400">3rd Qtr</span>
                                                 </a> | 
-                                                <a href="#" target="_blank" rel="noopener noreferrer">
-                                                    <span class="hover:text-blue-700 hover:underline">4th Qtr</span>
+                                                <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                    <span class="hover:text-blue-700 hover:underline text-gray-400">4th Qtr</span>
                                                 </a>
                                             </li>
                                             <li>2017: 
-                                                <a href="#" target="_blank" rel="noopener noreferrer">
-                                                    <span class="hover:text-blue-700 hover:underline">1st Qtr</span>
+                                                <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                    <span class="hover:text-blue-700 hover:underline text-gray-400">1st Qtr</span>
                                                 </a> | 
-                                                <a href="#" target="_blank" rel="noopener noreferrer">
-                                                    <span class="hover:text-blue-700 hover:underline">2nd Qtr</span>
+                                                <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                    <span class="hover:text-blue-700 hover:underline text-gray-400">2nd Qtr</span>
                                                 </a> | 
-                                                <a href="#" target="_blank" rel="noopener noreferrer">
-                                                    <span class="hover:text-blue-700 hover:underline">3rd Qtr</span>
+                                                <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                    <span class="hover:text-blue-700 hover:underline text-gray-400">3rd Qtr</span>
                                                 </a> | 
-                                                <a href="#" target="_blank" rel="noopener noreferrer">
-                                                    <span class="hover:text-blue-700 hover:underline">4th Qtr</span>
+                                                <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                    <span class="hover:text-blue-700 hover:underline text-gray-400">4th Qtr</span>
                                                 </a>
                                             </li>
                                         </ul>
@@ -1367,11 +1367,11 @@
                                                 <a href="http://gofile.me/5G3uP/qCGcwHoHg" target="_blank" rel="noopener noreferrer">
                                                     <span class="hover:text-blue-700 hover:underline">2nd Qtr</span>
                                                 </a> | 
-                                                <a href="#" target="_blank" rel="noopener noreferrer">
-                                                    <span class="hover:text-blue-700 hover:underline">3rd Qtr</span>
+                                                <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                    <span class="hover:text-blue-700 hover:underline text-gray-400">3rd Qtr</span>
                                                 </a> | 
-                                                <a href="#" target="_blank" rel="noopener noreferrer">
-                                                    <span class="hover:text-blue-700 hover:underline">4th Qtr</span>
+                                                <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                    <span class="hover:text-blue-700 hover:underline text-gray-400">4th Qtr</span>
                                                 </a>
                                             </li>
                                             <li>2024: 
@@ -1389,17 +1389,17 @@
                                                 </a>
                                             </li>
                                             <li>2023: 
-                                                <a href="#" target="_blank" rel="noopener noreferrer">
-                                                    <span class="hover:text-blue-700 hover:underline">1st Qtr</span>
+                                                <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                    <span class="hover:text-blue-700 hover:underline text-gray-400">1st Qtr</span>
                                                 </a> | 
-                                                <a href="#" target="_blank" rel="noopener noreferrer">
-                                                    <span class="hover:text-blue-700 hover:underline">2nd Qtr</span>
+                                                <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                    <span class="hover:text-blue-700 hover:underline text-gray-400">2nd Qtr</span>
                                                 </a> | 
-                                                <a href="#" target="_blank" rel="noopener noreferrer">
-                                                    <span class="hover:text-blue-700 hover:underline">3rd Qtr</span>
+                                                <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                    <span class="hover:text-blue-700 hover:underline text-gray-400">3rd Qtr</span>
                                                 </a> | 
-                                                <a href="#" target="_blank" rel="noopener noreferrer">
-                                                    <span class="hover:text-blue-700 hover:underline">4th Qtr</span>
+                                                <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                    <span class="hover:text-blue-700 hover:underline text-gray-400">4th Qtr</span>
                                                 </a>
                                             </li>
                                             <li>2022: 
@@ -1412,8 +1412,8 @@
                                                 <a href="http://gofile.me/5G3uP/RQlOiYsal" target="_blank" rel="noopener noreferrer">
                                                     <span class="hover:text-blue-700 hover:underline">3rd Qtr</span>
                                                 </a> | 
-                                                <a href="#" target="_blank" rel="noopener noreferrer">
-                                                    <span class="hover:text-blue-700 hover:underline">4th Qtr</span>
+                                                <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                    <span class="hover:text-blue-700 hover:underline text-gray-400">4th Qtr</span>
                                                 </a>
                                             </li>
                                             <li>2021: 
@@ -1431,59 +1431,59 @@
                                                 </a>
                                             </li>
                                             <li>2020: 
-                                                <a href="#" target="_blank" rel="noopener noreferrer">
-                                                    <span class="hover:text-blue-700 hover:underline">1st Qtr</span>
+                                                <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                    <span class="hover:text-blue-700 hover:underline text-gray-400">1st Qtr</span>
                                                 </a> | 
-                                                <a href="#" target="_blank" rel="noopener noreferrer">
-                                                    <span class="hover:text-blue-700 hover:underline">2nd Qtr</span>
+                                                <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                    <span class="hover:text-blue-700 hover:underline text-gray-400">2nd Qtr</span>
                                                 </a> | 
-                                                <a href="#" target="_blank" rel="noopener noreferrer">
-                                                    <span class="hover:text-blue-700 hover:underline">3rd Qtr</span>
+                                                <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                    <span class="hover:text-blue-700 hover:underline text-gray-400">3rd Qtr</span>
                                                 </a> | 
-                                                <a href="#" target="_blank" rel="noopener noreferrer">
-                                                    <span class="hover:text-blue-700 hover:underline">4th Qtr</span>
+                                                <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                    <span class="hover:text-blue-700 hover:underline text-gray-400">4th Qtr</span>
                                                 </a>
                                             </li>
                                             <li>2019: 
-                                                <a href="#" target="_blank" rel="noopener noreferrer">
-                                                    <span class="hover:text-blue-700 hover:underline">1st Qtr</span>
+                                                <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                    <span class="hover:text-blue-700 hover:underline text-gray-400">1st Qtr</span>
                                                 </a> | 
-                                                <a href="#" target="_blank" rel="noopener noreferrer">
-                                                    <span class="hover:text-blue-700 hover:underline">2nd Qtr</span>
+                                                <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                    <span class="hover:text-blue-700 hover:underline text-gray-400">2nd Qtr</span>
                                                 </a> | 
-                                                <a href="#" target="_blank" rel="noopener noreferrer">
-                                                    <span class="hover:text-blue-700 hover:underline">3rd Qtr</span>
+                                                <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                    <span class="hover:text-blue-700 hover:underline text-gray-400">3rd Qtr</span>
                                                 </a> | 
-                                                <a href="#" target="_blank" rel="noopener noreferrer">
-                                                    <span class="hover:text-blue-700 hover:underline">4th Qtr</span>
+                                                <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                    <span class="hover:text-blue-700 hover:underline text-gray-400">4th Qtr</span>
                                                 </a>
                                             </li>
                                             <li>2018: 
-                                                <a href="#" target="_blank" rel="noopener noreferrer">
-                                                    <span class="hover:text-blue-700 hover:underline">1st Qtr</span>
+                                                <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                    <span class="hover:text-blue-700 hover:underline text-gray-400">1st Qtr</span>
                                                 </a> | 
-                                                <a href="#" target="_blank" rel="noopener noreferrer">
-                                                    <span class="hover:text-blue-700 hover:underline">2nd Qtr</span>
+                                                <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                    <span class="hover:text-blue-700 hover:underline text-gray-400">2nd Qtr</span>
                                                 </a> | 
-                                                <a href="#" target="_blank" rel="noopener noreferrer">
-                                                    <span class="hover:text-blue-700 hover:underline">3rd Qtr</span>
+                                                <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                    <span class="hover:text-blue-700 hover:underline text-gray-400">3rd Qtr</span>
                                                 </a> | 
-                                                <a href="#" target="_blank" rel="noopener noreferrer">
-                                                    <span class="hover:text-blue-700 hover:underline">4th Qtr</span>
+                                                <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                    <span class="hover:text-blue-700 hover:underline text-gray-400">4th Qtr</span>
                                                 </a>
                                             </li>
                                             <li>2017: 
-                                                <a href="#" target="_blank" rel="noopener noreferrer">
-                                                    <span class="hover:text-blue-700 hover:underline">1st Qtr</span>
+                                                <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                    <span class="hover:text-blue-700 hover:underline text-gray-400">1st Qtr</span>
                                                 </a> | 
-                                                <a href="#" target="_blank" rel="noopener noreferrer">
-                                                    <span class="hover:text-blue-700 hover:underline">2nd Qtr</span>
+                                                <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                    <span class="hover:text-blue-700 hover:underline text-gray-400">2nd Qtr</span>
                                                 </a> | 
-                                                <a href="#" target="_blank" rel="noopener noreferrer">
-                                                    <span class="hover:text-blue-700 hover:underline">3rd Qtr</span>
+                                                <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                    <span class="hover:text-blue-700 hover:underline text-gray-400">3rd Qtr</span>
                                                 </a> | 
-                                                <a href="#" target="_blank" rel="noopener noreferrer">
-                                                    <span class="hover:text-blue-700 hover:underline">4th Qtr</span>
+                                                <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                    <span class="hover:text-blue-700 hover:underline text-gray-400">4th Qtr</span>
                                                 </a>
                                             </li>
                                         </ul>
@@ -1492,41 +1492,41 @@
                                         <p class="collapsible cursor-pointer hover:text-blue-700 hover:underline">FAR 3: Aging of Due and Demandable Obligations</p>
                                         <ul class="[list-style-type:square] hidden mx-4 p-2 space-y-2">
                                             <li>
-                                                <a href="#" target="_blank" rel="noopener noreferrer">
-                                                    <span class="hover:text-blue-700 hover:underline">2025</span>
+                                                <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                    <span class="hover:text-blue-700 hover:underline text-gray-400">2025</span>
                                                 </a> | 
-                                                <a href="#" target="_blank" rel="noopener noreferrer">
-                                                    <span class="hover:text-blue-700 hover:underline">2024</span>
+                                                <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                    <span class="hover:text-blue-700 hover:underline text-gray-400">2024</span>
                                                 </a> | 
-                                                <a href="#" target="_blank" rel="noopener noreferrer">
-                                                    <span class="hover:text-blue-700 hover:underline">2023</span>
+                                                <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                    <span class="hover:text-blue-700 hover:underline text-gray-400">2023</span>
                                                 </a> | 
-                                                <a href="#" target="_blank" rel="noopener noreferrer">
-                                                    <span class="hover:text-blue-700 hover:underline">2022</span>
+                                                <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                    <span class="hover:text-blue-700 hover:underline text-gray-400">2022</span>
                                                 </a> | 
-                                                <a href="#" target="_blank" rel="noopener noreferrer">
-                                                    <span class="hover:text-blue-700 hover:underline">2021</span>
+                                                <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                    <span class="hover:text-blue-700 hover:underline text-gray-400">2021</span>
                                                 </a> | 
-                                                <a href="#" target="_blank" rel="noopener noreferrer">
-                                                    <span class="hover:text-blue-700 hover:underline">2020</span>
+                                                <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                    <span class="hover:text-blue-700 hover:underline text-gray-400">2020</span>
                                                 </a> | 
-                                                <a href="#" target="_blank" rel="noopener noreferrer">
-                                                    <span class="hover:text-blue-700 hover:underline">2019</span>
+                                                <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                    <span class="hover:text-blue-700 hover:underline text-gray-400">2019</span>
                                                 </a> | 
-                                                <a href="#" target="_blank" rel="noopener noreferrer">
-                                                    <span class="hover:text-blue-700 hover:underline">2018</span>
+                                                <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                    <span class="hover:text-blue-700 hover:underline text-gray-400">2018</span>
                                                 </a> | 
-                                                <a href="#" target="_blank" rel="noopener noreferrer">
-                                                    <span class="hover:text-blue-700 hover:underline">2017</span>
+                                                <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                    <span class="hover:text-blue-700 hover:underline text-gray-400">2017</span>
                                                 </a> | 
-                                                <a href="#" target="_blank" rel="noopener noreferrer">
-                                                    <span class="hover:text-blue-700 hover:underline">2016</span>
+                                                <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                    <span class="hover:text-blue-700 hover:underline text-gray-400">2016</span>
                                                 </a> | 
-                                                <a href="#" target="_blank" rel="noopener noreferrer">
-                                                    <span class="hover:text-blue-700 hover:underline">2015</span>
+                                                <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                    <span class="hover:text-blue-700 hover:underline text-gray-400">2015</span>
                                                 </a> | 
-                                                <a href="#" target="_blank" rel="noopener noreferrer">
-                                                    <span class="hover:text-blue-700 hover:underline">2014</span>
+                                                <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                    <span class="hover:text-blue-700 hover:underline text-gray-400">2014</span>
                                                 </a>
                                             </li>
                                         </ul>
@@ -1553,23 +1553,23 @@
                                                 <a href="http://gofile.me/5G3uP/uNjqf9jNr" target="_blank" rel="noopener noreferrer">
                                                     <span class="hover:text-blue-700 hover:underline">Jun</span>
                                                 </a> | 
-                                                <a href="#" target="_blank" rel="noopener noreferrer">
-                                                    <span class="hover:text-blue-700 hover:underline">Jul</span>
+                                                <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                    <span class="hover:text-blue-700 hover:underline text-gray-400">Jul</span>
                                                 </a> | 
-                                                <a href="#" target="_blank" rel="noopener noreferrer">
-                                                    <span class="hover:text-blue-700 hover:underline">Aug</span>
+                                                <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                    <span class="hover:text-blue-700 hover:underline text-gray-400">Aug</span>
                                                 </a> | 
-                                                <a href="#" target="_blank" rel="noopener noreferrer">
-                                                    <span class="hover:text-blue-700 hover:underline">Sep</span>
+                                                <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                    <span class="hover:text-blue-700 hover:underline text-gray-400">Sep</span>
                                                 </a> | 
-                                                <a href="#" target="_blank" rel="noopener noreferrer">
-                                                    <span class="hover:text-blue-700 hover:underline">Oct</span>
+                                                <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                    <span class="hover:text-blue-700 hover:underline text-gray-400">Oct</span>
                                                 </a> | 
-                                                <a href="#" target="_blank" rel="noopener noreferrer">
-                                                    <span class="hover:text-blue-700 hover:underline">Nov</span>
+                                                <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                    <span class="hover:text-blue-700 hover:underline text-gray-400">Nov</span>
                                                 </a> | 
-                                                <a href="#" target="_blank" rel="noopener noreferrer">
-                                                    <span class="hover:text-blue-700 hover:underline">Dec</span>
+                                                <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                    <span class="hover:text-blue-700 hover:underline text-gray-400">Dec</span>
                                                 </a>
                                             </li>
                                             <li>2024: 
@@ -1611,41 +1611,41 @@
                                                 </a>
                                             </li>
                                             <li>2023: 
-                                                <a href="#" target="_blank" rel="noopener noreferrer">
-                                                    <span class="hover:text-blue-700 hover:underline">Jan</span>
+                                                <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                    <span class="hover:text-blue-700 hover:underline text-gray-400">Jan</span>
                                                 </a> | 
-                                                <a href="#" target="_blank" rel="noopener noreferrer">
-                                                    <span class="hover:text-blue-700 hover:underline">Feb</span>
+                                                <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                    <span class="hover:text-blue-700 hover:underline text-gray-400">Feb</span>
                                                 </a> | 
-                                                <a href="#" target="_blank" rel="noopener noreferrer">
-                                                    <span class="hover:text-blue-700 hover:underline">Mar</span>
+                                                <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                    <span class="hover:text-blue-700 hover:underline text-gray-400">Mar</span>
                                                 </a> | 
-                                                <a href="#" target="_blank" rel="noopener noreferrer">
-                                                    <span class="hover:text-blue-700 hover:underline">Apr</span>
+                                                <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                    <span class="hover:text-blue-700 hover:underline text-gray-400">Apr</span>
                                                 </a> | 
-                                                <a href="#" target="_blank" rel="noopener noreferrer">
-                                                    <span class="hover:text-blue-700 hover:underline">May</span>
+                                                <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                    <span class="hover:text-blue-700 hover:underline text-gray-400">May</span>
                                                 </a> | 
-                                                <a href="#" target="_blank" rel="noopener noreferrer">
-                                                    <span class="hover:text-blue-700 hover:underline">Jun</span>
+                                                <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                    <span class="hover:text-blue-700 hover:underline text-gray-400">Jun</span>
                                                 </a> | 
-                                                <a href="#" target="_blank" rel="noopener noreferrer">
-                                                    <span class="hover:text-blue-700 hover:underline">Jul</span>
+                                                <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                    <span class="hover:text-blue-700 hover:underline text-gray-400">Jul</span>
                                                 </a> | 
-                                                <a href="#" target="_blank" rel="noopener noreferrer">
-                                                    <span class="hover:text-blue-700 hover:underline">Aug</span>
+                                                <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                    <span class="hover:text-blue-700 hover:underline text-gray-400">Aug</span>
                                                 </a> | 
-                                                <a href="#" target="_blank" rel="noopener noreferrer">
-                                                    <span class="hover:text-blue-700 hover:underline">Sep</span>
+                                                <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                    <span class="hover:text-blue-700 hover:underline text-gray-400">Sep</span>
                                                 </a> | 
-                                                <a href="#" target="_blank" rel="noopener noreferrer">
-                                                    <span class="hover:text-blue-700 hover:underline">Oct</span>
+                                                <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                    <span class="hover:text-blue-700 hover:underline text-gray-400">Oct</span>
                                                 </a> | 
-                                                <a href="#" target="_blank" rel="noopener noreferrer">
-                                                    <span class="hover:text-blue-700 hover:underline">Nov</span>
+                                                <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                    <span class="hover:text-blue-700 hover:underline text-gray-400">Nov</span>
                                                 </a> | 
-                                                <a href="#" target="_blank" rel="noopener noreferrer">
-                                                    <span class="hover:text-blue-700 hover:underline">Dec</span>
+                                                <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                    <span class="hover:text-blue-700 hover:underline text-gray-400">Dec</span>
                                                 </a>
                                             </li>
                                             <li>2022: 
@@ -1676,14 +1676,14 @@
                                                 <a href="http://gofile.me/5G3uP/v14axWNWY" target="_blank" rel="noopener noreferrer">
                                                     <span class="hover:text-blue-700 hover:underline">Sep</span>
                                                 </a> | 
-                                                <a href="#" target="_blank" rel="noopener noreferrer">
-                                                    <span class="hover:text-blue-700 hover:underline">Oct</span>
+                                                <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                    <span class="hover:text-blue-700 hover:underline text-gray-400">Oct</span>
                                                 </a> | 
-                                                <a href="#" target="_blank" rel="noopener noreferrer">
-                                                    <span class="hover:text-blue-700 hover:underline">Nov</span>
+                                                <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                    <span class="hover:text-blue-700 hover:underline text-gray-400">Nov</span>
                                                 </a> | 
-                                                <a href="#" target="_blank" rel="noopener noreferrer">
-                                                    <span class="hover:text-blue-700 hover:underline">Dec</span>
+                                                <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                    <span class="hover:text-blue-700 hover:underline text-gray-400">Dec</span>
                                                 </a>
                                             </li>
                                             <li>2021: 
@@ -1839,155 +1839,155 @@
                                                 </a>
                                             </li>
                                             <li>2017: 
-                                                <a href="#" target="_blank" rel="noopener noreferrer">
-                                                    <span class="hover:text-blue-700 hover:underline">Jan</span>
+                                                <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                    <span class="hover:text-blue-700 hover:underline text-gray-400">Jan</span>
                                                 </a> | 
-                                                <a href="#" target="_blank" rel="noopener noreferrer">
-                                                    <span class="hover:text-blue-700 hover:underline">Feb</span>
+                                                <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                    <span class="hover:text-blue-700 hover:underline text-gray-400">Feb</span>
                                                 </a> | 
-                                                <a href="#" target="_blank" rel="noopener noreferrer">
-                                                    <span class="hover:text-blue-700 hover:underline">Mar</span>
+                                                <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                    <span class="hover:text-blue-700 hover:underline text-gray-400">Mar</span>
                                                 </a> | 
-                                                <a href="#" target="_blank" rel="noopener noreferrer">
-                                                    <span class="hover:text-blue-700 hover:underline">Apr</span>
+                                                <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                    <span class="hover:text-blue-700 hover:underline text-gray-400">Apr</span>
                                                 </a> | 
-                                                <a href="#" target="_blank" rel="noopener noreferrer">
-                                                    <span class="hover:text-blue-700 hover:underline">May</span>
+                                                <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                    <span class="hover:text-blue-700 hover:underline text-gray-400">May</span>
                                                 </a> | 
-                                                <a href="#" target="_blank" rel="noopener noreferrer">
-                                                    <span class="hover:text-blue-700 hover:underline">Jun</span>
+                                                <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                    <span class="hover:text-blue-700 hover:underline text-gray-400">Jun</span>
                                                 </a> | 
-                                                <a href="#" target="_blank" rel="noopener noreferrer">
-                                                    <span class="hover:text-blue-700 hover:underline">Jul</span>
+                                                <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                    <span class="hover:text-blue-700 hover:underline text-gray-400">Jul</span>
                                                 </a> | 
-                                                <a href="#" target="_blank" rel="noopener noreferrer">
-                                                    <span class="hover:text-blue-700 hover:underline">Aug</span>
+                                                <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                    <span class="hover:text-blue-700 hover:underline text-gray-400">Aug</span>
                                                 </a> | 
-                                                <a href="#" target="_blank" rel="noopener noreferrer">
-                                                    <span class="hover:text-blue-700 hover:underline">Sep</span>
+                                                <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                    <span class="hover:text-blue-700 hover:underline text-gray-400">Sep</span>
                                                 </a> | 
-                                                <a href="#" target="_blank" rel="noopener noreferrer">
-                                                    <span class="hover:text-blue-700 hover:underline">Oct</span>
+                                                <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                    <span class="hover:text-blue-700 hover:underline text-gray-400">Oct</span>
                                                 </a> | 
-                                                <a href="#" target="_blank" rel="noopener noreferrer">
-                                                    <span class="hover:text-blue-700 hover:underline">Nov</span>
+                                                <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                    <span class="hover:text-blue-700 hover:underline text-gray-400">Nov</span>
                                                 </a> | 
-                                                <a href="#" target="_blank" rel="noopener noreferrer">
-                                                    <span class="hover:text-blue-700 hover:underline">Dec</span>
+                                                <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                    <span class="hover:text-blue-700 hover:underline text-gray-400">Dec</span>
                                                 </a>
                                             </li>
                                             <li>2016: 
-                                                <a href="#" target="_blank" rel="noopener noreferrer">
-                                                    <span class="hover:text-blue-700 hover:underline">Jan</span>
+                                                <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                    <span class="hover:text-blue-700 hover:underline text-gray-400">Jan</span>
                                                 </a> | 
-                                                <a href="#" target="_blank" rel="noopener noreferrer">
-                                                    <span class="hover:text-blue-700 hover:underline">Feb</span>
+                                                <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                    <span class="hover:text-blue-700 hover:underline text-gray-400">Feb</span>
                                                 </a> | 
-                                                <a href="#" target="_blank" rel="noopener noreferrer">
-                                                    <span class="hover:text-blue-700 hover:underline">Mar</span>
+                                                <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                    <span class="hover:text-blue-700 hover:underline text-gray-400">Mar</span>
                                                 </a> | 
-                                                <a href="#" target="_blank" rel="noopener noreferrer">
-                                                    <span class="hover:text-blue-700 hover:underline">Apr</span>
+                                                <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                    <span class="hover:text-blue-700 hover:underline text-gray-400">Apr</span>
                                                 </a> | 
-                                                <a href="#" target="_blank" rel="noopener noreferrer">
-                                                    <span class="hover:text-blue-700 hover:underline">May</span>
+                                                <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                    <span class="hover:text-blue-700 hover:underline text-gray-400">May</span>
                                                 </a> | 
-                                                <a href="#" target="_blank" rel="noopener noreferrer">
-                                                    <span class="hover:text-blue-700 hover:underline">Jun</span>
+                                                <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                    <span class="hover:text-blue-700 hover:underline text-gray-400">Jun</span>
                                                 </a> | 
-                                                <a href="#" target="_blank" rel="noopener noreferrer">
-                                                    <span class="hover:text-blue-700 hover:underline">Jul</span>
+                                                <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                    <span class="hover:text-blue-700 hover:underline text-gray-400">Jul</span>
                                                 </a> | 
-                                                <a href="#" target="_blank" rel="noopener noreferrer">
-                                                    <span class="hover:text-blue-700 hover:underline">Aug</span>
+                                                <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                    <span class="hover:text-blue-700 hover:underline text-gray-400">Aug</span>
                                                 </a> | 
-                                                <a href="#" target="_blank" rel="noopener noreferrer">
-                                                    <span class="hover:text-blue-700 hover:underline">Sep</span>
+                                                <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                    <span class="hover:text-blue-700 hover:underline text-gray-400">Sep</span>
                                                 </a> | 
-                                                <a href="#" target="_blank" rel="noopener noreferrer">
-                                                    <span class="hover:text-blue-700 hover:underline">Oct</span>
+                                                <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                    <span class="hover:text-blue-700 hover:underline text-gray-400">Oct</span>
                                                 </a> | 
-                                                <a href="#" target="_blank" rel="noopener noreferrer">
-                                                    <span class="hover:text-blue-700 hover:underline">Nov</span>
+                                                <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                    <span class="hover:text-blue-700 hover:underline text-gray-400">Nov</span>
                                                 </a> | 
-                                                <a href="#" target="_blank" rel="noopener noreferrer">
-                                                    <span class="hover:text-blue-700 hover:underline">Dec</span>
+                                                <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                    <span class="hover:text-blue-700 hover:underline text-gray-400">Dec</span>
                                                 </a>
                                             </li>
                                             <li>2015: 
-                                                <a href="#" target="_blank" rel="noopener noreferrer">
-                                                    <span class="hover:text-blue-700 hover:underline">Jan</span>
+                                                <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                    <span class="hover:text-blue-700 hover:underline text-gray-400">Jan</span>
                                                 </a> | 
-                                                <a href="#" target="_blank" rel="noopener noreferrer">
-                                                    <span class="hover:text-blue-700 hover:underline">Feb</span>
+                                                <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                    <span class="hover:text-blue-700 hover:underline text-gray-400">Feb</span>
                                                 </a> | 
-                                                <a href="#" target="_blank" rel="noopener noreferrer">
-                                                    <span class="hover:text-blue-700 hover:underline">Mar</span>
+                                                <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                    <span class="hover:text-blue-700 hover:underline text-gray-400">Mar</span>
                                                 </a> | 
-                                                <a href="#" target="_blank" rel="noopener noreferrer">
-                                                    <span class="hover:text-blue-700 hover:underline">Apr</span>
+                                                <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                    <span class="hover:text-blue-700 hover:underline text-gray-400">Apr</span>
                                                 </a> | 
-                                                <a href="#" target="_blank" rel="noopener noreferrer">
-                                                    <span class="hover:text-blue-700 hover:underline">May</span>
+                                                <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                    <span class="hover:text-blue-700 hover:underline text-gray-400">May</span>
                                                 </a> | 
-                                                <a href="#" target="_blank" rel="noopener noreferrer">
-                                                    <span class="hover:text-blue-700 hover:underline">Jun</span>
+                                                <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                    <span class="hover:text-blue-700 hover:underline text-gray-400">Jun</span>
                                                 </a> | 
-                                                <a href="#" target="_blank" rel="noopener noreferrer">
-                                                    <span class="hover:text-blue-700 hover:underline">Jul</span>
+                                                <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                    <span class="hover:text-blue-700 hover:underline text-gray-400">Jul</span>
                                                 </a> | 
-                                                <a href="#" target="_blank" rel="noopener noreferrer">
-                                                    <span class="hover:text-blue-700 hover:underline">Aug</span>
+                                                <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                    <span class="hover:text-blue-700 hover:underline text-gray-400">Aug</span>
                                                 </a> | 
-                                                <a href="#" target="_blank" rel="noopener noreferrer">
-                                                    <span class="hover:text-blue-700 hover:underline">Sep</span>
+                                                <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                    <span class="hover:text-blue-700 hover:underline text-gray-400">Sep</span>
                                                 </a> | 
-                                                <a href="#" target="_blank" rel="noopener noreferrer">
-                                                    <span class="hover:text-blue-700 hover:underline">Oct</span>
+                                                <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                    <span class="hover:text-blue-700 hover:underline text-gray-400">Oct</span>
                                                 </a> | 
-                                                <a href="#" target="_blank" rel="noopener noreferrer">
-                                                    <span class="hover:text-blue-700 hover:underline">Nov</span>
+                                                <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                    <span class="hover:text-blue-700 hover:underline text-gray-400">Nov</span>
                                                 </a> | 
-                                                <a href="#" target="_blank" rel="noopener noreferrer">
-                                                    <span class="hover:text-blue-700 hover:underline">Dec</span>
+                                                <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                    <span class="hover:text-blue-700 hover:underline text-gray-400">Dec</span>
                                                 </a>
                                             </li>
                                             <li>2014: 
-                                                <a href="#" target="_blank" rel="noopener noreferrer">
-                                                    <span class="hover:text-blue-700 hover:underline">Jan</span>
+                                                <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                    <span class="hover:text-blue-700 hover:underline text-gray-400">Jan</span>
                                                 </a> | 
-                                                <a href="#" target="_blank" rel="noopener noreferrer">
-                                                    <span class="hover:text-blue-700 hover:underline">Feb</span>
+                                                <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                    <span class="hover:text-blue-700 hover:underline text-gray-400">Feb</span>
                                                 </a> | 
-                                                <a href="#" target="_blank" rel="noopener noreferrer">
-                                                    <span class="hover:text-blue-700 hover:underline">Mar</span>
+                                                <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                    <span class="hover:text-blue-700 hover:underline text-gray-400">Mar</span>
                                                 </a> | 
-                                                <a href="#" target="_blank" rel="noopener noreferrer">
-                                                    <span class="hover:text-blue-700 hover:underline">Apr</span>
+                                                <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                    <span class="hover:text-blue-700 hover:underline text-gray-400">Apr</span>
                                                 </a> | 
-                                                <a href="#" target="_blank" rel="noopener noreferrer">
-                                                    <span class="hover:text-blue-700 hover:underline">May</span>
+                                                <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                    <span class="hover:text-blue-700 hover:underline text-gray-400">May</span>
                                                 </a> | 
-                                                <a href="#" target="_blank" rel="noopener noreferrer">
-                                                    <span class="hover:text-blue-700 hover:underline">Jun</span>
+                                                <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                    <span class="hover:text-blue-700 hover:underline text-gray-400">Jun</span>
                                                 </a> | 
-                                                <a href="#" target="_blank" rel="noopener noreferrer">
-                                                    <span class="hover:text-blue-700 hover:underline">Jul</span>
+                                                <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                    <span class="hover:text-blue-700 hover:underline text-gray-400">Jul</span>
                                                 </a> | 
-                                                <a href="#" target="_blank" rel="noopener noreferrer">
-                                                    <span class="hover:text-blue-700 hover:underline">Aug</span>
+                                                <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                    <span class="hover:text-blue-700 hover:underline text-gray-400">Aug</span>
                                                 </a> | 
-                                                <a href="#" target="_blank" rel="noopener noreferrer">
-                                                    <span class="hover:text-blue-700 hover:underline">Sep</span>
+                                                <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                    <span class="hover:text-blue-700 hover:underline text-gray-400">Sep</span>
                                                 </a> | 
-                                                <a href="#" target="_blank" rel="noopener noreferrer">
-                                                    <span class="hover:text-blue-700 hover:underline">Oct</span>
+                                                <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                    <span class="hover:text-blue-700 hover:underline text-gray-400">Oct</span>
                                                 </a> | 
-                                                <a href="#" target="_blank" rel="noopener noreferrer">
-                                                    <span class="hover:text-blue-700 hover:underline">Nov</span>
+                                                <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                    <span class="hover:text-blue-700 hover:underline text-gray-400">Nov</span>
                                                 </a> | 
-                                                <a href="#" target="_blank" rel="noopener noreferrer">
-                                                    <span class="hover:text-blue-700 hover:underline">Dec</span>
+                                                <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                    <span class="hover:text-blue-700 hover:underline text-gray-400">Dec</span>
                                                 </a>
                                             </li>
                                         </ul>
@@ -2002,11 +2002,11 @@
                                                 <a href="http://gofile.me/5G3uP/M4TMHqY5B" target="_blank" rel="noopener noreferrer">
                                                     <span class="hover:text-blue-700 hover:underline">2nd Qtr</span>
                                                 </a> | 
-                                                <a href="#" target="_blank" rel="noopener noreferrer">
-                                                    <span class="hover:text-blue-700 hover:underline">3rd Qtr</span>
+                                                <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                    <span class="hover:text-blue-700 hover:underline text-gray-400">3rd Qtr</span>
                                                 </a> | 
-                                                <a href="#" target="_blank" rel="noopener noreferrer">
-                                                    <span class="hover:text-blue-700 hover:underline">4th Qtr</span>
+                                                <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                    <span class="hover:text-blue-700 hover:underline text-gray-400">4th Qtr</span>
                                                 </a>
                                             </li>
                                             <li>2024: 
@@ -2024,17 +2024,17 @@
                                                 </a>
                                             </li>
                                             <li>2023: 
-                                                <a href="#" target="_blank" rel="noopener noreferrer">
-                                                    <span class="hover:text-blue-700 hover:underline">1st Qtr</span>
+                                                <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                    <span class="hover:text-blue-700 hover:underline text-gray-400">1st Qtr</span>
                                                 </a> | 
-                                                <a href="#" target="_blank" rel="noopener noreferrer">
-                                                    <span class="hover:text-blue-700 hover:underline">2nd Qtr</span>
+                                                <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                    <span class="hover:text-blue-700 hover:underline text-gray-400">2nd Qtr</span>
                                                 </a> | 
-                                                <a href="#" target="_blank" rel="noopener noreferrer">
-                                                    <span class="hover:text-blue-700 hover:underline">3rd Qtr</span>
+                                                <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                    <span class="hover:text-blue-700 hover:underline text-gray-400">3rd Qtr</span>
                                                 </a> | 
-                                                <a href="#" target="_blank" rel="noopener noreferrer">
-                                                    <span class="hover:text-blue-700 hover:underline">4th Qtr</span>
+                                                <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                    <span class="hover:text-blue-700 hover:underline text-gray-400">4th Qtr</span>
                                                 </a>
                                             </li>
                                             <li>2022: 
@@ -2047,7 +2047,7 @@
                                                 <a href="http://gofile.me/5G3uP/SbVBZ2Hg4" target="_blank" rel="noopener noreferrer">
                                                     <span class="hover:text-blue-700 hover:underline">3rd Qtr</span>
                                                 </a> | 
-                                                <a href="#" target="_blank" rel="noopener noreferrer">
+                                                <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
                                                     <span class="hover:text-blue-700 hover:underline">4th Qtr</span>
                                                 </a>
                                             </li>
@@ -2066,101 +2066,101 @@
                                                 </a>
                                             </li>
                                             <li>2020: 
-                                                <a href="#" target="_blank" rel="noopener noreferrer">
-                                                    <span class="hover:text-blue-700 hover:underline">1st Qtr</span>
+                                                <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                    <span class="hover:text-blue-700 hover:underline text-gray-400">1st Qtr</span>
                                                 </a> | 
-                                                <a href="#" target="_blank" rel="noopener noreferrer">
-                                                    <span class="hover:text-blue-700 hover:underline">2nd Qtr</span>
+                                                <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                    <span class="hover:text-blue-700 hover:underline text-gray-400">2nd Qtr</span>
                                                 </a> | 
-                                                <a href="#" target="_blank" rel="noopener noreferrer">
-                                                    <span class="hover:text-blue-700 hover:underline">3rd Qtr</span>
+                                                <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                    <span class="hover:text-blue-700 hover:underline text-gray-400">3rd Qtr</span>
                                                 </a> | 
-                                                <a href="#" target="_blank" rel="noopener noreferrer">
-                                                    <span class="hover:text-blue-700 hover:underline">4th Qtr</span>
+                                                <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                    <span class="hover:text-blue-700 hover:underline text-gray-400">4th Qtr</span>
                                                 </a>
                                             </li>
                                             <li>2019: 
-                                                <a href="#" target="_blank" rel="noopener noreferrer">
-                                                    <span class="hover:text-blue-700 hover:underline">1st Qtr</span>
+                                                <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                    <span class="hover:text-blue-700 hover:underline text-gray-400">1st Qtr</span>
                                                 </a> | 
-                                                <a href="#" target="_blank" rel="noopener noreferrer">
-                                                    <span class="hover:text-blue-700 hover:underline">2nd Qtr</span>
+                                                <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                    <span class="hover:text-blue-700 hover:underline text-gray-400">2nd Qtr</span>
                                                 </a> | 
-                                                <a href="#" target="_blank" rel="noopener noreferrer">
-                                                    <span class="hover:text-blue-700 hover:underline">3rd Qtr</span>
+                                                <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                    <span class="hover:text-blue-700 hover:underline text-gray-400">3rd Qtr</span>
                                                 </a> | 
-                                                <a href="#" target="_blank" rel="noopener noreferrer">
-                                                    <span class="hover:text-blue-700 hover:underline">4th Qtr</span>
+                                                <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                    <span class="hover:text-blue-700 hover:underline text-gray-400">4th Qtr</span>
                                                 </a>
                                             </li>
                                             <li>2018: 
-                                                <a href="#" target="_blank" rel="noopener noreferrer">
-                                                    <span class="hover:text-blue-700 hover:underline">1st Qtr</span>
+                                                <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                    <span class="hover:text-blue-700 hover:underline text-gray-400">1st Qtr</span>
                                                 </a> | 
-                                                <a href="#" target="_blank" rel="noopener noreferrer">
-                                                    <span class="hover:text-blue-700 hover:underline">2nd Qtr</span>
+                                                <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                    <span class="hover:text-blue-700 hover:underline text-gray-400">2nd Qtr</span>
                                                 </a> | 
-                                                <a href="#" target="_blank" rel="noopener noreferrer">
-                                                    <span class="hover:text-blue-700 hover:underline">3rd Qtr</span>
+                                                <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                    <span class="hover:text-blue-700 hover:underline text-gray-400">3rd Qtr</span>
                                                 </a> | 
-                                                <a href="#" target="_blank" rel="noopener noreferrer">
-                                                    <span class="hover:text-blue-700 hover:underline">4th Qtr</span>
+                                                <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                    <span class="hover:text-blue-700 hover:underline text-gray-400">4th Qtr</span>
                                                 </a>
                                             </li>
                                             <li>2017: 
-                                                <a href="#" target="_blank" rel="noopener noreferrer">
-                                                    <span class="hover:text-blue-700 hover:underline">1st Qtr</span>
+                                                <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                    <span class="hover:text-blue-700 hover:underline text-gray-400">1st Qtr</span>
                                                 </a> | 
-                                                <a href="#" target="_blank" rel="noopener noreferrer">
-                                                    <span class="hover:text-blue-700 hover:underline">2nd Qtr</span>
+                                                <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                    <span class="hover:text-blue-700 hover:underline text-gray-400">2nd Qtr</span>
                                                 </a> | 
-                                                <a href="#" target="_blank" rel="noopener noreferrer">
-                                                    <span class="hover:text-blue-700 hover:underline">3rd Qtr</span>
+                                                <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                    <span class="hover:text-blue-700 hover:underline text-gray-400">3rd Qtr</span>
                                                 </a> | 
-                                                <a href="#" target="_blank" rel="noopener noreferrer">
-                                                    <span class="hover:text-blue-700 hover:underline">4th Qtr</span>
+                                                <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                    <span class="hover:text-blue-700 hover:underline text-gray-400">4th Qtr</span>
                                                 </a>
                                             </li>
                                             <li>2016: 
-                                                <a href="#" target="_blank" rel="noopener noreferrer">
-                                                    <span class="hover:text-blue-700 hover:underline">1st Qtr</span>
+                                                <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                    <span class="hover:text-blue-700 hover:underline text-gray-400">1st Qtr</span>
                                                 </a> | 
-                                                <a href="#" target="_blank" rel="noopener noreferrer">
-                                                    <span class="hover:text-blue-700 hover:underline">2nd Qtr</span>
+                                                <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                    <span class="hover:text-blue-700 hover:underline text-gray-400">2nd Qtr</span>
                                                 </a> | 
-                                                <a href="#" target="_blank" rel="noopener noreferrer">
-                                                    <span class="hover:text-blue-700 hover:underline">3rd Qtr</span>
+                                                <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                    <span class="hover:text-blue-700 hover:underline text-gray-400">3rd Qtr</span>
                                                 </a> | 
-                                                <a href="#" target="_blank" rel="noopener noreferrer">
-                                                    <span class="hover:text-blue-700 hover:underline">4th Qtr</span>
+                                                <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                    <span class="hover:text-blue-700 hover:underline text-gray-400">4th Qtr</span>
                                                 </a>
                                             </li>
                                             <li>2015: 
-                                                <a href="#" target="_blank" rel="noopener noreferrer">
-                                                    <span class="hover:text-blue-700 hover:underline">1st Qtr</span>
+                                                <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                    <span class="hover:text-blue-700 hover:underline text-gray-400">1st Qtr</span>
                                                 </a> | 
-                                                <a href="#" target="_blank" rel="noopener noreferrer">
-                                                    <span class="hover:text-blue-700 hover:underline">2nd Qtr</span>
+                                                <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                    <span class="hover:text-blue-700 hover:underline text-gray-400">2nd Qtr</span>
                                                 </a> | 
-                                                <a href="#" target="_blank" rel="noopener noreferrer">
-                                                    <span class="hover:text-blue-700 hover:underline">3rd Qtr</span>
+                                                <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                    <span class="hover:text-blue-700 hover:underline text-gray-400">3rd Qtr</span>
                                                 </a> | 
-                                                <a href="#" target="_blank" rel="noopener noreferrer">
-                                                    <span class="hover:text-blue-700 hover:underline">4th Qtr</span>
+                                                <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                    <span class="hover:text-blue-700 hover:underline text-gray-400">4th Qtr</span>
                                                 </a>
                                             </li>
                                             <li>2014: 
-                                                <a href="#" target="_blank" rel="noopener noreferrer">
-                                                    <span class="hover:text-blue-700 hover:underline">1st Qtr</span>
+                                                <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                    <span class="hover:text-blue-700 hover:underline text-gray-400">1st Qtr</span>
                                                 </a> | 
-                                                <a href="#" target="_blank" rel="noopener noreferrer">
-                                                    <span class="hover:text-blue-700 hover:underline">2nd Qtr</span>
+                                                <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                    <span class="hover:text-blue-700 hover:underline text-gray-400">2nd Qtr</span>
                                                 </a> | 
-                                                <a href="#" target="_blank" rel="noopener noreferrer">
-                                                    <span class="hover:text-blue-700 hover:underline">3rd Qtr</span>
+                                                <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                    <span class="hover:text-blue-700 hover:underline text-gray-400">3rd Qtr</span>
                                                 </a> | 
-                                                <a href="#" target="_blank" rel="noopener noreferrer">
-                                                    <span class="hover:text-blue-700 hover:underline">4th Qtr</span>
+                                                <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                    <span class="hover:text-blue-700 hover:underline text-gray-400">4th Qtr</span>
                                                 </a>
                                             </li>
                                         </ul>
@@ -2226,8 +2226,8 @@
                                                 </a>
                                             </li>
                                             <li>
-                                                <a href="#" target="_blank" rel="noopener noreferrer">
-                                                    <span class="hover:text-blue-700 hover:underline">Monthly Disbursement Program</span>
+                                                <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                    <span class="hover:text-blue-700 hover:underline text-gray-400">Monthly Disbursement Program</span>
                                                 </a>
                                             </li>
                                         </ul>
@@ -2236,14 +2236,14 @@
                                         <p class="collapsible cursor-pointer hover:text-blue-700 hover:underline">BED 4: Estimate of Monthly Income</p>
                                         <ul class="[list-style-type:square] hidden mx-4 p-2 space-y-2">
                                             <li>
-                                                <a href="#" target="_blank" rel="noopener noreferrer">
-                                                    <span class="hover:text-blue-700 hover:underline">2013</span>
+                                                <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                    <span class="hover:text-blue-700 hover:underline text-gray-400">2013</span>
                                                 </a> | 
-                                                <a href="#" target="_blank" rel="noopener noreferrer">
-                                                    <span class="hover:text-blue-700 hover:underline">2012</span>
+                                                <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                    <span class="hover:text-blue-700 hover:underline text-gray-400">2012</span>
                                                 </a> | 
-                                                <a href="#" target="_blank" rel="noopener noreferrer">
-                                                    <span class="hover:text-blue-700 hover:underline">2011</span>
+                                                <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                    <span class="hover:text-blue-700 hover:underline text-gray-400">2011</span>
                                                 </a>
                                             </li>
                                         </ul>
@@ -2252,17 +2252,17 @@
                                         <p class="collapsible cursor-pointer hover:text-blue-700 hover:underline">List of Not Yet Due and Demandable Obligations</p>
                                         <ul class="[list-style-type:square] hidden mx-4 p-2 space-y-2">
                                             <li>
-                                                <a href="#" target="_blank" rel="noopener noreferrer">
-                                                    <span class="hover:text-blue-700 hover:underline">2013</span>
+                                                <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                    <span class="hover:text-blue-700 hover:underline text-gray-400">2013</span>
                                                 </a> | 
-                                                <a href="#" target="_blank" rel="noopener noreferrer">
-                                                    <span class="hover:text-blue-700 hover:underline">2012</span>
+                                                <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                    <span class="hover:text-blue-700 hover:underline text-gray-400">2012</span>
                                                 </a> | 
-                                                <a href="#" target="_blank" rel="noopener noreferrer">
-                                                    <span class="hover:text-blue-700 hover:underline">2011</span>
+                                                <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                    <span class="hover:text-blue-700 hover:underline text-gray-400">2011</span>
                                                 </a> | 
-                                                <a href="#" target="_blank" rel="noopener noreferrer">
-                                                    <span class="hover:text-blue-700 hover:underline">2010</span>
+                                                <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                    <span class="hover:text-blue-700 hover:underline text-gray-400">2010</span>
                                                 </a>
                                             </li>
                                         </ul>
@@ -2295,11 +2295,11 @@
                                                 <a href="http://gofile.me/5G3uP/FtcLnwa4l" target="_blank" rel="noopener noreferrer">
                                                     <span class="hover:text-blue-700 hover:underline">2013</span>
                                                 </a> | 
-                                                <a href="#" target="_blank" rel="noopener noreferrer">
-                                                    <span class="hover:text-blue-700 hover:underline">2012</span>
+                                                <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                    <span class="hover:text-blue-700 hover:underline text-gray-400">2012</span>
                                                 </a> | 
-                                                <a href="#" target="_blank" rel="noopener noreferrer">
-                                                    <span class="hover:text-blue-700 hover:underline">2011</span>
+                                                <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                    <span class="hover:text-blue-700 hover:underline text-gray-400">2011</span>
                                                 </a>
                                             </li>
                                         </ul>
@@ -2324,8 +2324,8 @@
                                         <p class="collapsible cursor-pointer hover:text-blue-700 hover:underline">BAR 4: Statement of Allotment, Obligations and Balances</p>
                                         <ul class="[list-style-type:square] hidden mx-4 p-2 space-y-2">
                                             <li>
-                                                <a href="#" target="_blank" rel="noopener noreferrer">
-                                                    <span class="hover:text-blue-700 hover:underline">2013</span>
+                                                <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                    <span class="hover:text-blue-700 hover:underline text-gray-400">2013</span>
                                                 </a> | 
                                                 <a href="http://gofile.me/5G3uP/CHhnJI2xX" target="_blank" rel="noopener noreferrer">
                                                     <span class="hover:text-blue-700 hover:underline">2012</span>
@@ -2361,8 +2361,8 @@
                                         <p class="collapsible cursor-pointer hover:text-blue-700 hover:underline">ANNEX A: Statement of Allotments, Obligations, Disbursements and Balances</p>
                                         <ul class="[list-style-type:square] hidden mx-4 p-2 space-y-2">
                                             <li>
-                                                <a href="#" target="_blank" rel="noopener noreferrer">
-                                                    <span class="hover:text-blue-700 hover:underline">2013</span>
+                                                <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                    <span class="hover:text-blue-700 hover:underline text-gray-400">2013</span>
                                                 </a>
                                             </li>
                                         </ul>
@@ -2384,8 +2384,8 @@
                                         <p class="collapsible cursor-pointer hover:text-blue-700 hover:underline">ANNEX B: Detailed Statement of Current Year’s Obligations, Disbursements and Unpaid Prior Year Obligations</p>
                                         <ul class="[list-style-type:square] hidden mx-4 p-2 space-y-2">
                                             <li>
-                                                <a href="#" target="_blank" rel="noopener noreferrer">
-                                                    <span class="hover:text-blue-700 hover:underline">2013</span>
+                                                <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                    <span class="hover:text-blue-700 hover:underline text-gray-400">2013</span>
                                                 </a>
                                             </li>
                                         </ul>
@@ -2394,22 +2394,22 @@
                                         <p class="collapsible cursor-pointer hover:text-blue-700 hover:underline">ANNEX C: Summary of Prior Year’s Obligations, Disbursements and Unpaid Prior Year Obligations</p>
                                         <ul class="[list-style-type:square] hidden mx-4 p-2 space-y-2">
                                             <li>
-                                                <a href="#" target="_blank" rel="noopener noreferrer">
-                                                    <span class="hover:text-blue-700 hover:underline">2014</span>
+                                                <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                    <span class="hover:text-blue-700 hover:underline text-gray-400">2014</span>
                                                 </a>
                                             </li>
                                             <li>2013: 
-                                                <a href="#" target="_blank" rel="noopener noreferrer">
-                                                    <span class="hover:text-blue-700 hover:underline">1st Qtr</span>
+                                                <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                    <span class="hover:text-blue-700 hover:underline text-gray-400">1st Qtr</span>
                                                 </a> | 
-                                                <a href="#" target="_blank" rel="noopener noreferrer">
-                                                    <span class="hover:text-blue-700 hover:underline">2nd Qtr</span>
+                                                <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                    <span class="hover:text-blue-700 hover:underline text-gray-400">2nd Qtr</span>
                                                 </a> | 
-                                                <a href="#" target="_blank" rel="noopener noreferrer">
-                                                    <span class="hover:text-blue-700 hover:underline">3rd Qtr</span>
+                                                <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                    <span class="hover:text-blue-700 hover:underline text-gray-400">3rd Qtr</span>
                                                 </a> | 
-                                                <a href="#" target="_blank" rel="noopener noreferrer">
-                                                    <span class="hover:text-blue-700 hover:underline">4th Qtr</span>
+                                                <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                    <span class="hover:text-blue-700 hover:underline text-gray-400">4th Qtr</span>
                                                 </a>
                                             </li>
                                         </ul>
@@ -2420,17 +2420,17 @@
                                 <p class="collapsible cursor-pointer hover:text-blue-700 hover:underline">Summary Report of Disbursements</p>
                                 <ul class="[list-style-type:circle] hidden mx-4 p-2 space-y-2">
                                     <li>
-                                        <a href="#" target="_blank" rel="noopener noreferrer">
-                                            <span class="hover:text-blue-700 hover:underline">1st Qtr</span>
+                                        <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                            <span class="hover:text-blue-700 hover:underline text-gray-400">1st Qtr</span>
                                         </a> | 
-                                        <a href="#" target="_blank" rel="noopener noreferrer">
-                                            <span class="hover:text-blue-700 hover:underline">2nd Qtr</span>
+                                        <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                            <span class="hover:text-blue-700 hover:underline text-gray-400">2nd Qtr</span>
                                         </a> | 
-                                        <a href="#" target="_blank" rel="noopener noreferrer">
-                                            <span class="hover:text-blue-700 hover:underline">3rd Qtr</span>
+                                        <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                            <span class="hover:text-blue-700 hover:underline text-gray-400">3rd Qtr</span>
                                         </a> | 
-                                        <a href="#" target="_blank" rel="noopener noreferrer">
-                                            <span class="hover:text-blue-700 hover:underline">4th Qtr</span>
+                                        <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                            <span class="hover:text-blue-700 hover:underline text-gray-400">4th Qtr</span>
                                         </a>
                                     </li>
                                 </ul>
@@ -2536,8 +2536,8 @@
                                         <a href="https://www.tesda.gov.ph/uploads/File/transparency/update2013/Approve%20Budgets%20and%20Targets%20FY%202013%20GAA%20%28RA%2010352%29/Target%20%28OPIF%29/%28OPIF%29%20Agency%20Performance%20Measures%20FORM%20B.PDF" target="_blank" rel="noopener noreferrer">
                                             <span class="hover:text-blue-700 hover:underline">2013</span>
                                         </a> | 
-                                        <a href="#" target="_blank" rel="noopener noreferrer">
-                                            <span class="hover:text-blue-700 hover:underline">2012</span>
+                                        <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                            <span class="hover:text-blue-700 hover:underline text-gray-400">2012</span>
                                         </a>
                                     </li>
                                 </ul>
@@ -2552,163 +2552,163 @@
                     <div class="bg-gray-200 hidden px-10 py-4 rounded">
                         <ul class="list-disc space-y-2 text-black">
                             <li>2025: 
-                                <a href="#" target="_blank" rel="noopener noreferrer">
-                                    <span class="hover:text-blue-700 hover:underline">1st Qtr</span>
+                                <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                    <span class="hover:text-blue-700 hover:underline text-gray-400">1st Qtr</span>
                                 </a> | 
-                                <a href="#" target="_blank" rel="noopener noreferrer">
-                                    <span class="hover:text-blue-700 hover:underline">2nd Qtr</span>
+                                <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                    <span class="hover:text-blue-700 hover:underline text-gray-400">2nd Qtr</span>
                                 </a> | 
-                                <a href="#" target="_blank" rel="noopener noreferrer">
-                                    <span class="hover:text-blue-700 hover:underline">3rd Qtr</span>
+                                <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                    <span class="hover:text-blue-700 hover:underline text-gray-400">3rd Qtr</span>
                                 </a> | 
-                                <a href="#" target="_blank" rel="noopener noreferrer">
-                                    <span class="hover:text-blue-700 hover:underline">4th Qtr</span>
+                                <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                    <span class="hover:text-blue-700 hover:underline text-gray-400">4th Qtr</span>
                                 </a>
                             </li>
                             <li>2024: 
-                                <a href="#" target="_blank" rel="noopener noreferrer">
-                                    <span class="hover:text-blue-700 hover:underline">1st Qtr</span>
+                                <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                    <span class="hover:text-blue-700 hover:underline text-gray-400">1st Qtr</span>
                                 </a> | 
-                                <a href="#" target="_blank" rel="noopener noreferrer">
-                                    <span class="hover:text-blue-700 hover:underline">2nd Qtr</span>
+                                <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                    <span class="hover:text-blue-700 hover:underline text-gray-400">2nd Qtr</span>
                                 </a> | 
-                                <a href="#" target="_blank" rel="noopener noreferrer">
-                                    <span class="hover:text-blue-700 hover:underline">3rd Qtr</span>
+                                <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                    <span class="hover:text-blue-700 hover:underline text-gray-400">3rd Qtr</span>
                                 </a> | 
-                                <a href="#" target="_blank" rel="noopener noreferrer">
-                                    <span class="hover:text-blue-700 hover:underline">4th Qtr</span>
+                                <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                    <span class="hover:text-blue-700 hover:underline text-gray-400">4th Qtr</span>
                                 </a>
                             </li>
                             <li>2023: 
-                                <a href="#" target="_blank" rel="noopener noreferrer">
-                                    <span class="hover:text-blue-700 hover:underline">1st Qtr</span>
+                                <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                    <span class="hover:text-blue-700 hover:underline text-gray-400">1st Qtr</span>
                                 </a> | 
-                                <a href="#" target="_blank" rel="noopener noreferrer">
-                                    <span class="hover:text-blue-700 hover:underline">2nd Qtr</span>
+                                <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                    <span class="hover:text-blue-700 hover:underline text-gray-400">2nd Qtr</span>
                                 </a> | 
-                                <a href="#" target="_blank" rel="noopener noreferrer">
-                                    <span class="hover:text-blue-700 hover:underline">3rd Qtr</span>
+                                <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                    <span class="hover:text-blue-700 hover:underline text-gray-400">3rd Qtr</span>
                                 </a> | 
-                                <a href="#" target="_blank" rel="noopener noreferrer">
-                                    <span class="hover:text-blue-700 hover:underline">4th Qtr</span>
+                                <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                    <span class="hover:text-blue-700 hover:underline text-gray-400">4th Qtr</span>
                                 </a>
                             </li>
                             <li>2022: 
-                                <a href="#" target="_blank" rel="noopener noreferrer">
-                                    <span class="hover:text-blue-700 hover:underline">1st Qtr</span>
+                                <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                    <span class="hover:text-blue-700 hover:underline text-gray-400">1st Qtr</span>
                                 </a> | 
-                                <a href="#" target="_blank" rel="noopener noreferrer">
-                                    <span class="hover:text-blue-700 hover:underline">2nd Qtr</span>
+                                <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                    <span class="hover:text-blue-700 hover:underline text-gray-400">2nd Qtr</span>
                                 </a> | 
-                                <a href="#" target="_blank" rel="noopener noreferrer">
-                                    <span class="hover:text-blue-700 hover:underline">3rd Qtr</span>
+                                <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                    <span class="hover:text-blue-700 hover:underline text-gray-400">3rd Qtr</span>
                                 </a> | 
-                                <a href="#" target="_blank" rel="noopener noreferrer">
-                                    <span class="hover:text-blue-700 hover:underline">4th Qtr</span>
+                                <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                    <span class="hover:text-blue-700 hover:underline text-gray-400">4th Qtr</span>
                                 </a>
                             </li>
                             <li>2021: 
-                                <a href="#" target="_blank" rel="noopener noreferrer">
-                                    <span class="hover:text-blue-700 hover:underline">1st Qtr</span>
+                                <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                    <span class="hover:text-blue-700 hover:underline text-gray-400">1st Qtr</span>
                                 </a> | 
-                                <a href="#" target="_blank" rel="noopener noreferrer">
-                                    <span class="hover:text-blue-700 hover:underline">2nd Qtr</span>
+                                <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                    <span class="hover:text-blue-700 hover:underline text-gray-400">2nd Qtr</span>
                                 </a> | 
-                                <a href="#" target="_blank" rel="noopener noreferrer">
-                                    <span class="hover:text-blue-700 hover:underline">3rd Qtr</span>
+                                <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                    <span class="hover:text-blue-700 hover:underline text-gray-400">3rd Qtr</span>
                                 </a> | 
-                                <a href="#" target="_blank" rel="noopener noreferrer">
-                                    <span class="hover:text-blue-700 hover:underline">4th Qtr</span>
+                                <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                    <span class="hover:text-blue-700 hover:underline text-gray-400">4th Qtr</span>
                                 </a>
                             </li>
                             <li>2020: 
-                                <a href="#" target="_blank" rel="noopener noreferrer">
-                                    <span class="hover:text-blue-700 hover:underline">1st Qtr</span>
+                                <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                    <span class="hover:text-blue-700 hover:underline text-gray-400">1st Qtr</span>
                                 </a> | 
-                                <a href="#" target="_blank" rel="noopener noreferrer">
-                                    <span class="hover:text-blue-700 hover:underline">2nd Qtr</span>
+                                <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                    <span class="hover:text-blue-700 hover:underline text-gray-400">2nd Qtr</span>
                                 </a> | 
-                                <a href="#" target="_blank" rel="noopener noreferrer">
-                                    <span class="hover:text-blue-700 hover:underline">3rd Qtr</span>
+                                <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                    <span class="hover:text-blue-700 hover:underline text-gray-400">3rd Qtr</span>
                                 </a> | 
-                                <a href="#" target="_blank" rel="noopener noreferrer">
-                                    <span class="hover:text-blue-700 hover:underline">4th Qtr</span>
+                                <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                    <span class="hover:text-blue-700 hover:underline text-gray-400">4th Qtr</span>
                                 </a>
                             </li>
                             <li>2019: 
-                                <a href="#" target="_blank" rel="noopener noreferrer">
-                                    <span class="hover:text-blue-700 hover:underline">1st Qtr</span>
+                                <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                    <span class="hover:text-blue-700 hover:underline text-gray-400">1st Qtr</span>
                                 </a> | 
-                                <a href="#" target="_blank" rel="noopener noreferrer">
-                                    <span class="hover:text-blue-700 hover:underline">2nd Qtr</span>
+                                <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                    <span class="hover:text-blue-700 hover:underline text-gray-400">2nd Qtr</span>
                                 </a> | 
-                                <a href="#" target="_blank" rel="noopener noreferrer">
-                                    <span class="hover:text-blue-700 hover:underline">3rd Qtr</span>
+                                <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                    <span class="hover:text-blue-700 hover:underline text-gray-400">3rd Qtr</span>
                                 </a> | 
-                                <a href="#" target="_blank" rel="noopener noreferrer">
-                                    <span class="hover:text-blue-700 hover:underline">4th Qtr</span>
+                                <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                    <span class="hover:text-blue-700 hover:underline text-gray-400">4th Qtr</span>
                                 </a>
                             </li>
                             <li>2018: 
-                                <a href="#" target="_blank" rel="noopener noreferrer">
-                                    <span class="hover:text-blue-700 hover:underline">1st Qtr</span>
+                                <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                    <span class="hover:text-blue-700 hover:underline text-gray-400">1st Qtr</span>
                                 </a> | 
-                                <a href="#" target="_blank" rel="noopener noreferrer">
-                                    <span class="hover:text-blue-700 hover:underline">2nd Qtr</span>
+                                <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                    <span class="hover:text-blue-700 hover:underline text-gray-400">2nd Qtr</span>
                                 </a> | 
-                                <a href="#" target="_blank" rel="noopener noreferrer">
-                                    <span class="hover:text-blue-700 hover:underline">3rd Qtr</span>
+                                <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                    <span class="hover:text-blue-700 hover:underline text-gray-400">3rd Qtr</span>
                                 </a> | 
-                                <a href="#" target="_blank" rel="noopener noreferrer">
-                                    <span class="hover:text-blue-700 hover:underline">4th Qtr</span>
+                                <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                    <span class="hover:text-blue-700 hover:underline text-gray-400">4th Qtr</span>
                                 </a>
                             </li>
                             <li>2017: 
-                                <a href="#" target="_blank" rel="noopener noreferrer">
-                                    <span class="hover:text-blue-700 hover:underline">1st Qtr</span>
+                                <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                    <span class="hover:text-blue-700 hover:underline text-gray-400">1st Qtr</span>
                                 </a> | 
-                                <a href="#" target="_blank" rel="noopener noreferrer">
-                                    <span class="hover:text-blue-700 hover:underline">2nd Qtr</span>
+                                <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                    <span class="hover:text-blue-700 hover:underline text-gray-400">2nd Qtr</span>
                                 </a> | 
-                                <a href="#" target="_blank" rel="noopener noreferrer">
-                                    <span class="hover:text-blue-700 hover:underline">3rd Qtr</span>
+                                <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                    <span class="hover:text-blue-700 hover:underline text-gray-400">3rd Qtr</span>
                                 </a> | 
-                                <a href="#" target="_blank" rel="noopener noreferrer">
-                                    <span class="hover:text-blue-700 hover:underline">4th Qtr</span>
+                                <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                    <span class="hover:text-blue-700 hover:underline text-gray-400">4th Qtr</span>
                                 </a>
                             </li>
                             <li>2016: 
-                                <a href="#" target="_blank" rel="noopener noreferrer">
-                                    <span class="hover:text-blue-700 hover:underline">1st Qtr</span>
+                                <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                    <span class="hover:text-blue-700 hover:underline text-gray-400">1st Qtr</span>
                                 </a> | 
-                                <a href="#" target="_blank" rel="noopener noreferrer">
-                                    <span class="hover:text-blue-700 hover:underline">2nd Qtr</span>
+                                <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                    <span class="hover:text-blue-700 hover:underline text-gray-400">2nd Qtr</span>
                                 </a> | 
-                                <a href="#" target="_blank" rel="noopener noreferrer">
-                                    <span class="hover:text-blue-700 hover:underline">3rd Qtr</span>
+                                <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                    <span class="hover:text-blue-700 hover:underline text-gray-400">3rd Qtr</span>
                                 </a> | 
-                                <a href="#" target="_blank" rel="noopener noreferrer">
-                                    <span class="hover:text-blue-700 hover:underline">4th Qtr</span>
+                                <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                    <span class="hover:text-blue-700 hover:underline text-gray-400">4th Qtr</span>
                                 </a>
                             </li>
                             <li>
-                                <a href="#" target="_blank" rel="noopener noreferrer">
-                                    <span class="hover:text-blue-700 hover:underline">2015</span>
+                                <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                    <span class="hover:text-blue-700 hover:underline text-gray-400">2015</span>
                                 </a>
                             </li>
                             <li>
-                                <a href="#" target="_blank" rel="noopener noreferrer">
-                                    <span class="hover:text-blue-700 hover:underline">2014</span>
+                                <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                    <span class="hover:text-blue-700 hover:underline text-gray-400">2014</span>
                                 </a>
                             </li>
                             <li>
-                                <a href="#" target="_blank" rel="noopener noreferrer">
-                                    <span class="hover:text-blue-700 hover:underline">2013</span>
+                                <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                    <span class="hover:text-blue-700 hover:underline text-gray-400">2013</span>
                                 </a>
                             </li>
                             <li>
-                                <a href="#" target="_blank" rel="noopener noreferrer">
-                                    <span class="hover:text-blue-700 hover:underline">2012</span>
+                                <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                    <span class="hover:text-blue-700 hover:underline text-gray-400">2012</span>
                                 </a>
                             </li>
                         </ul>
@@ -3151,8 +3151,8 @@
                                         <p class="collapsible cursor-pointer hover:text-blue-700 hover:underline">2021</p>
                                         <ul class="[list-style-type:square] hidden mx-4 p-2 space-y-2">
                                             <li>
-                                                <a href="#" target="_blank" rel="noopener noreferrer">
-                                                    <span class="hover:text-blue-700 hover:underline">FY 2021 Indicative APP CSE</span>
+                                                <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                    <span class="hover:text-blue-700 hover:underline text-gray-400">FY 2021 Indicative APP CSE</span>
                                                 </a>
                                             </li>
                                             <li>
@@ -3257,13 +3257,13 @@
                                         <p class="collapsible cursor-pointer hover:text-blue-700 hover:underline">2025</p>
                                         <ul class="[list-style-type:square] hidden mx-4 p-2 space-y-2">
                                             <li>
-                                                <a href="#" target="_blank" rel="noopener noreferrer">
-                                                    <span class="hover:text-blue-700 hover:underline">January - June 2025</span>
+                                                <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                    <span class="hover:text-blue-700 hover:underline text-gray-400">January - June 2025</span>
                                                 </a>
                                             </li>
                                             <li>
-                                                <a href="#" target="_blank" rel="noopener noreferrer">
-                                                    <span class="hover:text-blue-700 hover:underline">July - December 2025</span>
+                                                <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                    <span class="hover:text-blue-700 hover:underline text-gray-400">July - December 2025</span>
                                                 </a>
                                             </li>
                                         </ul>
@@ -3272,13 +3272,13 @@
                                         <p class="collapsible cursor-pointer hover:text-blue-700 hover:underline">2024</p>
                                         <ul class="[list-style-type:square] hidden mx-4 p-2 space-y-2">
                                             <li>
-                                                <a href="#" target="_blank" rel="noopener noreferrer">
-                                                    <span class="hover:text-blue-700 hover:underline">January - June 2024</span>
+                                                <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                    <span class="hover:text-blue-700 hover:underline text-gray-400">January - June 2024</span>
                                                 </a>
                                             </li>
                                             <li>
-                                                <a href="#" target="_blank" rel="noopener noreferrer">
-                                                    <span class="hover:text-blue-700 hover:underline">July - December 2024</span>
+                                                <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                    <span class="hover:text-blue-700 hover:underline text-gray-400">July - December 2024</span>
                                                 </a>
                                             </li>
                                         </ul>
@@ -3326,8 +3326,8 @@
                                         <p class="collapsible cursor-pointer hover:text-blue-700 hover:underline">2021</p>
                                         <ul class="[list-style-type:square] hidden mx-4 p-2 space-y-2">
                                             <li>
-                                                <a href="#" target="_blank" rel="noopener noreferrer">
-                                                    <span class="hover:text-blue-700 hover:underline">January - June 2021</span>
+                                                <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                    <span class="hover:text-blue-700 hover:underline text-gray-400">January - June 2021</span>
                                                 </a>
                                             </li>
                                             <li>
@@ -3341,13 +3341,13 @@
                                         <p class="collapsible cursor-pointer hover:text-blue-700 hover:underline">2020</p>
                                         <ul class="[list-style-type:square] hidden mx-4 p-2 space-y-2">
                                             <li>
-                                                <a href="#" target="_blank" rel="noopener noreferrer">
-                                                    <span class="hover:text-blue-700 hover:underline">January - June 2020</span>
+                                                <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                    <span class="hover:text-blue-700 hover:underline text-gray-400">January - June 2020</span>
                                                 </a>
                                             </li>
                                             <li>
-                                                <a href="#" target="_blank" rel="noopener noreferrer">
-                                                    <span class="hover:text-blue-700 hover:underline">July - December 2020</span>
+                                                <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                    <span class="hover:text-blue-700 hover:underline text-gray-400">July - December 2020</span>
                                                 </a>
                                             </li>
                                         </ul>
@@ -3356,13 +3356,13 @@
                                         <p class="collapsible cursor-pointer hover:text-blue-700 hover:underline">2019</p>
                                         <ul class="[list-style-type:square] hidden mx-4 p-2 space-y-2">
                                             <li>
-                                                <a href="#" target="_blank" rel="noopener noreferrer">
-                                                    <span class="hover:text-blue-700 hover:underline">January - June 2019</span>
+                                                <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                    <span class="hover:text-blue-700 hover:underline text-gray-400">January - June 2019</span>
                                                 </a>
                                             </li>
                                             <li>
-                                                <a href="#" target="_blank" rel="noopener noreferrer">
-                                                    <span class="hover:text-blue-700 hover:underline">July - December 2019</span>
+                                                <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                    <span class="hover:text-blue-700 hover:underline text-gray-400">July - December 2019</span>
                                                 </a>
                                             </li>
                                         </ul>
@@ -3371,13 +3371,13 @@
                                         <p class="collapsible cursor-pointer hover:text-blue-700 hover:underline">2018</p>
                                         <ul class="[list-style-type:square] hidden mx-4 p-2 space-y-2">
                                             <li>
-                                                <a href="#" target="_blank" rel="noopener noreferrer">
-                                                    <span class="hover:text-blue-700 hover:underline">January - June 2018</span>
+                                                <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                    <span class="hover:text-blue-700 hover:underline text-gray-400">January - June 2018</span>
                                                 </a>
                                             </li>
                                             <li>
-                                                <a href="#" target="_blank" rel="noopener noreferrer">
-                                                    <span class="hover:text-blue-700 hover:underline">July - December 2018</span>
+                                                <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                    <span class="hover:text-blue-700 hover:underline text-gray-400">July - December 2018</span>
                                                 </a>
                                             </li>
                                         </ul>
@@ -3386,13 +3386,13 @@
                                         <p class="collapsible cursor-pointer hover:text-blue-700 hover:underline">2017</p>
                                         <ul class="[list-style-type:square] hidden mx-4 p-2 space-y-2">
                                             <li>
-                                                <a href="#" target="_blank" rel="noopener noreferrer">
-                                                    <span class="hover:text-blue-700 hover:underline">January - June 2017</span>
+                                                <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                    <span class="hover:text-blue-700 hover:underline text-gray-400">January - June 2017</span>
                                                 </a>
                                             </li>
                                             <li>
-                                                <a href="#" target="_blank" rel="noopener noreferrer">
-                                                    <span class="hover:text-blue-700 hover:underline">July - December 2017</span>
+                                                <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                    <span class="hover:text-blue-700 hover:underline text-gray-400">July - December 2017</span>
                                                 </a>
                                             </li>
                                         </ul>
@@ -3401,13 +3401,13 @@
                                         <p class="collapsible cursor-pointer hover:text-blue-700 hover:underline">2016</p>
                                         <ul class="[list-style-type:square] hidden mx-4 p-2 space-y-2">
                                             <li>
-                                                <a href="#" target="_blank" rel="noopener noreferrer">
-                                                    <span class="hover:text-blue-700 hover:underline">January - June 2016</span>
+                                                <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                    <span class="hover:text-blue-700 hover:underline text-gray-400">January - June 2016</span>
                                                 </a>
                                             </li>
                                             <li>
-                                                <a href="#" target="_blank" rel="noopener noreferrer">
-                                                    <span class="hover:text-blue-700 hover:underline">July - December 2016</span>
+                                                <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                    <span class="hover:text-blue-700 hover:underline text-gray-400">July - December 2016</span>
                                                 </a>
                                             </li>
                                         </ul>
@@ -3416,13 +3416,13 @@
                                         <p class="collapsible cursor-pointer hover:text-blue-700 hover:underline">2015</p>
                                         <ul class="[list-style-type:square] hidden mx-4 p-2 space-y-2">
                                             <li>
-                                                <a href="#" target="_blank" rel="noopener noreferrer">
-                                                    <span class="hover:text-blue-700 hover:underline">January - June 2015</span>
+                                                <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                    <span class="hover:text-blue-700 hover:underline text-gray-400">January - June 2015</span>
                                                 </a>
                                             </li>
                                             <li>
-                                                <a href="#" target="_blank" rel="noopener noreferrer">
-                                                    <span class="hover:text-blue-700 hover:underline">July - December 2015</span>
+                                                <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                    <span class="hover:text-blue-700 hover:underline text-gray-400">July - December 2015</span>
                                                 </a>
                                             </li>
                                         </ul>
@@ -3431,13 +3431,13 @@
                                         <p class="collapsible cursor-pointer hover:text-blue-700 hover:underline">2014</p>
                                         <ul class="[list-style-type:square] hidden mx-4 p-2 space-y-2">
                                             <li>
-                                                <a href="#" target="_blank" rel="noopener noreferrer">
-                                                    <span class="hover:text-blue-700 hover:underline">January - June 2014</span>
+                                                <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                    <span class="hover:text-blue-700 hover:underline text-gray-400">January - June 2014</span>
                                                 </a>
                                             </li>
                                             <li>
-                                                <a href="#" target="_blank" rel="noopener noreferrer">
-                                                    <span class="hover:text-blue-700 hover:underline">July - December 2014</span>
+                                                <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                    <span class="hover:text-blue-700 hover:underline text-gray-400">July - December 2014</span>
                                                 </a>
                                             </li>
                                         </ul>
@@ -3568,34 +3568,34 @@
                     <div class="bg-gray-200 hidden px-10 py-4 rounded">
                         <ol class="list-decimal space-y-2 text-black">
                             <li>
-                                <a href="#" target="_blank" rel="noopener noreferrer">
-                                    <span class="hover:text-blue-700 hover:underline">TESDA Efficiency and Integrity Development Plan 2022-2026</span>
+                                <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                    <span class="hover:text-blue-700 hover:underline text-gray-400">TESDA Efficiency and Integrity Development Plan 2022-2026</span>
                                 </a>, 
-                                <a href="#" target="_blank" rel="noopener noreferrer">
-                                    <span class="hover:text-blue-700 hover:underline">Agency Efficiency and Integrity Development Plan (EIDP) CY 2017-2020</span>
+                                <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                    <span class="hover:text-blue-700 hover:underline text-gray-400">Agency Efficiency and Integrity Development Plan (EIDP) CY 2017-2020</span>
                                 </a>
                             </li>
                             <li>
                                 <p class="collapsible cursor-pointer hover:text-blue-700 hover:underline">COA Annual Audit Report</p>
                                 <ul class="list-disc hidden mx-4 p-2 space-y-2">
                                     <li>
-                                        <a href="#" target="_blank" rel="noopener noreferrer">
-                                            <span class="hover:text-blue-700 hover:underline">2025</span>
+                                        <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                            <span class="hover:text-blue-700 hover:underline text-gray-400">2025</span>
                                         </a> | 
-                                        <a href="#" target="_blank" rel="noopener noreferrer">
-                                            <span class="hover:text-blue-700 hover:underline">2024</span>
+                                        <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                            <span class="hover:text-blue-700 hover:underline text-gray-400">2024</span>
                                         </a> | 
-                                        <a href="#" target="_blank" rel="noopener noreferrer">
-                                            <span class="hover:text-blue-700 hover:underline">2023</span>
+                                        <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                            <span class="hover:text-blue-700 hover:underline text-gray-400">2023</span>
                                         </a> | 
-                                        <a href="#" target="_blank" rel="noopener noreferrer">
-                                            <span class="hover:text-blue-700 hover:underline">2022</span>
+                                        <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                            <span class="hover:text-blue-700 hover:underline text-gray-400">2022</span>
                                         </a> | 
-                                        <a href="#" target="_blank" rel="noopener noreferrer">
-                                            <span class="hover:text-blue-700 hover:underline">2021</span>
+                                        <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                            <span class="hover:text-blue-700 hover:underline text-gray-400">2021</span>
                                         </a> | 
-                                        <a href="#" target="_blank" rel="noopener noreferrer">
-                                            <span class="hover:text-blue-700 hover:underline">2020</span>
+                                        <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                            <span class="hover:text-blue-700 hover:underline text-gray-400">2020</span>
                                         </a> | 
                                         <a href="http://gofile.me/5G3uP/MqYyjvu2p" target="_blank" rel="noopener noreferrer">
                                             <span class="hover:text-blue-700 hover:underline">2019</span>
@@ -3640,81 +3640,81 @@
                                 <span class="hover:text-blue-700">Disbursement Acceleration Program (DAP)</span>
                             </li>
                             <li>
-                                <a href="#" target="_blank" rel="noopener noreferrer">
-                                    <span class="hover:text-blue-700 hover:underline">Status of Actions Taken by Management CY 2016 as of June 30, 2017</span>
+                                <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                    <span class="hover:text-blue-700 hover:underline text-gray-400">Status of Actions Taken by Management CY 2016 as of June 30, 2017</span>
                                 </a>
                             </li>
                             <li>
                                 <p class="collapsible cursor-pointer hover:text-blue-700 hover:underline">Aging of Cash Advances</p>
                                 <ul class="list-disc hidden mx-4 p-2 space-y-2">
                                     <li>2025: 
-                                        <a href="#" target="_blank" rel="noopener noreferrer">
-                                            <span class="hover:text-blue-700 hover:underline">1st Qtr</span>
+                                        <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                            <span class="hover:text-blue-700 hover:underline text-gray-400">1st Qtr</span>
                                         </a> | 
-                                        <a href="#" target="_blank" rel="noopener noreferrer">
-                                            <span class="hover:text-blue-700 hover:underline">2nd Qtr</span>
+                                        <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                            <span class="hover:text-blue-700 hover:underline text-gray-400">2nd Qtr</span>
                                         </a> | 
-                                        <a href="#" target="_blank" rel="noopener noreferrer">
-                                            <span class="hover:text-blue-700 hover:underline">3rd Qtr</span>
+                                        <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                            <span class="hover:text-blue-700 hover:underline text-gray-400">3rd Qtr</span>
                                         </a> | 
-                                        <a href="#" target="_blank" rel="noopener noreferrer">
-                                            <span class="hover:text-blue-700 hover:underline">4th Qtr</span>
+                                        <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                            <span class="hover:text-blue-700 hover:underline text-gray-400">4th Qtr</span>
                                         </a>
                                     </li>
                                     <li>2024: 
-                                        <a href="#" target="_blank" rel="noopener noreferrer">
-                                            <span class="hover:text-blue-700 hover:underline">1st Qtr</span>
+                                        <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                            <span class="hover:text-blue-700 hover:underline text-gray-400">1st Qtr</span>
                                         </a> | 
-                                        <a href="#" target="_blank" rel="noopener noreferrer">
-                                            <span class="hover:text-blue-700 hover:underline">2nd Qtr</span>
+                                        <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                            <span class="hover:text-blue-700 hover:underline text-gray-400">2nd Qtr</span>
                                         </a> | 
-                                        <a href="#" target="_blank" rel="noopener noreferrer">
-                                            <span class="hover:text-blue-700 hover:underline">3rd Qtr</span>
+                                        <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                            <span class="hover:text-blue-700 hover:underline text-gray-400">3rd Qtr</span>
                                         </a> | 
-                                        <a href="#" target="_blank" rel="noopener noreferrer">
-                                            <span class="hover:text-blue-700 hover:underline">4th Qtr</span>
+                                        <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                            <span class="hover:text-blue-700 hover:underline text-gray-400">4th Qtr</span>
                                         </a>
                                     </li>
                                     <li>2023: 
-                                        <a href="#" target="_blank" rel="noopener noreferrer">
-                                            <span class="hover:text-blue-700 hover:underline">1st Qtr</span>
+                                        <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                            <span class="hover:text-blue-700 hover:underline text-gray-400">1st Qtr</span>
                                         </a> | 
-                                        <a href="#" target="_blank" rel="noopener noreferrer">
-                                            <span class="hover:text-blue-700 hover:underline">2nd Qtr</span>
+                                        <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                            <span class="hover:text-blue-700 hover:underline text-gray-400">2nd Qtr</span>
                                         </a> | 
-                                        <a href="#" target="_blank" rel="noopener noreferrer">
-                                            <span class="hover:text-blue-700 hover:underline">3rd Qtr</span>
+                                        <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                            <span class="hover:text-blue-700 hover:underline text-gray-400">3rd Qtr</span>
                                         </a> | 
-                                        <a href="#" target="_blank" rel="noopener noreferrer">
-                                            <span class="hover:text-blue-700 hover:underline">4th Qtr</span>
+                                        <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                            <span class="hover:text-blue-700 hover:underline text-gray-400">4th Qtr</span>
                                         </a>
                                     </li>
                                     <li>2022: 
-                                        <a href="#" target="_blank" rel="noopener noreferrer">
-                                            <span class="hover:text-blue-700 hover:underline">1st Qtr</span>
+                                        <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                            <span class="hover:text-blue-700 hover:underline text-gray-400">1st Qtr</span>
                                         </a> | 
-                                        <a href="#" target="_blank" rel="noopener noreferrer">
-                                            <span class="hover:text-blue-700 hover:underline">2nd Qtr</span>
+                                        <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                            <span class="hover:text-blue-700 hover:underline text-gray-400">2nd Qtr</span>
                                         </a> | 
-                                        <a href="#" target="_blank" rel="noopener noreferrer">
-                                            <span class="hover:text-blue-700 hover:underline">3rd Qtr</span>
+                                        <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                            <span class="hover:text-blue-700 hover:underline text-gray-400">3rd Qtr</span>
                                         </a> | 
-                                        <a href="#" target="_blank" rel="noopener noreferrer">
-                                            <span class="hover:text-blue-700 hover:underline">4th Qtr</span>
+                                        <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                            <span class="hover:text-blue-700 hover:underline text-gray-400">4th Qtr</span>
                                         </a>
                                     </li>
                                     <li>2021: 
-                                        <a href="#" target="_blank" rel="noopener noreferrer">
-                                            <span class="hover:text-blue-700 hover:underline">1st Qtr</span>
+                                        <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                            <span class="hover:text-blue-700 hover:underline text-gray-400">1st Qtr</span>
                                         </a> | 
-                                        <a href="#" target="_blank" rel="noopener noreferrer">
-                                            <span class="hover:text-blue-700 hover:underline">2nd Qtr</span>
+                                        <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                            <span class="hover:text-blue-700 hover:underline text-gray-400">2nd Qtr</span>
                                         </a> | 
-                                        <a href="#" target="_blank" rel="noopener noreferrer">
-                                            <span class="hover:text-blue-700 hover:underline">3rd Qtr</span>
+                                        <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                            <span class="hover:text-blue-700 hover:underline text-gray-400">3rd Qtr</span>
                                         </a> | 
-                                        <a href="#" target="_blank" rel="noopener noreferrer">
-                                            <span class="hover:text-blue-700 hover:underline">4th Qtr</span>
+                                        <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                            <span class="hover:text-blue-700 hover:underline text-gray-400">4th Qtr</span>
                                         </a>
                                     </li>
                                     <li>2020: 
@@ -3732,17 +3732,17 @@
                                         </a>
                                     </li>
                                     <li>2019: 
-                                        <a href="#" target="_blank" rel="noopener noreferrer">
-                                            <span class="hover:text-blue-700 hover:underline">1st Qtr</span>
+                                        <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                            <span class="hover:text-blue-700 hover:underline text-gray-400">1st Qtr</span>
                                         </a> | 
-                                        <a href="#" target="_blank" rel="noopener noreferrer">
-                                            <span class="hover:text-blue-700 hover:underline">2nd Qtr</span>
+                                        <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                            <span class="hover:text-blue-700 hover:underline text-gray-400">2nd Qtr</span>
                                         </a> | 
-                                        <a href="#" target="_blank" rel="noopener noreferrer">
-                                            <span class="hover:text-blue-700 hover:underline">3rd Qtr</span>
+                                        <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                            <span class="hover:text-blue-700 hover:underline text-gray-400">3rd Qtr</span>
                                         </a> | 
-                                        <a href="#" target="_blank" rel="noopener noreferrer">
-                                            <span class="hover:text-blue-700 hover:underline">4th Qtr</span>
+                                        <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                            <span class="hover:text-blue-700 hover:underline text-gray-400">4th Qtr</span>
                                         </a>
                                     </li>
                                     <li>
@@ -3752,8 +3752,8 @@
                                         <a href="http://gofile.me/5G3uP/O8SOdrJ7N" target="_blank" rel="noopener noreferrer">
                                             <span class="hover:text-blue-700 hover:underline">2016</span>
                                         </a> | 
-                                        <a href="#" target="_blank" rel="noopener noreferrer">
-                                            <span class="hover:text-blue-700 hover:underline">2015</span>
+                                        <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                            <span class="hover:text-blue-700 hover:underline text-gray-400">2015</span>
                                         </a> | 
                                         <a href="http://gofile.me/5G3uP/ndMvnpvsi" target="_blank" rel="noopener noreferrer">
                                             <span class="hover:text-blue-700 hover:underline">2014</span>
@@ -3771,59 +3771,59 @@
                                 <p class="collapsible cursor-pointer hover:text-blue-700 hover:underline">Status of Cash Advances</p>
                                 <ul class="list-disc hidden mx-4 p-2 space-y-2">
                                     <li>2025: 
-                                        <a href="#" target="_blank" rel="noopener noreferrer">
-                                            <span class="hover:text-blue-700 hover:underline">1st Qtr</span>
+                                        <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                            <span class="hover:text-blue-700 hover:underline text-gray-400">1st Qtr</span>
                                         </a> | 
-                                        <a href="#" target="_blank" rel="noopener noreferrer">
-                                            <span class="hover:text-blue-700 hover:underline">2nd Qtr</span>
+                                        <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                            <span class="hover:text-blue-700 hover:underline text-gray-400">2nd Qtr</span>
                                         </a> | 
-                                        <a href="#" target="_blank" rel="noopener noreferrer">
-                                            <span class="hover:text-blue-700 hover:underline">3rd Qtr</span>
+                                        <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                            <span class="hover:text-blue-700 hover:underline text-gray-400">3rd Qtr</span>
                                         </a> | 
-                                        <a href="#" target="_blank" rel="noopener noreferrer">
-                                            <span class="hover:text-blue-700 hover:underline">4th Qtr</span>
+                                        <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                            <span class="hover:text-blue-700 hover:underline text-gray-400">4th Qtr</span>
                                         </a>
                                     </li>
                                     <li>2024: 
-                                        <a href="#" target="_blank" rel="noopener noreferrer">
-                                            <span class="hover:text-blue-700 hover:underline">1st Qtr</span>
+                                        <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                            <span class="hover:text-blue-700 hover:underline text-gray-400">1st Qtr</span>
                                         </a> | 
-                                        <a href="#" target="_blank" rel="noopener noreferrer">
-                                            <span class="hover:text-blue-700 hover:underline">2nd Qtr</span>
+                                        <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                            <span class="hover:text-blue-700 hover:underline text-gray-400">2nd Qtr</span>
                                         </a> | 
-                                        <a href="#" target="_blank" rel="noopener noreferrer">
-                                            <span class="hover:text-blue-700 hover:underline">3rd Qtr</span>
+                                        <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                            <span class="hover:text-blue-700 hover:underline text-gray-400">3rd Qtr</span>
                                         </a> | 
-                                        <a href="#" target="_blank" rel="noopener noreferrer">
-                                            <span class="hover:text-blue-700 hover:underline">4th Qtr</span>
+                                        <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                            <span class="hover:text-blue-700 hover:underline text-gray-400">4th Qtr</span>
                                         </a>
                                     </li>
                                     <li>2023: 
-                                        <a href="#" target="_blank" rel="noopener noreferrer">
-                                            <span class="hover:text-blue-700 hover:underline">1st Qtr</span>
+                                        <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                            <span class="hover:text-blue-700 hover:underline text-gray-400">1st Qtr</span>
                                         </a> | 
-                                        <a href="#" target="_blank" rel="noopener noreferrer">
-                                            <span class="hover:text-blue-700 hover:underline">2nd Qtr</span>
+                                        <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                            <span class="hover:text-blue-700 hover:underline text-gray-400">2nd Qtr</span>
                                         </a> | 
-                                        <a href="#" target="_blank" rel="noopener noreferrer">
-                                            <span class="hover:text-blue-700 hover:underline">3rd Qtr</span>
+                                        <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                            <span class="hover:text-blue-700 hover:underline text-gray-400">3rd Qtr</span>
                                         </a> | 
-                                        <a href="#" target="_blank" rel="noopener noreferrer">
-                                            <span class="hover:text-blue-700 hover:underline">4th Qtr</span>
+                                        <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                            <span class="hover:text-blue-700 hover:underline text-gray-400">4th Qtr</span>
                                         </a>
                                     </li>
                                     <li>2022: 
-                                        <a href="#" target="_blank" rel="noopener noreferrer">
-                                            <span class="hover:text-blue-700 hover:underline">1st Qtr</span>
+                                        <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                            <span class="hover:text-blue-700 hover:underline text-gray-400">1st Qtr</span>
                                         </a> | 
-                                        <a href="#" target="_blank" rel="noopener noreferrer">
-                                            <span class="hover:text-blue-700 hover:underline">2nd Qtr</span>
+                                        <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                            <span class="hover:text-blue-700 hover:underline text-gray-400">2nd Qtr</span>
                                         </a> | 
-                                        <a href="#" target="_blank" rel="noopener noreferrer">
-                                            <span class="hover:text-blue-700 hover:underline">3rd Qtr</span>
+                                        <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                            <span class="hover:text-blue-700 hover:underline text-gray-400">3rd Qtr</span>
                                         </a> | 
-                                        <a href="#" target="_blank" rel="noopener noreferrer">
-                                            <span class="hover:text-blue-700 hover:underline">4th Qtr</span>
+                                        <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                            <span class="hover:text-blue-700 hover:underline text-gray-400">4th Qtr</span>
                                         </a>
                                     </li>
                                     <li>2021: 
@@ -3841,17 +3841,17 @@
                                         </a>
                                     </li>
                                     <li>2020: 
-                                        <a href="#" target="_blank" rel="noopener noreferrer">
-                                            <span class="hover:text-blue-700 hover:underline">1st Qtr</span>
+                                        <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                            <span class="hover:text-blue-700 hover:underline text-gray-400">1st Qtr</span>
                                         </a> | 
-                                        <a href="#" target="_blank" rel="noopener noreferrer">
-                                            <span class="hover:text-blue-700 hover:underline">2nd Qtr</span>
+                                        <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                            <span class="hover:text-blue-700 hover:underline text-gray-400">2nd Qtr</span>
                                         </a> | 
-                                        <a href="#" target="_blank" rel="noopener noreferrer">
-                                            <span class="hover:text-blue-700 hover:underline">3rd Qtr</span>
+                                        <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                            <span class="hover:text-blue-700 hover:underline text-gray-400">3rd Qtr</span>
                                         </a> | 
-                                        <a href="#" target="_blank" rel="noopener noreferrer">
-                                            <span class="hover:text-blue-700 hover:underline">4th Qtr</span>
+                                        <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                            <span class="hover:text-blue-700 hover:underline text-gray-400">4th Qtr</span>
                                         </a>
                                     </li>
                                     <li>2019: 
@@ -3878,22 +3878,22 @@
                                         <a href="http://gofile.me/5G3uP/8qJC1xc27" target="_blank" rel="noopener noreferrer">
                                             <span class="hover:text-blue-700 hover:underline">3rd Qtr</span>
                                         </a> | 
-                                        <a href="#" target="_blank" rel="noopener noreferrer">
-                                            <span class="hover:text-blue-700 hover:underline">4th Qtr</span>
+                                        <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                            <span class="hover:text-blue-700 hover:underline text-gray-400">4th Qtr</span>
                                         </a>
                                     </li>
                                     <li>
-                                        <a href="#" target="_blank" rel="noopener noreferrer">
-                                            <span class="hover:text-blue-700 hover:underline">2017</span>
+                                        <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                            <span class="hover:text-blue-700 hover:underline text-gray-400">2017</span>
                                         </a> | 
-                                        <a href="#" target="_blank" rel="noopener noreferrer">
-                                            <span class="hover:text-blue-700 hover:underline">2016</span>
+                                        <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                            <span class="hover:text-blue-700 hover:underline text-gray-400">2016</span>
                                         </a> | 
                                         <a href="http://gofile.me/5G3uP/CExscZvSl" target="_blank" rel="noopener noreferrer">
                                             <span class="hover:text-blue-700 hover:underline">2015</span>
                                         </a> | 
-                                        <a href="#" target="_blank" rel="noopener noreferrer">
-                                            <span class="hover:text-blue-700 hover:underline">2014</span>
+                                        <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                            <span class="hover:text-blue-700 hover:underline text-gray-400">2014</span>
                                         </a> | 
                                         <a href="http://gofile.me/5G3uP/NGAy6Ijm9" target="_blank" rel="noopener noreferrer">
                                             <span class="hover:text-blue-700 hover:underline">2013</span>
@@ -3946,8 +3946,8 @@
                                                 </a>
                                             </li>
                                             <li>
-                                                <a href="#" target="_blank" rel="noopener noreferrer">
-                                                    <span class="hover:text-blue-700 hover:underline">Financial Statements CY 2020 - 3rd Quarter</span>
+                                                <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                    <span class="hover:text-blue-700 hover:underline text-gray-400">Financial Statements CY 2020 - 3rd Quarter</span>
                                                 </a> | 
                                                 <a href="http://gofile.me/5G3uP/Vq4jAxPvd" target="_blank" rel="noopener noreferrer">
                                                     <span class="hover:text-blue-700 hover:underline">Financial Statements CY 2020 - 4th Quarter</span>
@@ -3967,11 +3967,11 @@
                                                 </a>
                                             </li>
                                             <li>
-                                                <a href="#" target="_blank" rel="noopener noreferrer">
-                                                    <span class="hover:text-blue-700 hover:underline">Financial Statements CY 2019 - 3rd Quarter</span>
+                                                <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                    <span class="hover:text-blue-700 hover:underline text-gray-400">Financial Statements CY 2019 - 3rd Quarter</span>
                                                 </a> | 
-                                                <a href="#" target="_blank" rel="noopener noreferrer">
-                                                    <span class="hover:text-blue-700 hover:underline">Financial Statements CY 2019 - 4th Quarter</span>
+                                                <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                    <span class="hover:text-blue-700 hover:underline text-gray-400">Financial Statements CY 2019 - 4th Quarter</span>
                                                 </a>
                                             </li>
                                         </ul>
@@ -4030,84 +4030,84 @@
                                 <p class="collapsible cursor-pointer hover:text-blue-700 hover:underline">Guidelines/Mechanics in Ranking Offices/Delivery Units for the Grant of PBB</p>
                                 <ul class="list-disc hidden mx-4 p-2 space-y-2">
                                     <li>
-                                        <a href="#" target="_blank" rel="noopener noreferrer">
-                                            <span class="hover:text-blue-700 hover:underline">2025</span>
+                                        <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                            <span class="hover:text-blue-700 hover:underline text-gray-400">2025</span>
                                         </a> | 
-                                        <a href="#" target="_blank" rel="noopener noreferrer">
-                                            <span class="hover:text-blue-700 hover:underline">2024</span>
+                                        <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                            <span class="hover:text-blue-700 hover:underline text-gray-400">2024</span>
                                         </a> | 
-                                        <a href="#" target="_blank" rel="noopener noreferrer">
-                                            <span class="hover:text-blue-700 hover:underline">2023</span>
+                                        <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                            <span class="hover:text-blue-700 hover:underline text-gray-400">2023</span>
                                         </a> | 
-                                        <a href="#" target="_blank" rel="noopener noreferrer">
-                                            <span class="hover:text-blue-700 hover:underline">2022</span>
+                                        <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                            <span class="hover:text-blue-700 hover:underline text-gray-400">2022</span>
                                         </a> | 
-                                        <a href="#" target="_blank" rel="noopener noreferrer">
-                                            <span class="hover:text-blue-700 hover:underline">2021</span>
+                                        <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                            <span class="hover:text-blue-700 hover:underline text-gray-400">2021</span>
                                         </a> | 
                                         <a href="http://gofile.me/5G3uP/YdFyyIEBX" target="_blank" rel="noopener noreferrer">
                                             <span class="hover:text-blue-700 hover:underline">2020</span>
                                         </a> | 
-                                        <a href="#" target="_blank" rel="noopener noreferrer">
-                                            <span class="hover:text-blue-700 hover:underline">2019</span>
+                                        <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                            <span class="hover:text-blue-700 hover:underline text-gray-400">2019</span>
                                         </a> | 
-                                        <a href="#" target="_blank" rel="noopener noreferrer">
-                                            <span class="hover:text-blue-700 hover:underline">2018</span>
+                                        <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                            <span class="hover:text-blue-700 hover:underline text-gray-400">2018</span>
                                         </a> | 
-                                        <a href="#" target="_blank" rel="noopener noreferrer">
-                                            <span class="hover:text-blue-700 hover:underline">2017</span>
+                                        <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                            <span class="hover:text-blue-700 hover:underline text-gray-400">2017</span>
                                         </a> | 
-                                        <a href="#" target="_blank" rel="noopener noreferrer">
-                                            <span class="hover:text-blue-700 hover:underline">2016</span>
+                                        <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                            <span class="hover:text-blue-700 hover:underline text-gray-400">2016</span>
                                         </a> | 
-                                        <a href="#" target="_blank" rel="noopener noreferrer">
-                                            <span class="hover:text-blue-700 hover:underline">2015</span>
+                                        <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                            <span class="hover:text-blue-700 hover:underline text-gray-400">2015</span>
                                         </a> | 
-                                        <a href="#" target="_blank" rel="noopener noreferrer">
-                                            <span class="hover:text-blue-700 hover:underline">2014</span>
+                                        <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                            <span class="hover:text-blue-700 hover:underline text-gray-400">2014</span>
                                         </a>
                                     </li>
                                 </ul>
                             </li>
                             <li>
-                                <a href="#" target="_blank" rel="noopener noreferrer">
-                                    <span class="hover:text-blue-700 hover:underline">Agency Scorecard</span>
+                                <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                    <span class="hover:text-blue-700 hover:underline text-gray-400">Agency Scorecard</span>
                                 </a>
                             </li>
                             <li>
-                                <a href="#" target="_blank" rel="noopener noreferrer">
-                                    <span class="hover:text-blue-700 hover:underline">MFO Accountability Report Card (MARC-1)</span>
+                                <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                    <span class="hover:text-blue-700 hover:underline text-gray-400">MFO Accountability Report Card (MARC-1)</span>
                                 </a>
                             </li>
                             <li>
-                                <a href="#" target="_blank" rel="noopener noreferrer">
-                                    <span class="hover:text-blue-700 hover:underline">MFO Accountability Report Card (MARC-2)</span>
+                                <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                    <span class="hover:text-blue-700 hover:underline text-gray-400">MFO Accountability Report Card (MARC-2)</span>
                                 </a>
                             </li>
                             <li>
-                                <a href="#" target="_blank" rel="noopener noreferrer">
-                                    <span class="hover:text-blue-700 hover:underline">Priority Program Accountability Report Card (PARC)</span>
+                                <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                    <span class="hover:text-blue-700 hover:underline text-gray-400">Priority Program Accountability Report Card (PARC)</span>
                                 </a>
                             </li>
                             <li>
                                 <p class="collapsible cursor-pointer hover:text-blue-700 hover:underline">Freedom of Information (FOI)</p>
                                 <ul class="list-disc hidden mx-4 p-2 space-y-2">
                                     <li>
-                                        <a href="#" target="_blank" rel="noopener noreferrer">
-                                            <span class="hover:text-blue-700 hover:underline">TESDA FOI Certificate of Compliance for FY 2020</span>
+                                        <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                            <span class="hover:text-blue-700 hover:underline text-gray-400">TESDA FOI Certificate of Compliance for FY 2020</span>
                                         </a>
                                     </li>
                                     <li>
                                         <p class="collapsible cursor-pointer hover:text-blue-700 hover:underline">Freedom of Information Reports</p>
                                         <ul class="[list-style-type:circle] hidden mx-4 p-2 space-y-2">
                                             <li>
-                                                <a href="#" target="_blank" rel="noopener noreferrer">
-                                                    <span class="hover:text-blue-700 hover:underline">TESDA MARC-1</span>
+                                                <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                    <span class="hover:text-blue-700 hover:underline text-gray-400">TESDA MARC-1</span>
                                                 </a>
                                             </li>
                                             <li>
-                                                <a href="#" target="_blank" rel="noopener noreferrer">
-                                                    <span class="hover:text-blue-700 hover:underline">TESDA MARC-2</span>
+                                                <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                                    <span class="hover:text-blue-700 hover:underline text-gray-400">TESDA MARC-2</span>
                                                 </a>
                                             </li>
                                         </ul>
@@ -4118,26 +4118,26 @@
                                 <p class="collapsible cursor-pointer hover:text-blue-700 hover:underline">Agency Review and Compliance Committee for SALN</p>
                                 <ul class="list-disc hidden mx-4 p-2 space-y-2">
                                     <li>
-                                        <a href="#" target="_blank" rel="noopener noreferrer">
-                                            <span class="hover:text-blue-700 hover:underline">2025</span>
+                                        <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                            <span class="hover:text-blue-700 hover:underline text-gray-400">2025</span>
                                         </a> | 
-                                        <a href="#" target="_blank" rel="noopener noreferrer">
-                                            <span class="hover:text-blue-700 hover:underline">2024</span>
+                                        <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                            <span class="hover:text-blue-700 hover:underline text-gray-400">2024</span>
                                         </a> | 
-                                        <a href="#" target="_blank" rel="noopener noreferrer">
-                                            <span class="hover:text-blue-700 hover:underline">2023</span>
+                                        <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                            <span class="hover:text-blue-700 hover:underline text-gray-400">2023</span>
                                         </a> | 
-                                        <a href="#" target="_blank" rel="noopener noreferrer">
-                                            <span class="hover:text-blue-700 hover:underline">2022</span>
+                                        <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                            <span class="hover:text-blue-700 hover:underline text-gray-400">2022</span>
                                         </a> | 
-                                        <a href="#" target="_blank" rel="noopener noreferrer">
-                                            <span class="hover:text-blue-700 hover:underline">2021</span>
+                                        <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                            <span class="hover:text-blue-700 hover:underline text-gray-400">2021</span>
                                         </a> | 
                                         <a href="http://gofile.me/5G3uP/UthFkKMYF" target="_blank" rel="noopener noreferrer">
                                             <span class="hover:text-blue-700 hover:underline">2020</span>
                                         </a> | 
-                                        <a href="#" target="_blank" rel="noopener noreferrer">
-                                            <span class="hover:text-blue-700 hover:underline">2019</span>
+                                        <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                            <span class="hover:text-blue-700 hover:underline text-gray-400">2019</span>
                                         </a> | 
                                         <a href="http://gofile.me/5G3uP/ElECntTJ6" target="_blank" rel="noopener noreferrer">
                                             <span class="hover:text-blue-700 hover:underline">2018</span>
@@ -4149,26 +4149,26 @@
                                 <p class="collapsible cursor-pointer hover:text-blue-700 hover:underline">Agency Review and Compliance Procedure for SALN</p>
                                 <ul class="list-disc hidden mx-4 p-2 space-y-2">
                                     <li>
-                                        <a href="#" target="_blank" rel="noopener noreferrer">
-                                            <span class="hover:text-blue-700 hover:underline">2025</span>
+                                        <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                            <span class="hover:text-blue-700 hover:underline text-gray-400">2025</span>
                                         </a> | 
-                                        <a href="#" target="_blank" rel="noopener noreferrer">
-                                            <span class="hover:text-blue-700 hover:underline">2024</span>
+                                        <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                            <span class="hover:text-blue-700 hover:underline text-gray-400">2024</span>
                                         </a> | 
-                                        <a href="#" target="_blank" rel="noopener noreferrer">
-                                            <span class="hover:text-blue-700 hover:underline">2023</span>
+                                        <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                            <span class="hover:text-blue-700 hover:underline text-gray-400">2023</span>
                                         </a> | 
-                                        <a href="#" target="_blank" rel="noopener noreferrer">
-                                            <span class="hover:text-blue-700 hover:underline">2022</span>
+                                        <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                            <span class="hover:text-blue-700 hover:underline text-gray-400">2022</span>
                                         </a> | 
-                                        <a href="#" target="_blank" rel="noopener noreferrer">
-                                            <span class="hover:text-blue-700 hover:underline">2021</span>
+                                        <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                            <span class="hover:text-blue-700 hover:underline text-gray-400">2021</span>
                                         </a> | 
-                                        <a href="#" target="_blank" rel="noopener noreferrer">
-                                            <span class="hover:text-blue-700 hover:underline">2020</span>
+                                        <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                            <span class="hover:text-blue-700 hover:underline text-gray-400">2020</span>
                                         </a> | 
-                                        <a href="#" target="_blank" rel="noopener noreferrer">
-                                            <span class="hover:text-blue-700 hover:underline">2019</span>
+                                        <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                            <span class="hover:text-blue-700 hover:underline text-gray-400">2019</span>
                                         </a>
                                     </li>
                                 </ul>
