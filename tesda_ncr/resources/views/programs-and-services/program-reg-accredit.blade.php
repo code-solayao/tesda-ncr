@@ -4,17 +4,17 @@
     @vite(['resources/css/app.css', 'resources/js/app.js'])
 @endsection
 
-<x-layout-b>
-    <section class="relative flex h-screen items-start justify-center overflow-hidden">
-        <div class="absolute bg-cover bg-center bg-no-repeat inset-0 blur-xs" style="background-image: url('{{ asset('images/bg-home.jpg') }}');"></div>
-        <div class="absolute inset-0 bg-black/40"></div>
-        <div class="relative mx-32 my-14 py-20 z-10">
+<x-layout>
+    <section class="relative h-[270px] overflow-hidden">
+        <div class="absolute inset-0 bg-cover bg-center blur-xs" style="background-image: url('{{ asset('images/bg-tesda-logo.webp') }}');"></div>
+        <div class="absolute inset-0 bg-black/80"></div>
+        <div class="relative mx-32 my-32 z-10">
             <div class="mx-auto text-center w-fit">
                 <span class="text-white text-6xl font-bold uppercase">Program Registration and Accreditation</span>
             </div>
         </div>
     </section>
-    <section class="bg-white flex -mt-[640px] relative w-full">
+    <section class="bg-white flex relative w-full">
         <div class="flex px-60 py-12 overflow-y-auto">
             <div class="w-full space-y-5">
                 <div class="text-gray-700 text-xl font-sans leading-relaxed">
@@ -42,7 +42,7 @@
                             </span>
                             <ul class="[list-style-type:circle] list-inside ml-7 space-y-1">
                                 <li>
-                                    <a href="#" target="_blank" rel="noopener noreferrer">
+                                    <a href="https://www.tesda.gov.ph/About/TESDA/42" target="_blank" rel="noopener noreferrer">
                                         <span class="text-blue-600 hover:underline">UTPRAS Guidelines</span>
                                     </a>
                                 </li>
@@ -62,7 +62,7 @@
                                                     <p>Rev.No.01-05/13/2025</p>
                                                 </td>
                                                 <td class="px-6 py-3">
-                                                    <a href="#" target="_blank" rel="noopener noreferrer">
+                                                    <a href="https://docs.google.com/document/d/1l3lH7KlPQQE3OJ5y2UZEX6k394B_QmDb/edit?rtpof=true&sd=true&tab=t.0" target="_blank" rel="noopener noreferrer">
                                                         <span class="text-blue-600 hover:underline">LETTER OF INTENT</span>
                                                     </a>
                                                 </td>
@@ -73,7 +73,7 @@
                                                     <p>Rev.No.01-05/13/2025</p>
                                                 </td>
                                                 <td class="px-6 py-3">
-                                                    <a href="#" target="_blank" rel="noopener noreferrer">
+                                                    <a href="https://docs.google.com/document/d/1KOf6131SLu8ac_cKcHcAcmSnzwhY5LVm/edit" target="_blank" rel="noopener noreferrer">
                                                         <span class="text-blue-600 hover:underline">
                                                             PROGRAM REGISTRATION CHECKLIST OF REQUIREMENTS (Institution-based Training Program (WTR/RTP)
                                                         </span>
@@ -86,7 +86,7 @@
                                                     <p>Rev.No.01-05/13/2025</p>
                                                 </td>
                                                 <td class="px-6 py-3">
-                                                    <a href="#" target="_blank" rel="noopener noreferrer">
+                                                    <a href="https://docs.google.com/document/d/1K0Xgvg8M6QzIEMZYEeQwcoSdlGR4u3MY/edit#heading=h.lo7clfik00i4" target="_blank" rel="noopener noreferrer">
                                                         <span class="text-blue-600 hover:underline">COMPETENCY-BASED CURRICULUM</span>
                                                     </a>
                                                 </td>
@@ -97,7 +97,7 @@
                                                     <p>Rev.No.01-05/13/2025</p>
                                                 </td>
                                                 <td class="px-6 py-3">
-                                                    <a href="#" target="_blank" rel="noopener noreferrer">
+                                                    <a href="https://docs.google.com/document/d/1FIuYmemtfY2579z6RkXl_vurni_hQdPb/edit#heading=h.9dv1yxa1ud7h" target="_blank" rel="noopener noreferrer">
                                                         <span class="text-blue-600 hover:underline">LIST OF EQUIPMENT</span>
                                                     </a>
                                                 </td>
@@ -108,7 +108,7 @@
                                                     <p>Rev.No.01-05/13/2025</p>
                                                 </td>
                                                 <td class="px-6 py-3">
-                                                    <a href="#" target="_blank" rel="noopener noreferrer">
+                                                    <a href="https://docs.google.com/document/d/1SEtLv1SpsGs4i-3ymgsYniJayJnukpBE/edit#heading=h.y7aibwei9l52" target="_blank" rel="noopener noreferrer">
                                                         <span class="text-blue-600 hover:underline">LIST OF TOOLS</span>
                                                     </a>
                                                 </td>
@@ -119,7 +119,7 @@
                                                     <p>Rev.No.01-05/13/2025</p>
                                                 </td>
                                                 <td class="px-6 py-3">
-                                                    <a href="#" target="_blank" rel="noopener noreferrer">
+                                                    <a href="https://docs.google.com/document/d/1eCrbt9goWC7dFWk733hmBUY8oR0w3jo1/edit#heading=h.3ui27w8xbskp" target="_blank" rel="noopener noreferrer">
                                                         <span class="text-blue-600 hover:underline">LIST OF CONSUMABLES/MATERIALS</span>
                                                     </a>
                                                 </td>
@@ -130,7 +130,7 @@
                                                     <p>Rev.No.01-05/13/2025</p>
                                                 </td>
                                                 <td class="px-6 py-3">
-                                                    <a href="#" target="_blank" rel="noopener noreferrer">
+                                                    <a href="https://docs.google.com/document/d/1Yj4PDmq13h5g9WeO9zc0EMGud_ENA6r4/edit#heading=h.kwnw7gkvxd8n" target="_blank" rel="noopener noreferrer">
                                                         <span class="text-blue-600 hover:underline">LIST OF INSTRUCTIONAL MATERIALS</span>
                                                     </a>
                                                 </td>
@@ -141,7 +141,7 @@
                                                     <p>Rev.No.01-05/13/2025</p>
                                                 </td>
                                                 <td class="px-6 py-3">
-                                                    <a href="#" target="_blank" rel="noopener noreferrer">
+                                                    <a href="https://docs.google.com/document/d/15P097KEyFMQdmJIpBaMVSVI5hyvKsTMN/edit#heading=h.3yvfzg1efadm" target="_blank" rel="noopener noreferrer">
                                                         <span class="text-blue-600 hover:underline">LIST OF PHYSICAL FACILITIES</span>
                                                     </a>
                                                 </td>
@@ -152,7 +152,7 @@
                                                     <p>Rev.No.01-05/13/2025</p>
                                                 </td>
                                                 <td class="px-6 py-3">
-                                                    <a href="#" target="_blank" rel="noopener noreferrer">
+                                                    <a href="https://docs.google.com/document/d/1ujiX3si34Q15UotbrpRLHz7Oc7fsKaZC/edit#heading=h.589ol59sjf2o" target="_blank" rel="noopener noreferrer">
                                                         <span class="text-blue-600 hover:underline">LIST OF OFF-CAMPUS FACILITIES</span>
                                                     </a>
                                                 </td>
@@ -163,7 +163,7 @@
                                                     <p>Rev.No.01-05/13/2025</p>
                                                 </td>
                                                 <td class="px-6 py-3">
-                                                    <a href="#" target="_blank" rel="noopener noreferrer">
+                                                    <a href="https://docs.google.com/document/d/1bA0vG4DVyTtdJ9V2DRCNynn680rkBqCX/edit#heading=h.l746daj6u37n" target="_blank" rel="noopener noreferrer">
                                                         <span class="text-blue-600 hover:underline">LIST OF OFFICIALS</span>
                                                     </a>
                                                 </td>
@@ -174,7 +174,7 @@
                                                     <p>Rev.No.01-05/13/2025</p>
                                                 </td>
                                                 <td class="px-6 py-3">
-                                                    <a href="#" target="_blank" rel="noopener noreferrer">
+                                                    <a href="https://docs.google.com/document/d/1t00GZPQsfg46yj1CQX7tg6kIMjs1cAQp/edit#heading=h.28ekm32suuxs" target="_blank" rel="noopener noreferrer">
                                                         <span class="text-blue-600 hover:underline">LIST OF QUALIFIED TRAINERS</span>
                                                     </a>
                                                 </td>
@@ -185,7 +185,7 @@
                                                     <p>Rev.No.01-05/13/2025</p>
                                                 </td>
                                                 <td class="px-6 py-3">
-                                                    <a href="#" target="_blank" rel="noopener noreferrer">
+                                                    <a href="https://docs.google.com/document/d/1hvxxLWymZeInWHzHCEwBM2pl4S3zeeS5/edit#heading=h.fcop9w84fi7o" target="_blank" rel="noopener noreferrer">
                                                         <span class="text-blue-600 hover:underline">LIST OF NON-TEACHING STAFF</span>
                                                     </a>
                                                 </td>
@@ -196,7 +196,7 @@
                                                     <p>Rev.No.00-05/13/2025</p>
                                                 </td>
                                                 <td class="px-6 py-3">
-                                                    <a href="#" target="_blank" rel="noopener noreferrer">
+                                                    <a href="https://docs.google.com/document/d/17jlGR-zxklV_oQ0u1dz4xMVq1OGpCRqM/edit" target="_blank" rel="noopener noreferrer">
                                                         <span class="text-blue-600 hover:underline">PROFILE SHEET</span>
                                                     </a>
                                                 </td>
@@ -207,7 +207,7 @@
                                                     <p>Rev.No.00-05/13/2025</p>
                                                 </td>
                                                 <td class="px-6 py-3">
-                                                    <a href="#" target="_blank" rel="noopener noreferrer">
+                                                    <a href="https://docs.google.com/document/d/1mDuQpWnZRON8-lU5ShH9DBN9jYN6tTwy/edit#heading=h.gkom5srmceuv" target="_blank" rel="noopener noreferrer">
                                                         <span class="text-blue-600 hover:underline">
                                                             PROGRAM RECOGNITION CHECKLIST - Micro-Credential (WTR/RTP)
                                                         </span>
@@ -220,7 +220,7 @@
                                                     <p>Rev.No.00-05/13/2025</p>
                                                 </td>
                                                 <td class="px-6 py-3">
-                                                    <a href="#" target="_blank" rel="noopener noreferrer">
+                                                    <a href="https://docs.google.com/document/d/1SFPrDAFfTy4lzrrclnXOIQcUlC4cGMc6/edit#heading=h.9kvco31jtonm" target="_blank" rel="noopener noreferrer">
                                                         <span class="text-blue-600 hover:underline">
                                                             PROGRAM RECOGNITION CHECKLIST - Mobile Training Program (MTP)
                                                         </span>
@@ -233,7 +233,7 @@
                                                     <p>Rev.No.00-05/13/2025</p>
                                                 </td>
                                                 <td class="px-6 py-3">
-                                                    <a href="#" target="_blank" rel="noopener noreferrer">
+                                                    <a href="https://docs.google.com/document/d/1b9VxRbpY-oZPV-jSa1B7Sgh8LHnWaGS-/edit#heading=h.64djd2dee9ix" target="_blank" rel="noopener noreferrer">
                                                         <span class="text-blue-600 hover:underline">TRAINING PLAN (Micro-credential)</span>
                                                     </a>
                                                 </td>
@@ -244,7 +244,7 @@
                                                     <p>Rev.No.00-05/13/2025</p>
                                                 </td>
                                                 <td class="px-6 py-3">
-                                                    <a href="#" target="_blank" rel="noopener noreferrer">
+                                                    <a href="https://docs.google.com/document/d/1qOmTHrXucEreCDhEnix3tualfAnVx9UG/edit#heading=h.tv450mc9e821" target="_blank" rel="noopener noreferrer">
                                                         <span class="text-blue-600 hover:underline">
                                                             SHOP-LAYOUT (demonstrating Competency-Based TVET (CBTVET) delivery)
                                                         </span>
@@ -257,7 +257,7 @@
                             </ul>
                         </li>
                         <li>
-                            <a href="#" target="_blank" rel="noopener noreferrer">
+                            <a href="https://www.tesda.gov.ph/tvi" target="_blank" rel="noopener noreferrer">
                                 <span class="text-blue-600 hover:underline px-2">List of Technical Vocational Institutions (TVIs) with Registered Programs</span>
                             </a>
                         </li>
@@ -267,4 +267,4 @@
             </div>
         </div>
     </section>
-</x-layout-b>
+</x-layout>

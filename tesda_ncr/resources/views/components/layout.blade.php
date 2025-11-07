@@ -18,14 +18,19 @@
     <script src="https://cdn.jsdelivr.net/npm/alpinejs@3.x.x/dist/cdn.min.js" defer></script>
 </head>
 <body>
-    <header class="bg-blue-500 fixed left-0 top-0 shadow-md transition-colors duration-300 w-full z-50">
+    <header class="fixed left-0 top-0 transition-colors duration-300 w-full z-50" 
+            x-data="{ scrolled: false }" 
+            x-init="window.addEventListener('scroll', () => { scrolled = window.scrollY > 50 })"
+            :class="scrolled ? 'bg-blue-500 shadow-md' : 'bg-transparent'">
         <nav class="container hidden mx-auto p-4 items-center justify-center lg:flex">
             <div class="flex items-center justify-center space-x-1 transition-colors duration-300">
-                <a href="{{ route('home') }}" class="text-white font-medium px-2 py-1 uppercase focus:outline-none hover:text-amber-300">
+                <a href="{{ route('home') }}" class="text-white font-medium px-2 py-1 uppercase focus:outline-none" 
+                :class="scrolled ? 'hover:text-amber-300' : 'hover:text-blue-300'">
                     Home
                 </a>
                 <div class="relative group">
-                    <button class="text-white font-medium px-2 py-1 uppercase focus:outline-none hover:text-amber-300">
+                    <button class="text-white font-medium px-2 py-1 uppercase focus:outline-none" 
+                    :class="scrolled ? 'hover:text-amber-300' : 'hover:text-blue-300'">
                         About
                     </button>
                     <div class="absolute bg-white border invisible opacity-0 rounded shadow-lg transition-all duration-200 w-60 z-50 group-hover:opacity-100 group-hover:visible">
@@ -35,7 +40,8 @@
                     </div>
                 </div>
                 <div class="relative group">
-                    <button class="text-white font-medium px-2 py-1 uppercase focus:outline-none hover:text-amber-300">
+                    <button class="text-white font-medium px-2 py-1 uppercase focus:outline-none" 
+                    :class="scrolled ? 'hover:text-amber-300' : 'hover:text-blue-300'">
                         Transparency
                     </button>
                     <div class="absolute bg-white border invisible opacity-0 rounded shadow-lg transition-all duration-200 w-60 z-50 group-hover:opacity-100 group-hover:visible">
@@ -46,7 +52,8 @@
                     </div>
                 </div>
                 <div class="relative group">
-                    <button class="text-white font-medium px-2 py-1 uppercase focus:outline-none hover:text-amber-300">
+                    <button class="text-white font-medium px-2 py-1 uppercase focus:outline-none" 
+                    :class="scrolled ? 'hover:text-amber-300' : 'hover:text-blue-300'">
                         Programs and Services
                     </button>
                     <div class="absolute bg-white border invisible opacity-0 rounded shadow-lg transition-all duration-200 w-60 z-50 group-hover:opacity-100 group-hover:visible">
@@ -72,7 +79,8 @@
                     </div>
                 </div>
                 <div class="relative group">
-                    <button class="text-white font-medium px-2 py-1 uppercase focus:outline-none hover:text-amber-300">
+                    <button class="text-white font-medium px-2 py-1 uppercase focus:outline-none" 
+                    :class="scrolled ? 'hover:text-amber-300' : 'hover:text-blue-300'">
                         Verifications
                     </button>
                     <div class="absolute bg-white border invisible opacity-0 rounded shadow-lg transition-all duration-200 w-60 z-50 group-hover:opacity-100 group-hover:visible">
@@ -135,7 +143,8 @@
                     </div>
                 </div>
                 <div class="relative group">
-                    <button class="text-white font-medium px-2 py-1 uppercase focus:outline-none hover:text-amber-300">
+                    <button class="text-white font-medium px-2 py-1 uppercase focus:outline-none" 
+                    :class="scrolled ? 'hover:text-amber-300' : 'hover:text-blue-300'">
                         Resources
                     </button>
                     <div class="absolute bg-white border invisible opacity-0 rounded shadow-lg transition-all duration-200 w-60 z-50 group-hover:opacity-100 group-hover:visible">
@@ -212,7 +221,8 @@
                     </div>
                 </div>
                 <div class="relative group">
-                    <button class="text-white font-medium px-2 py-1 uppercase focus:outline-none hover:text-amber-300">
+                    <button class="text-white font-medium px-2 py-1 uppercase focus:outline-none" 
+                    :class="scrolled ? 'hover:text-amber-300' : 'hover:text-blue-300'">
                         Contacts
                     </button>
                     <div class="absolute bg-white border invisible opacity-0 rounded shadow-lg transition-all duration-200 w-60 z-50 group-hover:opacity-100 group-hover:visible">

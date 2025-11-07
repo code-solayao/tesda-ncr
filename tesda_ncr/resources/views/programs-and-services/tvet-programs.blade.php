@@ -4,17 +4,17 @@
     @vite(['resources/css/app.css', 'resources/js/app.js'])
 @endsection
 
-<x-layout-b>
-    <section class="relative flex h-screen items-start justify-center overflow-hidden">
-        <div class="absolute bg-cover bg-center bg-no-repeat inset-0 blur-xs" style="background-image: url('{{ asset('images/bg-home.jpg') }}');"></div>
-        <div class="absolute inset-0 bg-black/40"></div>
-        <div class="relative mx-32 my-14 py-20 z-10">
+<x-layout>
+    <section class="relative h-[270px] overflow-hidden">
+        <div class="absolute inset-0 bg-cover bg-center blur-xs" style="background-image: url('{{ asset('images/bg-tesda-logo.webp') }}');"></div>
+        <div class="absolute inset-0 bg-black/80"></div>
+        <div class="relative mx-32 my-32 z-10">
             <div class="mx-auto text-center w-fit">
                 <span class="text-white text-6xl font-bold uppercase">TVET Programs</span>
             </div>
         </div>
     </section>
-    <section class="bg-white flex -mt-[640px] relative w-full">
+    <section class="bg-white flex relative w-full">
         <div class="flex px-60 py-12 overflow-y-auto">
             <div class="w-full space-y-5">
                 <div class="text-gray-700 text-xl font-sans leading-relaxed">
@@ -28,22 +28,22 @@
                 <div class="text-gray-700 text-xl font-sans leading-relaxed">
                     <ul class="list-disc list-inside space-y-2">
                         <li>
-                            <a href="#" target="_blank" rel="noopener noreferrer">
+                            <a href="https://www.tesda.gov.ph/About/TESDA/35" target="_blank" rel="noopener noreferrer">
                                 <span class="text-blue-600 hover:underline">School Based Program</span>
                             </a>
                         </li>
                         <li>
-                            <a href="#" target="_blank" rel="noopener noreferrer">
+                            <a href="https://www.tesda.gov.ph/About/TESDA/36" target="_blank" rel="noopener noreferrer">
                                 <span class="text-blue-600 hover:underline">Centre Based Program</span>
                             </a>
                         </li>
                         <li>
-                            <a href="#" target="_blank" rel="noopener noreferrer">
+                            <a href="https://www.tesda.gov.ph/About/TESDA/37" target="_blank" rel="noopener noreferrer">
                                 <span class="text-blue-600 hover:underline">Community Based Program</span>
                             </a>
                         </li>
                         <li>
-                            <a href="#" target="_blank" rel="noopener noreferrer">
+                            <a href="https://www.tesda.gov.ph/About/TESDA/38" target="_blank" rel="noopener noreferrer">
                                 <span class="text-blue-600 hover:underline">Enterprise Based Program</span>
                             </a>
                         </li>
@@ -83,4 +83,4 @@
             </div>
         </div>
     </section>
-</x-layout-b>
+</x-layout>

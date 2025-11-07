@@ -4,7 +4,7 @@
     @vite(['resources/css/app.css', 'resources/js/app.js'])
 @endsection
 
-<x-layout-a>
+<x-layout>
     <section class="page-header">
         <div>
             <img src="{{ asset('images/tesda-building-history.png') }}" alt="Brief History of TESDA" class="w-full h-auto">
@@ -67,4 +67,4 @@
             </p>
         </div>
     </section>
-</x-layout-a>
+</x-layout>

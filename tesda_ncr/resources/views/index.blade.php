@@ -4,7 +4,7 @@
     @vite(['resources/css/app.css', 'resources/js/app.js'])
 @endsection
 
-<x-layout-a>
+<x-layout>
     <section class="relative flex h-[960px] items-center justify-center overflow-hidden">
         <div class="absolute bg-cover bg-center inset-0 blur-xs" style="background-image: url('{{ asset('images/bg-home.jpg') }}');"></div>
         <div class="absolute inset-0 bg-gray-800/80"></div>
@@ -125,4 +125,4 @@
     <div id="fb-root"></div>
     <script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v19.0">
     </script>
-</x-layout-a>
+</x-layout>

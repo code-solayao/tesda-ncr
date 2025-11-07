@@ -4,17 +4,17 @@
     @vite(['resources/css/app.css', 'resources/js/app.js'])
 @endsection
 
-<x-layout-b>
-    <section class="relative flex h-screen items-start justify-center overflow-hidden">
-        <div class="absolute bg-cover bg-center bg-no-repeat inset-0 blur-xs" style="background-image: url('{{ asset('images/bg-home.jpg') }}');"></div>
-        <div class="absolute inset-0 bg-black/40"></div>
-        <div class="relative mx-32 my-14 py-20 z-10">
+<x-layout>
+    <section class="relative h-[270px] overflow-hidden">
+        <div class="absolute inset-0 bg-cover bg-center blur-xs" style="background-image: url('{{ asset('images/bg-tesda-logo.webp') }}');"></div>
+        <div class="absolute inset-0 bg-black/80"></div>
+        <div class="relative mx-32 my-32 z-10">
             <div class="mx-auto text-center w-fit">
                 <span class="text-white text-6xl font-bold uppercase">Labor Market Intelligence Report</span>
             </div>
         </div>
     </section>
-    <section class="bg-white flex -mt-[640px] relative w-full">
+    <section class="bg-white flex relative w-full">
         <div class="flex px-60 py-12 overflow-y-auto">
             <div class="text-gray-700 text-xl font-sans leading-relaxed w-full space-y-5">
                 <p class="mb-10">
@@ -26,42 +26,42 @@
                     <p class="font-semibold text-2xl">2024</p>
                     <ul class="list-disc list-inside space-y-1">
                         <li>
-                            <a href="#" target="_blank" rel="noopener noreferrer">
+                            <a href="https://www.tesda.gov.ph/Uploads/File/LMIR/2025/Labor%20Market%20Information%20on%20the%20Bangsamoro.pdf" target="_blank" rel="noopener noreferrer">
                                 <span class="text-blue-600 hover:underline">LMIR: Mapping the Bangsamoro Autonomous Region in Muslim Mindanao (BARMM) Competitive Advantage</span>
                             </a>
                         </li>
                         <li>
-                            <a href="#" target="_blank" rel="noopener noreferrer">
+                            <a href="https://www.tesda.gov.ph/Uploads/File/LMIR/2025/LMIR%20No.%204_%20Nuclear%20Energy.pdf" target="_blank" rel="noopener noreferrer">
                                 <span class="text-blue-600 hover:underline">LMIR Issue no. 4, s. 2024: Future Workforce Planning: Preparing for Nuclear Energy Revitalization in the Philippines</span>
                             </a>
                         </li>
                         <li>
-                            <a href="#" target="_blank" rel="noopener noreferrer">
+                            <a href="https://www.tesda.gov.ph/Uploads/File/LMIR/2025/24.05.24_Quick%20LMI%20on%20Qatar%20(2).pdf" target="_blank" rel="noopener noreferrer">
                                 <span class="text-blue-600 hover:underline">LMI: Future of Work and Economy for Filipino Migrant Tech-Voc Workers in Qatar</span>
                             </a>
                         </li>
                         <li>
-                            <a href="#" target="_blank" rel="noopener noreferrer">
+                            <a href="https://www.tesda.gov.ph/Uploads/File/LMIR/2024/LMIR%20No.%203_Climate%20Change.pdf" target="_blank" rel="noopener noreferrer">
                                 <span class="text-blue-600 hover:underline">LMIR Issue no. 3, s. 2024: Adapting to Climate Change: Workforce Trends and Opportunities in the Global Market</span>
                             </a>
                         </li>
                         <li>
-                            <a href="#" target="_blank" rel="noopener noreferrer">
+                            <a href="https://www.tesda.gov.ph/Uploads/File/LMIR/2024/Metro%20Manila%20Subway%20Project.pdf" target="_blank" rel="noopener noreferrer">
                                 <span class="text-blue-600 hover:underline">LMI: Metro Manila Subway Project: Unearthing Skills Needs, Unleashing Opportunity</span>
                             </a>
                         </li>
                         <li>
-                            <a href="#" target="_blank" rel="noopener noreferrer">
+                            <a href="https://www.tesda.gov.ph/Uploads/File/LMIR/2024/Build%20Better%20More%20Program.pdf" target="_blank" rel="noopener noreferrer">
                                 <span class="text-blue-600 hover:underline">LMIR Issue no. 2, s. 2024: Beyond Blue Prints: Building Better Futures Through the Build Better More Program</span>
                             </a>
                         </li>
                         <li>
-                            <a href="#" target="_blank" rel="noopener noreferrer">
+                            <a href="https://www.tesda.gov.ph/Uploads/File/LMIR/2024/Beyond%20Borders%20-%20Bridging%20Mobility%20for%20Domestic%20Filipino%20Workers.pdf" target="_blank" rel="noopener noreferrer">
                                 <span class="text-blue-600 hover:underline">LMI on Domestic Workers: Beyond Borders: Bridging Mobility for Domestic Filipino Workers</span>
                             </a>
                         </li>
                         <li>
-                            <a href="#" target="_blank" rel="noopener noreferrer">
+                            <a href="https://www.tesda.gov.ph/Uploads/File/LMIR/2024/LMIR%20Issue%201%20Child%20%20Development%20Workers.pdf" target="_blank" rel="noopener noreferrer">
                                 <span class="text-blue-600 hover:underline">LMIR Issue No. 1, s. 2024: Philippine Child Development Workers'</span>
                             </a>
                         </li>
@@ -750,4 +750,4 @@
             </div>
         </div>
     </section>
-</x-layout-b>
+</x-layout>

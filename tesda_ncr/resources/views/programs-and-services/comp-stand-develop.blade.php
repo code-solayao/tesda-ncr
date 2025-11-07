@@ -4,17 +4,17 @@
     @vite(['resources/css/app.css', 'resources/js/app.js'])
 @endsection
 
-<x-layout-b>
-    <section class="relative flex h-screen items-start justify-center overflow-hidden">
-        <div class="absolute bg-cover bg-center bg-no-repeat inset-0 blur-xs" style="background-image: url('{{ asset('images/bg-home.jpg') }}');"></div>
-        <div class="absolute inset-0 bg-black/40"></div>
-        <div class="relative mx-32 my-14 py-20 z-10">
+<x-layout>
+    <section class="relative h-[270px] overflow-hidden">
+        <div class="absolute inset-0 bg-cover bg-center blur-xs" style="background-image: url('{{ asset('images/bg-tesda-logo.webp') }}');"></div>
+        <div class="absolute inset-0 bg-black/80"></div>
+        <div class="relative mx-32 my-32 z-10">
             <div class="mx-auto text-center w-fit">
                 <span class="text-white text-6xl font-bold uppercase">Competency Standards Development</span>
             </div>
         </div>
     </section>
-    <section class="bg-white flex -mt-[640px] relative w-full">
+    <section class="bg-white flex relative w-full">
         <div class="flex px-60 py-12 overflow-y-auto">
             <div class="w-full h-[calc(70vh-4rem)] space-y-5">
                 <div class="text-gray-700 text-xl font-sans leading-relaxed">
@@ -34,22 +34,22 @@
                 <div class="text-gray-700 text-xl font-sans leading-relaxed">
                     <ul class="list-disc list-inside space-y-2">
                         <li>
-                            <a href="#" target="_blank" rel="noopener noreferrer">
+                            <a href="https://www.tesda.gov.ph/Download/Training_Regulations?Searchcat=Training%20Regulations" target="_blank" rel="noopener noreferrer">
                                 <span class="text-blue-600 hover:underline">Promulgated Training Regulations (TR)</span>
                             </a>
                         </li>
                         <li>
-                            <a href="#" target="_blank" rel="noopener noreferrer">
-                                <span class="text-blue-600 hover:underline">List of Promulgated TRs with Qualification Code</span>
+                            <a href="https://www.tesda.gov.ph/Uploads/File/TRCode/List-of-TRS-as-of-Jan-2024.xlsx" target="_blank" rel="noopener noreferrer">
+                                <span class="text-blue-600 hover:underline">[Download] List of Promulgated TRs with Qualification Code</span>
                             </a>
                         </li>
                         <li>
-                            <a href="#" target="_blank" rel="noopener noreferrer">
+                            <a href="https://www.tesda.gov.ph/About/tesda/3410" target="_blank" rel="noopener noreferrer">
                                 <span class="text-blue-600 hover:underline">Validation of the Training Regulations (TR)</span>
                             </a>
                         </li>
                         <li>
-                            <a href="#" target="_blank" rel="noopener noreferrer">
+                            <a href="https://tesda.gov.ph/Download/Competency_Standards" target="_blank" rel="noopener noreferrer">
                                 <span class="text-blue-600 hover:underline">Competency Standards</span>
                             </a>
                         </li>
@@ -58,4 +58,4 @@
             </div>
         </div>
     </section>
-</x-layout-b>
+</x-layout>

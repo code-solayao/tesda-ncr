@@ -4,17 +4,17 @@
     @vite(['resources/css/app.css', 'resources/js/app.js'])
 @endsection
 
-<x-layout-b>
-    <section class="relative flex h-screen items-start justify-center overflow-hidden">
-        <div class="absolute bg-cover bg-center bg-no-repeat inset-0 blur-xs" style="background-image: url('{{ asset('images/bg-home.jpg') }}');"></div>
-        <div class="absolute inset-0 bg-black/40"></div>
-        <div class="relative mx-32 my-14 py-20 z-10">
+<x-layout>
+    <section class="relative h-[300px] overflow-hidden">
+        <div class="absolute inset-0 bg-cover bg-center blur-xs" style="background-image: url('{{ asset('images/bg-tesda-logo.webp') }}');"></div>
+        <div class="absolute inset-0 bg-black/80"></div>
+        <div class="relative mx-32 my-32 z-10">
             <div class="mx-auto text-center w-fit">
                 <span class="text-white text-6xl font-bold uppercase">National Technical Education and Skills Development Plan (NTESDP)</span>
             </div>
         </div>
     </section>
-    <section class="bg-white flex -mt-[600px] relative w-full">
+    <section class="bg-white flex relative w-full">
         <div class="flex px-60 py-12 overflow-y-auto">
             <div class="text-gray-700 text-xl font-sans leading-relaxed w-full space-y-5">
                 <p class="text-blue-800 font-medium">The National Technical Education and Skills Development Plan (NTESDP) 2023-2028</p>
@@ -39,7 +39,7 @@
                     <strong>National Technical Education and Skills Development Plan (NTESDP) 2023-2028</strong>, a comprehensive roadmap designed to empower 
                     the Filipino workforce with the skills and knowledge necessary to thrive in the rapidly evolving global economy.
                 </p>
-                <p><a href="https://drive.google.com/file/d/1oGQXa6FvWD41zKSCul-apjMiYRtFBUIm/view?usp=drive_link" target="_blank" rel="noopener noreferrer">
+                <p class="hidden"><a href="https://drive.google.com/file/d/1oGQXa6FvWD41zKSCul-apjMiYRtFBUIm/view?usp=drive_link" target="_blank" rel="noopener noreferrer">
                         <span class="text-blue-600 hover:underline">Click to watch the NTESDP Audio-Video Presentation</span>
                 </a></p>
                 <img src="{{ asset('images/national-tesd-plan/NTESDP2023-2028-2x.png') }}" alt="National TESD Plan 2023-2028 (2x)" class="w-fit h-auto">
@@ -266,4 +266,4 @@
             </div>
         </div>
     </section>
-</x-layout-b>
+</x-layout>

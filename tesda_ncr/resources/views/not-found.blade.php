@@ -4,7 +4,7 @@
     @vite(['resources/css/app.css', 'resources/js/app.js'])
 @endsection
 
-<x-layout-b>
+<x-layout>
     <section class="relative flex h-screen items-start justify-center overflow-hidden">
         <div class="absolute bg-cover bg-center bg-no-repeat inset-0 blur-xs" style="background-image: url('{{ asset('images/bg-home.jpg') }}');"></div>
         <div class="absolute inset-0 bg-black/40"></div>
@@ -21,4 +21,4 @@
             </div>
         </div>
     </section>
-</x-layout-b>
+</x-layout>
