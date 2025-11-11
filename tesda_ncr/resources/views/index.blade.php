@@ -10,7 +10,7 @@
         <div class="absolute inset-0 bg-gray-800/80"></div>
         <div class="relative pt-48 z-10">
             <div class="flex items-center justify-center space-x-5">
-                <img src="{{ asset('images/logos/tesda.png') }}" alt="TESDA-NCR Logo" class="w-3xs rounded-2xl">
+                <img src="{{ asset('images/logos/tesda.webp') }}" alt="TESDA-NCR Logo" class="w-3xs rounded-2xl">
                 <div class="text-white text-stroke-blue break-words space-y-4 uppercase w-1/2 whitespace-normal">
                     <h1 class="text-5xl font-[FremontBold,Verdana]">Technical Education and Skills Development Authority</h1>
                     <h3 class="text-2xl font-[Verdana] font-bold">National Capital Region</h3>
@@ -34,14 +34,14 @@
             </div>
             <div class="flex items-center justify-center my-36">
                 <div class="flex items-center justify-center text-center py-6 rounded-2xl space-x-60 w-3/4">
-                    <div class="bg-white border-2 border-blue-700 flex items-center justify-center rounded-md shadow-md w-60 h-60">
-                        <img src="{{ asset('images/logos/bagong-pilipinas.png') }}" alt="Bagong Pilipinas Logo" class="w-48 pb-12 object-contain">
+                    <div class="flex items-center justify-center">
+                        <img src="{{ asset('images/logos/kayang-kaya.png') }}" alt="Kayang-Kaya Logo" class="w-56 object-contain">
                     </div>
-                    <div class="bg-white border-2 border-blue-700 flex items-center justify-center rounded-md shadow-md w-60 h-60">
+                    <div class="flex items-center justify-center">
+                        <img src="{{ asset('images/logos/bagong-pilipinas.png') }}" alt="Bagong Pilipinas Logo" class="w-48 object-contain">
+                    </div>
+                    <div class="flex items-center justify-center">
                         <img src="{{ asset('images/logos/dpo-dps-2025.png') }}" alt="DPS Registration Seal 2025" class="w-48 object-contain">
-                    </div>
-                    <div class="bg-white border-2 border-blue-700 flex items-center justify-center rounded-md shadow-md w-60 h-60">
-                        <img src="{{ asset('images/logos/kayang-kaya.png') }}" alt="Kayang-Kaya Logo" class="w-48 object-contain">
                     </div>
                 </div>
             </div>
