@@ -29,4 +29,8 @@ class ResourcesController extends Controller
     public function skills_need_anticipation() {
         return view('tesda-resources.skills-need-anticipation');
     }
+
+    public function tsir() {
+        return view('tesda-resources.tsir');
+    }
 }

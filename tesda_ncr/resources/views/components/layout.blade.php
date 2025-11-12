@@ -210,7 +210,7 @@
                             </svg> TVET Researchers and Studies
                         </a>
                         <a href="{{ route('skills.need.anticipation') }}" class="text-gray-700 block px-4 py-2 hover:bg-gray-100 hover:font-bold">Skills Need Anticipation: Workplace Skills and Satisfactory Journey</a>
-                        <a href="#" class="text-gray-700 block px-4 py-2 hover:bg-gray-100 hover:font-bold">TVET Skills Insights Report</a>
+                        <a href="{{ route('tsir') }}" class="text-gray-700 block px-4 py-2 hover:bg-gray-100 hover:font-bold">TVET Skills Insights Report</a>
                         <a href="https://bit.ly/atvercwebsite" target="_blank" rel="noopener noreferrer" 
                         class="text-gray-700 block px-4 py-2 hover:bg-gray-100 hover:font-bold hover:rounded">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" class="size-5 inline">

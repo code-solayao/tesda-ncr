@@ -1,4 +1,4 @@
-@section('title', 'Labor Market Intelligence Report | TESDA-NCR')
+@section('title', 'TVET Skills Insights Report (TSIR) | TESDA-NCR')
 
 @section('vite')
     @vite(['resources/css/app.css', 'resources/js/app.js'])
@@ -10,18 +10,43 @@
         <div class="absolute inset-0 bg-black/80"></div>
         <div class="relative mx-32 my-32 z-10">
             <div class="mx-auto text-center w-fit">
-                <span class="text-white text-6xl font-bold uppercase">Labor Market Intelligence Report</span>
+                <span class="text-white text-6xl font-bold uppercase">TVET Skills Insights Report (TSIR)</span>
             </div>
         </div>
     </section>
     <section class="bg-white flex relative w-full">
-        <div class="flex px-60 py-12 overflow-y-auto">
+        <div class="px-60 py-12 overflow-y-auto">
             <div class="text-gray-700 text-xl font-sans leading-relaxed w-full space-y-5">
-                <p class="mb-10">
-                    The LMIR provides insights on current trends, issues, and challenges available in the local and international labor markets, both demand and supply. 
-                    The LMIR is used in the determination of priority skills for the Training Regulation development, for policy formulation, especially in directing and 
-                    aligning TVET programs with labor market requirements.
-                </p>
+                <div>
+                    <p class="font-semibold text-2xl">2025</p>
+                    <ul class="list-disc list-inside space-y-1">
+                        <li>
+                            <a href="https://www.tesda.gov.ph/Uploads/File/SkillInsights/2025/Final%20Report_TSIR_Auxiliary%20Healthcare%20Industry.pdf" target="_blank" rel="noopener noreferrer">
+                                <span class="text-blue-600 hover:underline">TVET Skills Insights Report 2025 | Behind the Scenes of Care: Labor Insights Into the Auxiliary Health Workforce (Cadaver Care and Clinical Simulation)</span>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://www.tesda.gov.ph/Uploads/File/SkillInsights/2025/TVET%20Skills%20Insights%20Report%20_%205th%20Industrial%20Revolution.pdf" target="_blank" rel="noopener noreferrer">
+                                <span class="text-blue-600 hover:underline">TVET Skills Insights Report Issue No. 1| Series of 2025 - Beyond Automation: The Age of 5th Industrial Revolution</span>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://www.tesda.gov.ph/Uploads/File/SkillInsights/2025/TSIR%20on%20Master%20Embroiders.pdf" target="_blank" rel="noopener noreferrer">
+                                <span class="text-blue-600 hover:underline">TVET Skills Insight Report 2025|Threads of Heritage: Skills, Demands and Opportunities in Philippine Traditional Embroideryr</span>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://www.tesda.gov.ph/Uploads/File/SkillInsights/2025/LMI%20-%20Coconut%20Industry_Processing.pdf" target="_blank" rel="noopener noreferrer">
+                                <span class="text-blue-600 hover:underline">TVET Skills Insights Report 2025 | Skilling for Sustainability: Strengthening Human Capital for the Coconut Processing Industry in the Philippines</span>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://www.tesda.gov.ph/Uploads/File/SkillInsights/2025/25.06.02_TSIR%20on%20Performing%20Arts%20(Live,%20Music%20and%20Dance).docx.pdf" target="_blank" rel="noopener noreferrer">
+                                <span class="text-blue-600 hover:underline">TVET Skills Insights Report 2025 | Stage of Opportunity: Workforce Analysis in the Philippine Performing Arts Industry (Live Music, Dance, and Theater Art Form)</span>
+                            </a>
+                        </li>
+                    </ul>
+                </div>
                 <div>
                     <p class="font-semibold text-2xl">2024</p>
                     <ul class="list-disc list-inside space-y-1">
@@ -376,7 +401,7 @@
                             </a>
                         </li>
                         <li>
-                            <a href="https://www.tesda.gov.ph/Uploads/File/planning2017/LMIR/final%20LMIR%20-%20PHILIPPINE%20AUTOMOTIVE%20INDUSTRY%20(ao%202015-11-09).pdf" target="_blank" rel="noopener noreferrer">
+                            <a href="https://www.tesda.gov.ph/Uploads/File/planning2017/LMIR/LMIR_agri%20and%20fisheries%20mech%20law_paper%20-%20final%20DEC%2028%20-%20Copy.pdf" target="_blank" rel="noopener noreferrer">
                                 <span class="text-blue-600 hover:underline">Agricultural and Fisheries Mechanization</span>
                             </a>
                         </li>
@@ -442,7 +467,7 @@
                         </li>
                         <li>
                             <a href="https://www.tesda.gov.ph/uploads/File/Planning2014/LMIR/LMIR%20(12)%20Hard%20to%20Fill%20Jobs%20Overseas_Final.pdf" target="_blank" rel="noopener noreferrer">
-                                <span class="text-blue-600 hover:underline">LMIR No. ST-PO 12-12-12 Hard-to-fill Jobs(Overseas)</span>
+                                <span class="text-blue-600 hover:underline">LMIR No. ST-PO 12-12-12 Hard-to fill-Jobs(Overseas)</span>
                             </a>
                         </li>
                     </ul>
@@ -466,63 +491,63 @@
                     <p class="font-semibold text-2xl">December 2011 - June 2012</p>
                     <ul class="list-disc list-inside space-y-1">
                         <li>
-                            <a href="https://www.tesda.gov.ph/uploads/File/Planning2012/LMIR/LMIR%20No.%2001%20Labor%20Force%20Survey.pdf" target="_blank" rel="noopener noreferrer">
-                                <span class="text-blue-600 hover:underline">LMIR - ST-PO 01-02-12 - Highlights of the October 2011 Labor Force Survey, Profile of the Inactive Unemployed, Profile of Employer in Own Family-operated Farm or Business</span>
+                            <a href="" target="_blank" rel="noopener noreferrer">
+                                <span class="text-blue-600 hover:underline">#</span>
                             </a>
                         </li>
                         <li>
-                            <a href="https://www.tesda.gov.ph/uploads/File/Planning2012/LMIR/LMIR%20No.%2002%20Phils%20Back%20in%20the%20Game.pdf" target="_blank" rel="noopener noreferrer">
-                                <span class="text-blue-600 hover:underline">LMIR - ST-PO 02-02-12 - Philippines: Back in the Game</span>
+                            <a href="" target="_blank" rel="noopener noreferrer">
+                                <span class="text-blue-600 hover:underline">#</span>
                             </a>
                         </li>
                         <li>
-                            <a href="https://www.tesda.gov.ph/uploads/File/Planning2012/LMIR/LMIR%20No.%2003%20-%20Metals%20and%20Engineering%20(CNC).pdf" target="_blank" rel="noopener noreferrer">
-                                <span class="text-blue-600 hover:underline">LMIR - ST-PO 03-05-12 - Metals and Engineering Sector: Supply and Demand in Computer Numerical Control (CNC) Machine Operation and Other Related TVET Qualification</span>
+                            <a href="" target="_blank" rel="noopener noreferrer">
+                                <span class="text-blue-600 hover:underline">#</span>
                             </a>
                         </li>
                         <li>
-                            <a href="https://www.tesda.gov.ph/uploads/File/Planning2012/LMIR/LMIR%20No.%2004%20-%20The%20GCR2012.pdf" target="_blank" rel="noopener noreferrer">
-                                <span class="text-blue-600 hover:underline">LMIR - ST-PO 04-12-12 - The Global Competitiveness Report 2012-2013</span>
+                            <a href="" target="_blank" rel="noopener noreferrer">
+                                <span class="text-blue-600 hover:underline">#</span>
                             </a>
                         </li>
                         <li>
-                            <a href="https://www.tesda.gov.ph/uploads/File/Planning2012/LMIR/LMIR%20No.%2005%20ASEAN_2015.pdf" target="_blank" rel="noopener noreferrer">
-                                <span class="text-blue-600 hover:underline">LMIR - ST-PO 05-12-12 - Moving Towards One Vision One Identity One Community - ASEAN Vision 2015 (An expert from the ASEAN Economic Blueprint)</span>
+                            <a href="" target="_blank" rel="noopener noreferrer">
+                                <span class="text-blue-600 hover:underline">#</span>
                             </a>
                         </li>
                         <li>
-                            <a href="https://www.tesda.gov.ph/uploads/File/Planning2012/LMIR/LMIR%20No.%2006%20MDGs.pdf" target="_blank" rel="noopener noreferrer">
-                                <span class="text-blue-600 hover:underline">LMIR - ST-PO 06-12-12 - The Millennium Development Goals (MDGs): Are we up to the task?</span>
+                            <a href="" target="_blank" rel="noopener noreferrer">
+                                <span class="text-blue-600 hover:underline">#</span>
                             </a>
                         </li>
                         <li>
-                            <a href="https://www.tesda.gov.ph/uploads/File/Planning2012/LMIR/LMIR%20No.%2007%20-%20Decent%20Work.pdf" target="_blank" rel="noopener noreferrer">
-                                <span class="text-blue-600 hover:underline">LMIR - ST-PO 07-12-12 - Decent Work Country Profile: The Philippines</span>
+                            <a href="" target="_blank" rel="noopener noreferrer">
+                                <span class="text-blue-600 hover:underline">#</span>
                             </a>
                         </li>
                         <li>
-                            <a href="https://www.tesda.gov.ph/uploads/File/Planning2012/LMIR/LMIR%20No.%2008%20-%20ITBPO.pdf" target="_blank" rel="noopener noreferrer">
-                                <span class="text-blue-600 hover:underline">LMIR - ST-PO 08-12-12 - Information Technology-Business Process Outsourcing (IT-BPO)</span>
+                            <a href="" target="_blank" rel="noopener noreferrer">
+                                <span class="text-blue-600 hover:underline">#</span>
                             </a>
                         </li>
                         <li>
-                            <a href="https://www.tesda.gov.ph/uploads/File/Planning2012/LMIR/LMIR%20No.%2009%20Construction.pdf" target="_blank" rel="noopener noreferrer">
-                                <span class="text-blue-600 hover:underline">LMIR - ST-PO 09-12-12 - Construction</span>
+                            <a href="" target="_blank" rel="noopener noreferrer">
+                                <span class="text-blue-600 hover:underline">#</span>
                             </a>
                         </li>
                         <li>
-                            <a href="https://www.tesda.gov.ph/uploads/File/Planning2012/LMIR/LMIR%20No.%2010%20-Tourism.pdf" target="_blank" rel="noopener noreferrer">
-                                <span class="text-blue-600 hover:underline">LMIR - ST-PO 10-12-12 - Tourism 2012: It's more fun in the Philippines</span>
+                            <a href="" target="_blank" rel="noopener noreferrer">
+                                <span class="text-blue-600 hover:underline">#</span>
                             </a>
                         </li>
                         <li>
-                            <a href="https://www.tesda.gov.ph/uploads/File/Planning2012/LMIR/LMIR%20No.%2011_solid%20waste%20management_.pdf" target="_blank" rel="noopener noreferrer">
-                                <span class="text-blue-600 hover:underline">LMIR - ST-PO 11-12-12 - Solid Waste Management</span>
+                            <a href="" target="_blank" rel="noopener noreferrer">
+                                <span class="text-blue-600 hover:underline">#</span>
                             </a>
                         </li>
                         <li>
-                            <a href="https://www.tesda.gov.ph/uploads/File/Planning2012/LMIR/LMIR%20No%2012%20Labor%20and%20Employment%20TVET%20Statistics.pdf" target="_blank" rel="noopener noreferrer">
-                                <span class="text-blue-600 hover:underline">LMIR - ST-PO 12-12-12 - Labor, Employment and TVET Statistics</span>
+                            <a href="" target="_blank" rel="noopener noreferrer">
+                                <span class="text-blue-600 hover:underline">#</span>
                             </a>
                         </li>
                     </ul>
@@ -531,218 +556,63 @@
                     <p class="font-semibold text-2xl">December 22, 2011</p>
                     <ul class="list-disc list-inside space-y-1">
                         <li>
-                            <a href="https://www.tesda.gov.ph/uploads/File/LMIR2011/dec/Rapid%20Assessment%20of%202008-2010%20TVET%20Performance.pdf" target="_blank" rel="noopener noreferrer">
-                                <span class="text-blue-600 hover:underline">Rapid Assessment of 2008-2010 TVET Performance</span>
+                            <a href="" target="_blank" rel="noopener noreferrer">
+                                <span class="text-blue-600 hover:underline">#</span>
                             </a>
                         </li>
                         <li>
-                            <a href="https://www.tesda.gov.ph/uploads/File/LMIR2011/dec/A%20Profile%20of%20Job%20Vacancies%20and%20Job%20Seekers%20at%20the%20Phil-Jobnet%203rd%20Quarter%202011.pdf" target="_blank" rel="noopener noreferrer">
-                                <span class="text-blue-600 hover:underline">A Profile of Job Vacancies and Job Seekers at the Phil-Jobnet 3rd Quarter 2011</span>
+                            <a href="" target="_blank" rel="noopener noreferrer">
+                                <span class="text-blue-600 hover:underline">#</span>
                             </a>
                         </li>
                         <li>
-                            <a href="https://www.tesda.gov.ph/uploads/File/LMIR2011/dec/Highlights%20of%20the%20OccupationalWages%20Survey%20on%20Wage%20Rates%20in%20Industries.pdf" target="_blank" rel="noopener noreferrer">
-                                <span class="text-blue-600 hover:underline">Highlights of the Occupational Wages Survey on Wage Rates in Industries</span>
+                            <a href="" target="_blank" rel="noopener noreferrer">
+                                <span class="text-blue-600 hover:underline">#</span>
                             </a>
                         </li>
                         <li>
-                            <a href="https://www.tesda.gov.ph/uploads/File/LMIR2011/dec/Tourism%20%20Development%20Areas.pdf" target="_blank" rel="noopener noreferrer">
-                                <span class="text-blue-600 hover:underline">Tourism Development Areas</span>
+                            <a href="" target="_blank" rel="noopener noreferrer">
+                                <span class="text-blue-600 hover:underline">#</span>
                             </a>
                         </li>
                         <li>
-                            <a href="https://www.tesda.gov.ph/uploads/File/LMIR2011/dec/Job%20Vacancies%20in%20Philipine_Industry.pdf" target="_blank" rel="noopener noreferrer">
-                                <span class="text-blue-600 hover:underline">Job Vacancies in Philipine Industry</span>
+                            <a href="" target="_blank" rel="noopener noreferrer">
+                                <span class="text-blue-600 hover:underline">#</span>
                             </a>
                         </li>
                         <li>
-                            <a href="https://www.tesda.gov.ph/uploads/File/LMIR2011/dec/The%202011%20Investment%20Priorities%20Plan.pdf" target="_blank" rel="noopener noreferrer">
-                                <span class="text-blue-600 hover:underline">The 2011 Investment Priorities Plan</span>
+                            <a href="" target="_blank" rel="noopener noreferrer">
+                                <span class="text-blue-600 hover:underline">#</span>
                             </a>
                         </li>
                         <li>
-                            <a href="https://www.tesda.gov.ph/uploads/File/LMIR2011/dec/The%20Honolulu%20Declaration.pdf" target="_blank" rel="noopener noreferrer">
-                                <span class="text-blue-600 hover:underline">The Honolulu Declaration</span>
+                            <a href="" target="_blank" rel="noopener noreferrer">
+                                <span class="text-blue-600 hover:underline">#</span>
                             </a>
                         </li>
                         <li>
-                            <a href="https://www.tesda.gov.ph/uploads/File/LMIR2011/dec/Highlights%20of%20the%20Wage%20Workers.pdf" target="_blank" rel="noopener noreferrer">
-                                <span class="text-blue-600 hover:underline">Highlights of the Wage Workers</span>
-                            </a>
-                        </li>
-                    </ul>
-                </div>
-                <div>
-                    <p class="font-semibold text-2xl">November 2, 2011</p>
-                    <ul class="list-disc list-inside space-y-1">
-                        <li>
-                            <a href="https://www.tesda.gov.ph/uploads/File/LMIR2011/nov/LMIR#13_July%202011%20Labor%20Force%20Survey.pdf" target="_blank" rel="noopener noreferrer">
-                                <span class="text-blue-600 hover:underline">LMIR No. ST-PO 13-10-2011 "Highlights of the July 2011 Labor Force Survey"</span>
+                            <a href="" target="_blank" rel="noopener noreferrer">
+                                <span class="text-blue-600 hover:underline">#</span>
                             </a>
                         </li>
                         <li>
-                            <a href="https://www.tesda.gov.ph/uploads/File/LMIR2011/nov/LMIR#14_Australia.pdf" target="_blank" rel="noopener noreferrer">
-                                <span class="text-blue-600 hover:underline">LMIR No. ST-PO 14-10-2011 "Job Opportunities in Canberra, Australia"</span>
+                            <a href="" target="_blank" rel="noopener noreferrer">
+                                <span class="text-blue-600 hover:underline">#</span>
                             </a>
                         </li>
                         <li>
-                            <a href="https://www.tesda.gov.ph/uploads/File/LMIR2011/nov/LMIR#%2015Wage%20&%20Salary%20Workers%20in%20the%20PHL.pdf" target="_blank" rel="noopener noreferrer">
-                                <span class="text-blue-600 hover:underline">LMIR No. ST-PO "Wage and Salary Workers in the Philippines: 2010 a Closer Look"</span>
+                            <a href="" target="_blank" rel="noopener noreferrer">
+                                <span class="text-blue-600 hover:underline">#</span>
                             </a>
                         </li>
                         <li>
-                            <a href="https://www.tesda.gov.ph/uploads/File/LMIR2011/nov/LMIR%20#16_ANIMATION.pdf" target="_blank" rel="noopener noreferrer">
-                                <span class="text-blue-600 hover:underline">LMIR No. ST-PO 16-10-2011 "Animation"</span>
+                            <a href="" target="_blank" rel="noopener noreferrer">
+                                <span class="text-blue-600 hover:underline">#</span>
                             </a>
                         </li>
                         <li>
-                            <a href="https://www.tesda.gov.ph/uploads/File/LMIR2011/nov/LMIR#%2017_FIES.pdf" target="_blank" rel="noopener noreferrer">
-                                <span class="text-blue-600 hover:underline">LMIR No. ST-PO 17-10-2011 "Highlights of the 2009 Family Income and Expenditutes Survey (FIES)"</span>
-                            </a>
-                        </li>
-                    </ul>
-                </div>
-                <div>
-                    <p class="font-semibold text-2xl">September 7, 2011</p>
-                    <ul class="list-disc list-inside space-y-1">
-                        <li>
-                            <a href="https://www.tesda.gov.ph/uploads/File/LMIR2011/ST-PO%2001-03-2011%20%20(Automotive).doc" target="_blank" rel="noopener noreferrer">
-                                <span class="text-blue-600 hover:underline">Automotive</span>
-                            </a>
-                        </li>
-                        <li>
-                            <a href="https://www.tesda.gov.ph/uploads/File/LMIR2011/ST-PO%2002-03-2011%20%20(Agriculture%20and%20Fishery).doc" target="_blank" rel="noopener noreferrer">
-                                <span class="text-blue-600 hover:underline">Agriculture and Fishery</span>
-                            </a>
-                        </li>
-                        <li>
-                            <a href="https://www.tesda.gov.ph/uploads/File/LMIR2011/ST-PO%2003-03-2011%20%20(Semicon%20and%20Electronics).doc" target="_blank" rel="noopener noreferrer">
-                                <span class="text-blue-600 hover:underline">Semicon and Electronics</span>
-                            </a>
-                        </li>
-                        <li>
-                            <a href="https://www.tesda.gov.ph/uploads/File/LMIR2011/ST-PO%2004-03-2011%20%20%20(Maritime).doc" target="_blank" rel="noopener noreferrer">
-                                <span class="text-blue-600 hover:underline">Maritime</span>
-                            </a>
-                        </li>
-                        <li>
-                            <a href="https://www.tesda.gov.ph/uploads/File/LMIR2011/ST-PO%2005-03-2011%20%20(Construction).pdf" target="_blank" rel="noopener noreferrer">
-                                <span class="text-blue-600 hover:underline">Construction</span>
-                            </a>
-                        </li>
-                        <li>
-                            <a href="https://www.tesda.gov.ph/uploads/File/LMIR2011/ST-PO%2006-03-2011%20%20(FLEMMS).pdf" target="_blank" rel="noopener noreferrer">
-                                <span class="text-blue-600 hover:underline">2008 FLEMMS</span>
-                            </a>
-                        </li>
-                        <li>
-                            <a href="https://www.tesda.gov.ph/uploads/File/LMIR2011/ST-PO%2007-05-2011%20%20(Jan%202011%20LFS%20and%20Working%20Children%20Profile).doc" target="_blank" rel="noopener noreferrer">
-                                <span class="text-blue-600 hover:underline">January 2011 LFS and Profile of Working Children in the Phils.</span>
-                            </a>
-                        </li>
-                        <li>
-                            <a href="https://www.tesda.gov.ph/uploads/File/LMIR2011/ST-PO%2008-05-2011%20%20(Agriculture%20Entrepreneurs).doc" target="_blank" rel="noopener noreferrer">
-                                <span class="text-blue-600 hover:underline">Manpower Development for Agriculture Entrepreneurs</span>
-                            </a>
-                        </li>
-                        <li>
-                            <a href="https://www.tesda.gov.ph/uploads/File/LMIR2011/ST-PO%2009-05-2011%20%20(Japan%20Disaster%20Effect%20on%20PH%20Auto%20Industry).pdf" target="_blank" rel="noopener noreferrer">
-                                <span class="text-blue-600 hover:underline">Effect of the Japan Disaster on the Phil. Automotive Industry</span>
-                            </a>
-                        </li>
-                    </ul>
-                </div>
-                <div>
-                    <p class="font-semibold text-2xl">Date last file added - July 21, 2008</p>
-                    <ul class="list-disc list-inside space-y-1">
-                        <li>
-                            <a href="https://www.tesda.gov.ph/uploads/file/LMIR%20Super%20Region%20Brochure.pub" target="_blank" rel="noopener noreferrer">
-                                <span class="text-blue-600 hover:underline">LMIR Super Region Brochure June 24, 2008</span>
-                            </a>
-                        </li>
-                        <li>
-                            <a href="https://www.tesda.gov.ph/About/TESDA/54" target="_blank" rel="noopener noreferrer">
-                                <span class="text-blue-600 hover:underline">Critical Skills in the Processed Food and Beverages Industry</span>
-                            </a>
-                        </li>
-                        <li>
-                            <a href="https://www.tesda.gov.ph/About/TESDA/55" target="_blank" rel="noopener noreferrer">
-                                <span class="text-blue-600 hover:underline">Philippine Mining Prospects (August 2005)</span>
-                            </a>
-                        </li>
-                        <li>
-                            <a href="https://www.tesda.gov.ph/About/TESDA/56" target="_blank" rel="noopener noreferrer">
-                                <span class="text-blue-600 hover:underline">OFWs For The World (Issue No. 2005-1)</span>
-                            </a>
-                        </li>
-                        <li>
-                            <a href="https://www.tesda.gov.ph/About/TESDA/57" target="_blank" rel="noopener noreferrer">
-                                <span class="text-blue-600 hover:underline">ICT Updates (October 2004)</span>
-                            </a>
-                        </li>
-                        <li>
-                            <a href="https://www.tesda.gov.ph/About/TESDA/58" target="_blank" rel="noopener noreferrer">
-                                <span class="text-blue-600 hover:underline">A Look at the Overseas Labor Market (July 2004)</span>
-                            </a>
-                        </li>
-                        <li>
-                            <a href="https://www.tesda.gov.ph/About/TESDA/59" target="_blank" rel="noopener noreferrer">
-                                <span class="text-blue-600 hover:underline">ICTrities (April 2004)</span>
-                            </a>
-                        </li>
-                        <li>
-                            <a href="https://www.tesda.gov.ph/About/TESDA/60" target="_blank" rel="noopener noreferrer">
-                                <span class="text-blue-600 hover:underline">The Overseas Market for Filipino Entertainers (March 2004)</span>
-                            </a>
-                        </li>
-                        <li>
-                            <a href="https://www.tesda.gov.ph/About/TESDA/61" target="_blank" rel="noopener noreferrer">
-                                <span class="text-blue-600 hover:underline">How Saturated is the Caregivers' Market? (February 2004)</span>
-                            </a>
-                        </li>
-                        <li>
-                            <a href="https://www.tesda.gov.ph/About/TESDA/62" target="_blank" rel="noopener noreferrer">
-                                <span class="text-blue-600 hover:underline">Skills Shortages and Training Needs of MNCs in the Philippines (Issue No. 20)</span>
-                            </a>
-                        </li>
-                        <li>
-                            <a href="https://www.tesda.gov.ph/About/TESDA/63" target="_blank" rel="noopener noreferrer">
-                                <span class="text-blue-600 hover:underline">The Country's ICT Industry in Focus (Issue No. 19)</span>
-                            </a>
-                        </li>
-                        <li>
-                            <a href="https://www.tesda.gov.ph/About/TESDA/64" target="_blank" rel="noopener noreferrer">
-                                <span class="text-blue-600 hover:underline">How Competitive is the Philippines? (Issue No. 18)</span>
-                            </a>
-                        </li>
-                        <li>
-                            <a href="https://www.tesda.gov.ph/About/TESDA/65" target="_blank" rel="noopener noreferrer">
-                                <span class="text-blue-600 hover:underline">Prospects of the Country's Tourism (Issue No. 17)</span>
-                            </a>
-                        </li>
-                        <li>
-                            <a href="https://www.tesda.gov.ph/About/TESDA/66" target="_blank" rel="noopener noreferrer">
-                                <span class="text-blue-600 hover:underline">The Fast-Emerging Market (Issue No. 16)</span>
-                            </a>
-                        </li>
-                        <li>
-                            <a href="https://www.tesda.gov.ph/About/TESDA/67" target="_blank" rel="noopener noreferrer">
-                                <span class="text-blue-600 hover:underline">Caregivers: Special Breed of Health Workers (Issue No. 15)</span>
-                            </a>
-                        </li>
-                        <li>
-                            <a href="https://www.tesda.gov.ph/About/TESDA/68" target="_blank" rel="noopener noreferrer">
-                                <span class="text-blue-600 hover:underline">What it Takes to be an Employable IT Graduate (Issue No. 13)</span>
-                            </a>
-                        </li>
-                        <li>
-                            <a href="https://www.tesda.gov.ph/About/TESDA/69" target="_blank" rel="noopener noreferrer">
-                                <span class="text-blue-600 hover:underline">Bright Future Seen in Agriculture (Issue No. 12)</span>
-                            </a>
-                        </li>
-                        <li>
-                            <a href="https://www.tesda.gov.ph/About/TESDA/70" target="_blank" rel="noopener noreferrer">
-                                <span class="text-blue-600 hover:underline">Investment Priorities of the Philippines (Issue No. 11)</span>
+                            <a href="" target="_blank" rel="noopener noreferrer">
+                                <span class="text-blue-600 hover:underline">#</span>
                             </a>
                         </li>
                     </ul>

@@ -51,6 +51,7 @@ Route::controller(ResourcesController::class)->group(function () {
     Route::get('/tvet-statistics', 'tvet_statistics')->name('tvet.statistics');
     Route::get('/tvet-brief', 'tvet_brief')->name('tvet.brief');
     Route::get('/skills-need-anticipation', 'skills_need_anticipation')->name('skills.need.anticipation');
+    Route::get('/tvet-skills-insight-report', 'tsir')->name('tsir');
 });
 
 Route::controller(ContactsController::class)->group(function () {
