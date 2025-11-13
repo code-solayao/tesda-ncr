@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="{{ str_replace('_', '-', app()->getLocale()) }}">
+<html lang="{{ str_replace('_', '-', app()->getLocale()) }}" x-data="{ sidebarOpen: false }" class="h-full">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -18,8 +18,16 @@
             x-data="{ scrolled: false }" 
             x-init="window.addEventListener('scroll', () => { scrolled = window.scrollY > 50 })"
             :class="scrolled ? 'bg-blue-500 shadow-md' : 'bg-transparent'">
-        <nav class="container hidden mx-auto p-4 items-center justify-center lg:flex">
-            <div class="flex items-center justify-center space-x-1 transition-colors duration-300">
+        <nav class="container flex mx-auto p-4">
+            <div class="flex items-center justify-between relative">
+                <!-- Hamburger Menu Icon -->
+                <button class="text-white hover:bg-blue-500 p-2 rounded-md" @click="sidebarOpen = !sidebarOpen">
+                    <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16"/>
+                    </svg>
+                </button>
+            </div>
+            <div class="hidden items-center justify-center space-x-1 transition-colors duration-300">
                 <a href="{{ route('home') }}" class="nav-item" 
                 :class="scrolled ? 'hover:text-amber-300' : 'hover:text-blue-300'">
                     Home
@@ -235,10 +243,84 @@
             </div>
         </nav>
     </header>
-    <div class="flex flex-1">
+    <section class="flex flex-1">
+        <!-- Sidebar Overlay -->
+        <div class="fixed inset-0 z-30 md:hidden" 
+            x-show="sidebarOpen" 
+            @click="sidebarOpen = false" 
+            x-transition.opacity>
+        </div>
+        <!-- Sidebar -->
+        <aside class="bg-sky-200 fixed flex flex-col h-full left-0 p-6 shadow-md top-0 w-64 z-40 transform transition-transform ease-in-out duration-300" 
+            x-show="sidebarOpen" 
+            x-transition:enter="translate-x-0" 
+            x-transition:leave="-translate-x-full" 
+            :class="{ '-translate-x-full': !sidebarOpen, 'translate-x-0': sidebarOpen }">
+            <!-- Links -->
+            <ul class="list-inside flex-1 overflow-y-auto space-y-4 my-16">
+                <li>
+                    <a href="{{ route('m.home') }}" class="sidebar-item">
+                        <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="size-6 flex-shrink-0">
+                            <path stroke-linecap="round" stroke-linejoin="round" d="m2.25 12 8.954-8.955c.44-.439 1.152-.439 1.591 0L21.75 12M4.5 9.75v10.125c0 .621.504 1.125 1.125 1.125H9.75v-4.875c0-.621.504-1.125 1.125-1.125h2.25c.621 0 1.125.504 1.125 1.125V21h4.125c.621 0 1.125-.504 1.125-1.125V9.75M8.25 21h8.25" />
+                        </svg><span>Home</span>
+                    </a>
+                </li>
+                <li>
+                    <span class="sidebar-item collapsible cursor-pointer">
+                        <svg aria-hidden="true" data-prefix="fas" data-icon="angle-down" class="svg-inline--fa fa-angle-down fa-w-10 size-5 inline" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512">
+                            <path fill="currentColor" d="M143 352.3L7 216.3c-9.4-9.4-9.4-24.6 0-33.9l22.6-22.6c9.4-9.4 24.6-9.4 33.9 0l96.4 96.4 96.4-96.4c9.4-9.4 24.6-9.4 33.9 0l22.6 22.6c9.4 9.4 9.4 24.6 0 33.9l-136 136c-9.2 9.4-24.4 9.4-33.8 0z" />
+                        </svg>
+                        <span>About</span>
+                    </span>
+                    <ul class="hidden mx-4 p-2 space-y-2">
+                        <li>
+                            <a href="{{ route('not.found') }}" target="_blank" rel="noopener noreferrer">
+                                <span class="hover:text-blue-700 hover:underline">2025</span>
+                            </a>
+                        </li>
+                    </ul>
+                </li>
+                <li>
+                    <a href="#" class="sidebar-item">
+                        <svg aria-hidden="true" data-prefix="fas" data-icon="angle-down" class="svg-inline--fa fa-angle-down fa-w-10 size-5 inline" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512">
+                            <path fill="currentColor" d="M143 352.3L7 216.3c-9.4-9.4-9.4-24.6 0-33.9l22.6-22.6c9.4-9.4 24.6-9.4 33.9 0l96.4 96.4 96.4-96.4c9.4-9.4 24.6-9.4 33.9 0l22.6 22.6c9.4 9.4 9.4 24.6 0 33.9l-136 136c-9.2 9.4-24.4 9.4-33.8 0z" />
+                        </svg><span>Transparency</span>
+                    </a>
+                </li>
+                <li>
+                    <a href="#" class="sidebar-item">
+                        <svg aria-hidden="true" data-prefix="fas" data-icon="angle-down" class="svg-inline--fa fa-angle-down fa-w-10 size-5 inline" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512">
+                            <path fill="currentColor" d="M143 352.3L7 216.3c-9.4-9.4-9.4-24.6 0-33.9l22.6-22.6c9.4-9.4 24.6-9.4 33.9 0l96.4 96.4 96.4-96.4c9.4-9.4 24.6-9.4 33.9 0l22.6 22.6c9.4 9.4 9.4 24.6 0 33.9l-136 136c-9.2 9.4-24.4 9.4-33.8 0z" />
+                        </svg><span>Programs and Services</span>
+                    </a>
+                </li>
+                <li>
+                    <a href="#" class="sidebar-item">
+                        <svg aria-hidden="true" data-prefix="fas" data-icon="angle-down" class="svg-inline--fa fa-angle-down fa-w-10 size-5 inline" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512">
+                            <path fill="currentColor" d="M143 352.3L7 216.3c-9.4-9.4-9.4-24.6 0-33.9l22.6-22.6c9.4-9.4 24.6-9.4 33.9 0l96.4 96.4 96.4-96.4c9.4-9.4 24.6-9.4 33.9 0l22.6 22.6c9.4 9.4 9.4 24.6 0 33.9l-136 136c-9.2 9.4-24.4 9.4-33.8 0z" />
+                        </svg><span>Verifications</span>
+                    </a>
+                </li>
+                <li>
+                    <a href="#" class="sidebar-item">
+                        <svg aria-hidden="true" data-prefix="fas" data-icon="angle-down" class="svg-inline--fa fa-angle-down fa-w-10 size-5 inline" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512">
+                            <path fill="currentColor" d="M143 352.3L7 216.3c-9.4-9.4-9.4-24.6 0-33.9l22.6-22.6c9.4-9.4 24.6-9.4 33.9 0l96.4 96.4 96.4-96.4c9.4-9.4 24.6-9.4 33.9 0l22.6 22.6c9.4 9.4 9.4 24.6 0 33.9l-136 136c-9.2 9.4-24.4 9.4-33.8 0z" />
+                        </svg><span>Resources</span>
+                    </a>
+                </li>
+                <li>
+                    <a href="#" class="sidebar-item">
+                        <svg aria-hidden="true" data-prefix="fas" data-icon="angle-down" class="svg-inline--fa fa-angle-down fa-w-10 size-5 inline" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512">
+                            <path fill="currentColor" d="M143 352.3L7 216.3c-9.4-9.4-9.4-24.6 0-33.9l22.6-22.6c9.4-9.4 24.6-9.4 33.9 0l96.4 96.4 96.4-96.4c9.4-9.4 24.6-9.4 33.9 0l22.6 22.6c9.4 9.4 9.4 24.6 0 33.9l-136 136c-9.2 9.4-24.4 9.4-33.8 0z" />
+                        </svg><span>Contacts</span>
+                    </a>
+                </li>
+            </ul>
+        </aside>
+        <!-- Main -->
         <main class="flex-1 overflow-y-auto transition-all duration-300">
             {{ $slot }}
         </main>
-    </div>
+    </section>
 </body>
 </html>

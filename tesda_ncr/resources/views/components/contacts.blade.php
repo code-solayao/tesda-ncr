@@ -2,16 +2,17 @@
     @vite(['resources/css/app.css', 'resources/js/app.js'])
 @endsection
 
-<x-layout-b>
-    <section class="bg-cover bg-center bg-no-repeat min-h-screen" style="background-image: url('{{ asset('images/bg-home.jpg') }}')"> 
-        <div class="absolute inset-0 bg-black/40 backdrop-blur-xs"></div>
-        <div class="relative mx-32 mt-16 py-24 z-10">
-            <div class="mx-auto w-fit">
+<x-layout>
+    <section class="relative h-[270px] overflow-hidden">
+        <div class="absolute inset-0 bg-cover bg-center blur-xs" style="background-image: url('{{ asset('images/bg-tesda-logo.webp') }}');"></div>
+        <div class="absolute inset-0 bg-black/80"></div>
+        <div class="relative mx-32 my-32 z-10">
+            <div class="mx-auto text-center w-fit">
                 <span class="text-white text-6xl font-bold uppercase">@yield('contactsTitle', 'Contacts')</span>
             </div>
         </div>
     </section>
-    <div class="bg-white flex -mt-[660px] relative w-full">
+    <section class="bg-white flex relative w-full">
         <aside class="bg-blue-100 flex flex-col group left-0 shadow-md w-72 z-10">
             <div class="px-6 py-10">
                 <h3 class="text-lg font-bold uppercase">Contacts</h3>
@@ -37,4 +38,4 @@
             </div>
         </main>
     </div>
-</x-layout-b>
+</x-layout>

@@ -4,6 +4,7 @@ use App\Http\Controllers\AboutController;
 use App\Http\Controllers\AuthController;
 use App\Http\Controllers\ContactsController;
 use App\Http\Controllers\HomeController;
+use App\Http\Controllers\MobileController;
 use App\Http\Controllers\ProgramsAndServices;
 use App\Http\Controllers\ResourcesController;
 use App\Http\Controllers\TransparencyController;
@@ -57,4 +58,8 @@ Route::controller(ResourcesController::class)->group(function () {
 Route::controller(ContactsController::class)->group(function () {
     Route::get('/regional-district-offices', 'regional_district_offices')->name('regional-district.offices');
     Route::get('/technology-institute', 'technology_institute')->name('technology.institute');
+});
+
+Route::controller(MobileController::class)->group(function () {
+    Route::get('/m', 'index')->name('m.home');
 });
