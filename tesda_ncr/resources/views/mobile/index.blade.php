@@ -8,13 +8,15 @@
     <section class="relative flex h-[960px] items-center justify-center overflow-hidden">
         <div class="absolute bg-cover bg-center inset-0 blur-xs" style="background-image: url('{{ asset('images/bg-home.jpg') }}');"></div>
         <div class="absolute inset-0 bg-gray-800/80"></div>
-        <div class="relative pt-48 z-10">
-            <div class="flex items-center justify-center space-x-5">
+        <div class="mt-1 z-10 space-y-5">
+            <div class="flex items-center justify-center">
                 <img src="{{ asset('images/logos/tesda.webp') }}" alt="TESDA-NCR Logo" class="w-3xs rounded-2xl">
-                <div class="text-white text-stroke-blue break-words space-y-4 uppercase w-1/2 whitespace-normal">
+            </div>
+            <div class="flex items-center justify-center space-x-5">
+                <div class="text-white text-center text-stroke-blue break-words space-y-4 uppercase w-full whitespace-normal">
                     <h1 class="text-5xl font-[FremontBold,Verdana]">Technical Education and Skills Development Authority</h1>
                     <h3 class="text-2xl font-[Verdana] font-bold">National Capital Region</h3>
-                    <div class="flex items-start space-x-3">
+                    <div class="flex items-center justify-center space-x-3">
                         <div class="text-white hover:text-blue-500 transition-colors duration-200 w-fit">
                             <a href="http://www.facebook.com/tesdancr1/" target="_blank" rel="noopener noreferrer">
                                 <svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" width="50" height="50" fill="currentColor" viewBox="0 0 50 50">
@@ -32,16 +34,16 @@
                     </div>
                 </div>
             </div>
-            <div class="flex items-center justify-center my-36">
-                <div class="flex items-center justify-center text-center py-6 rounded-2xl space-x-60 w-3/4">
+            <div class="flex items-center justify-center">
+                <div class="flex items-center justify-center text-center py-6 rounded-2xl space-x-10 w-full">
                     <div class="flex items-center justify-center">
-                        <img src="{{ asset('images/logos/kayang-kaya.png') }}" alt="Kayang-Kaya Logo" class="w-56 object-contain">
+                        <img src="{{ asset('images/logos/kayang-kaya.png') }}" alt="Kayang-Kaya Logo" class="w-32 object-contain">
                     </div>
                     <div class="flex items-center justify-center">
-                        <img src="{{ asset('images/logos/bagong-pilipinas.png') }}" alt="Bagong Pilipinas Logo" class="w-48 object-contain">
+                        <img src="{{ asset('images/logos/bagong-pilipinas.png') }}" alt="Bagong Pilipinas Logo" class="w-24 object-contain">
                     </div>
                     <div class="flex items-center justify-center">
-                        <img src="{{ asset('images/logos/dpo-dps-2025.png') }}" alt="DPS Registration Seal 2025" class="w-48 object-contain">
+                        <img src="{{ asset('images/logos/dpo-dps-2025.png') }}" alt="DPS Registration Seal 2025" class="w-24 object-contain">
                     </div>
                 </div>
             </div>
@@ -50,25 +52,27 @@
     <section class="relative h-[300px] overflow-hidden">
         <div class="absolute inset-0 bg-cover bg-center blur-xs" style="background-image: url('{{ asset('images/bg-tesda-logo.webp') }}');"></div>
         <div class="absolute inset-0 bg-black/80"></div>
-        <div class="flex flex-col items-center justify-center h-full relative z-10">
-                <div class="flex items-center justify-center text-center py-6 rounded-2xl space-x-60 w-3/4">
-                    <div class="flex items-center justify-center">
-                        <img src="{{ asset('images/logos/transparency-seal.png') }}" alt="Philippine Transparency Seal Logo" class="w-64 object-contain">
-                    </div>
-                    <div class="flex items-center justify-center">
-                        <img src="{{ asset('images/logos/dole.png') }}" alt="DOLE Logo" class="w-72 object-contain">
-                    </div>
-                    <div class="flex items-center justify-center">
-                        <img src="{{ asset('images/logos/foi.png') }}" alt="FOI Philippines Logo" class="w-96 object-contain">
-                    </div>
-                    <div class="flex items-center justify-center">
-                        <img src="{{ asset('images/logos/pqf.png') }}" alt="FOI Philippines Logo" class="w-60 object-contain">
-                    </div>
+        <div class="flex items-center justify-center h-full relative z-10">
+            <div class="space-y-8 w-full">
+                <div class="flex items-center justify-center">
+                    <img src="{{ asset('images/logos/transparency-seal.png') }}" alt="Philippine Transparency Seal Logo" class="w-28 object-contain">
                 </div>
+                <div class="flex items-center justify-center">
+                    <img src="{{ asset('images/logos/dole.png') }}" alt="DOLE Logo" class="w-28 object-contain">
+                </div>
+            </div>
+            <div class="space-y-8 w-full">
+                <div class="flex items-center justify-center">
+                    <img src="{{ asset('images/logos/foi.png') }}" alt="FOI Philippines Logo" class="w-40 object-contain">
+                </div>
+                <div class="flex items-center justify-center">
+                    <img src="{{ asset('images/logos/pqf.png') }}" alt="Philippine Qualitifications Philippines Logo" class="w-24 object-contain">
+                </div>
+            </div>
         </div>
     </section>
     <div class="bg-blue-700 flex items-center justify-center p-10">
-        <h1 class="text-4xl text-white font-bold font-sans">We measure our worth by the satisfaction of the customers we serve.</h1>
+        <h1 class="text-white text-4xl text-center font-bold font-sans">We measure our worth by the satisfaction of the customers we serve.</h1>
     </div>
     <section class="bg-white min-h-screen pl-24 pr-16 py-16 z-10">
         <div class="space-y-20">

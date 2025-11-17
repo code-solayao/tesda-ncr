@@ -8,7 +8,7 @@
     <section class="relative flex h-[960px] items-center justify-center overflow-hidden">
         <div class="absolute bg-cover bg-center inset-0 blur-xs" style="background-image: url('{{ asset('images/bg-home.jpg') }}');"></div>
         <div class="absolute inset-0 bg-gray-800/80"></div>
-        <div class="relative pt-48 z-10">
+        <div class="pt-48 z-10">
             <div class="flex items-center justify-center space-x-5">
                 <img src="{{ asset('images/logos/tesda.webp') }}" alt="TESDA-NCR Logo" class="w-3xs rounded-2xl">
                 <div class="text-white text-stroke-blue break-words space-y-4 uppercase w-1/2 whitespace-normal">
@@ -51,20 +51,20 @@
         <div class="absolute inset-0 bg-cover bg-center blur-xs" style="background-image: url('{{ asset('images/bg-tesda-logo.webp') }}');"></div>
         <div class="absolute inset-0 bg-black/80"></div>
         <div class="flex flex-col items-center justify-center h-full relative z-10">
-                <div class="flex items-center justify-center text-center py-6 rounded-2xl space-x-60 w-3/4">
-                    <div class="flex items-center justify-center">
-                        <img src="{{ asset('images/logos/transparency-seal.png') }}" alt="Philippine Transparency Seal Logo" class="w-64 object-contain">
-                    </div>
-                    <div class="flex items-center justify-center">
-                        <img src="{{ asset('images/logos/dole.png') }}" alt="DOLE Logo" class="w-72 object-contain">
-                    </div>
-                    <div class="flex items-center justify-center">
-                        <img src="{{ asset('images/logos/foi.png') }}" alt="FOI Philippines Logo" class="w-96 object-contain">
-                    </div>
-                    <div class="flex items-center justify-center">
-                        <img src="{{ asset('images/logos/pqf.png') }}" alt="FOI Philippines Logo" class="w-60 object-contain">
-                    </div>
+            <div class="flex items-center justify-center text-center py-6 rounded-2xl space-x-60 w-3/4">
+                <div class="flex items-center justify-center">
+                    <img src="{{ asset('images/logos/transparency-seal.png') }}" alt="Philippine Transparency Seal Logo" class="w-64 object-contain">
                 </div>
+                <div class="flex items-center justify-center">
+                    <img src="{{ asset('images/logos/dole.png') }}" alt="DOLE Logo" class="w-72 object-contain">
+                </div>
+                <div class="flex items-center justify-center">
+                    <img src="{{ asset('images/logos/foi.png') }}" alt="FOI Philippines Logo" class="w-96 object-contain">
+                </div>
+                <div class="flex items-center justify-center">
+                    <img src="{{ asset('images/logos/pqf.png') }}" alt="Philippine Qualitifications Framework Logo" class="w-60 object-contain">
+                </div>
+            </div>
         </div>
     </section>
     <div class="bg-blue-700 flex items-center justify-center p-10">
