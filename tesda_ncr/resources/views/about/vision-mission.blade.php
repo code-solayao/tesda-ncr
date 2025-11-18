@@ -8,14 +8,14 @@
     <section class="relative h-[270px] overflow-hidden">
         <div class="absolute inset-0 bg-cover bg-center blur-xs" style="background-image: url('{{ asset('images/bg-tesda-logo.webp') }}');"></div>
         <div class="absolute inset-0 bg-black/80"></div>
-        <div class="relative mx-32 my-32 z-10">
+        <div class="relative mx-10 my-20 sm:mx-32 sm:my-32 z-10">
             <div class="mx-auto text-center w-fit">
-                <span class="text-white text-6xl font-bold uppercase">Vision, Mission, Value and Quality Statement</span>
+                <span class="text-white text-4xl sm:text-6xl font-bold uppercase">Vision, Mission, Value and Quality Statement</span>
             </div>
         </div>
     </section>
-    <section class="bg-white flex relative w-full">
-        <div class="flex px-60 py-12 overflow-y-auto">
+    <section class="flex relative w-full">
+        <div class="flex px-6 py-8 sm:px-60 sm:py-12 overflow-y-auto">
             <div class="text-gray-700 text-xl font-sans leading-relaxed w-full space-y-5">
                 <div>
                     <p class="font-semibold">Mandate</p>
