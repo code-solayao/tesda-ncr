@@ -1,5 +1,7 @@
 const collapsibles = document.querySelectorAll('.collapsible');
 
+console.log("tester");
+
 collapsibles.forEach(collapsible => {
     collapsible.addEventListener('click', function () {
         collapsibleDetails(collapsible);
@@ -7,13 +9,6 @@ collapsibles.forEach(collapsible => {
 });
 
 function collapsibleDetails(collapsible) {
-    collapsible.classList.toggle("active");
     let content = collapsible.nextElementSibling;
-
-    if (content.style.display === "block") {
-        content.style.display = "none";
-    }
-    else {
-        content.style.display = "block";
-    }
+    content.classList.toggle("hidden");
 }

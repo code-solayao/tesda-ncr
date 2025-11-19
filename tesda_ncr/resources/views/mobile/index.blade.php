@@ -1,9 +1,5 @@
 @section('title', 'Home | TESDA-NCR')
 
-@section('vite')
-    @vite(['resources/css/app.css', 'resources/js/app.js'])
-@endsection
-
 <x-layout-m>
     <section class="relative flex h-[960px] items-center justify-center overflow-hidden">
         <div class="absolute bg-cover bg-center inset-0 blur-xs" style="background-image: url('{{ asset('images/bg-home.jpg') }}');"></div>

@@ -1,9 +1,5 @@
 @section('title', 'History | TESDA-NCR')
 
-@section('vite')
-    @vite(['resources/css/app.css', 'resources/js/app.js'])
-@endsection
-
 <x-layout>
     <div>
         <img src="{{ asset('images/tesda-building-history.png') }}" alt="Brief History of TESDA" class="w-full h-auto">

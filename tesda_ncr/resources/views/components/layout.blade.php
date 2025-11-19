@@ -9,9 +9,11 @@
     <link href="https://fonts.bunny.net/css?family=instrument-sans:400,500,600" rel="stylesheet" />
     <!-- Styles / Scripts -->
     @if (file_exists(public_path('build/manifest.json')) || file_exists(public_path('hot')))
-        @yield('vite')
+        @vite(['resources/css/app.css', 'resources/js/app.js', 'resources/css/components/layout.css', 'resources/js/components/layout.js'])
     @endif
     <script src="https://cdn.jsdelivr.net/npm/alpinejs@3.x.x/dist/cdn.min.js" defer></script>
+    <!-- Custom CSS styles -->
+    @stack('styles')
 </head>
 <body>
     <header class="fixed left-0 top-0 transition-colors duration-300 w-full z-30" 
@@ -656,5 +658,7 @@
             {{ $slot }}
         </main>
     </section>
+    <!-- Custom JavaScript files -->
+    @stack('scripts')
 </body>
 </html>

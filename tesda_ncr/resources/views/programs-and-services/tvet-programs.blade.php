@@ -1,9 +1,5 @@
 @section('title', 'TVET Programs | TESDA-NCR')
 
-@section('vite')
-    @vite(['resources/css/app.css', 'resources/js/app.js'])
-@endsection
-
 <x-layout>
     <section class="relative h-[270px] overflow-hidden">
         <div class="absolute inset-0 bg-cover bg-center blur-xs" style="background-image: url('{{ asset('images/bg-tesda-logo.webp') }}');"></div>
