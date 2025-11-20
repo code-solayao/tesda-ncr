@@ -59,7 +59,3 @@ Route::controller(ContactsController::class)->group(function () {
     Route::get('/regional-district-offices', 'regional_district_offices')->name('regional-district.offices');
     Route::get('/technology-institute', 'technology_institute')->name('technology.institute');
 });
-
-Route::controller(MobileController::class)->group(function () {
-    Route::get('/m', 'index')->name('m.home');
-});

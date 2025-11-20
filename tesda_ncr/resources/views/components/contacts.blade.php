@@ -3,17 +3,17 @@
 @endsection
 
 <x-layout>
-    <section class="relative h-[270px] overflow-hidden">
+    <section class="relative h-[240px] sm:h-[300px] overflow-hidden">
         <div class="absolute inset-0 bg-cover bg-center blur-xs" style="background-image: url('{{ asset('images/bg-tesda-logo.webp') }}');"></div>
         <div class="absolute inset-0 bg-black/80"></div>
-        <div class="relative mx-32 my-32 z-10">
+        <div class="relative mx-auto my-20 sm:mx-32 sm:my-32 z-10">
             <div class="mx-auto text-center w-fit">
-                <span class="text-white text-6xl font-bold uppercase">@yield('contactsTitle', 'Contacts')</span>
+                <span class="text-white text-4xl sm:text-6xl font-bold uppercase">@yield('contactsTitle', 'Contacts')</span>
             </div>
         </div>
     </section>
-    <section class="bg-white flex relative w-full">
-        <aside class="bg-blue-100 flex flex-col group left-0 shadow-md w-72 z-10">
+    <section class="flex relative w-full">
+        <aside class="hidden sm:flex flex-col bg-blue-100 group left-0 shadow-md w-72 z-10">
             <div class="px-6 py-10">
                 <h3 class="text-lg font-bold uppercase">Contacts</h3>
                 <ul class="flex-1 overflow-y-auto space-y-8 pr-4 py-7">
@@ -32,7 +32,7 @@
                 </ul>
             </div>
         </aside>
-        <main class="flex flex-1 px-16 py-12 overflow-y-auto">
+        <main class="flex flex-1 p-6 sm:px-16 sm:py-12 overflow-y-auto">
             <div class="w-full h-fit space-y-8">
                 {{ $slot }}
             </div>
