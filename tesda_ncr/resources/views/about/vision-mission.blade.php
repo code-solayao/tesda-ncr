@@ -12,9 +12,9 @@
     </section>
     <section class="flex relative w-full">
         <div class="flex px-6 py-8 sm:px-60 sm:py-12 overflow-y-auto">
-            <div class="text-gray-700 text-xl font-sans leading-relaxed w-full space-y-5">
+            <div class="text-gray-700 text-xl text-justify font-sans leading-relaxed w-full space-y-5">
                 <div>
-                    <p class="font-semibold">Mandate</p>
+                    <span class="font-semibold">Mandate</span>
                     <p>
                         The Technical Education and Skills Development Authority (TESDA) is the government agency tasked to manage and supervise 
                         technical education and skills development (TESD) in the Philippines. It was created by virtue of Republic Act 7796, otherwise known as the 
@@ -24,22 +24,22 @@
                     </p>
                 </div>
                 <div>
-                    <p class="font-semibold">Vision</p>
+                    <span class="font-semibold">Vision</span>
                     <p>The transformational leader in the technical education and skills development of the Filipino workforce.</p>
                 </div>
                 <div>
-                    <p class="font-semibold">Mission</p>
+                    <span class="font-semibold">Mission</span>
                     <p>
                         TESDA sets direction, promulgates relevant standards, and implements programs geared towards a quality-assured and inclusive 
                         technical education and skills development and certification system.
                     </p>
                 </div>
                 <div>
-                    <p class="font-semibold">Values Statement</p>
+                    <span class="font-semibold">Values Statement</span>
                     <p>We believe in demonstrated competence, institutional integrity, personal commitment, culture of innovativeness and a deep sense of nationalism.</p>
                 </div>
                 <div>
-                    <p class="font-semibold">Quality Policy</p>
+                    <span class="font-semibold">Quality Policy</span>
                     <p>"We measure our worth by the satisfaction of the customers we serve"</p>
                     <p class="my-4">To achieve this, we commit to comply with applicable requirement and continually improve our systems and processes through: </p>
                     <p>

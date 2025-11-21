@@ -10,7 +10,7 @@
             </div>
         </div>
     </section>
-    <section class="bg-white flex relative w-full">
+    <section class="flex relative w-full">
         <div class="flex mx-auto py-12 overflow-y-auto">
             <img src="{{ asset('images/organizational-chart.png') }}" alt="TESDA-NCR Organizational Chart" class="w-full h-auto">
         </div>

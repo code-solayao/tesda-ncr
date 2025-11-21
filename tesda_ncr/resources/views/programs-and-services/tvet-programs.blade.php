@@ -12,41 +12,37 @@
     </section>
     <section class="flex relative w-full">
         <div class="p-6 sm:px-60 sm:py-12 overflow-y-auto">
-            <div class="w-full space-y-5">
-                <div class="text-gray-700 text-xl font-sans leading-relaxed">
-                    <p>
-                        In view of the need to provide equitable access and provision of TESD programs to the growing TVET clients, 
-                        TESDA continues to undertake direct training provisions. There are four training modalities school-based, center-based, enterprised-based 
-                        and community-based. These are being done with TESDA’s infrastructure in place – 57 TESDA administered schools, 60 training center, 
-                        enterprised-based training through DTS/apprenticeship and community-based training in convergence with the LGU’s.
-                    </p>
-                </div>
-                <div class="text-gray-700 text-xl font-sans leading-relaxed">
-                    <ul class="list-disc list-inside space-y-2">
-                        <li>
-                            <a href="https://www.tesda.gov.ph/About/TESDA/35" target="_blank" rel="noopener noreferrer">
-                                <span class="text-blue-600 hover:underline">School Based Program</span>
-                            </a>
-                        </li>
-                        <li>
-                            <a href="https://www.tesda.gov.ph/About/TESDA/36" target="_blank" rel="noopener noreferrer">
-                                <span class="text-blue-600 hover:underline">Centre Based Program</span>
-                            </a>
-                        </li>
-                        <li>
-                            <a href="https://www.tesda.gov.ph/About/TESDA/37" target="_blank" rel="noopener noreferrer">
-                                <span class="text-blue-600 hover:underline">Community Based Program</span>
-                            </a>
-                        </li>
-                        <li>
-                            <a href="https://www.tesda.gov.ph/About/TESDA/38" target="_blank" rel="noopener noreferrer">
-                                <span class="text-blue-600 hover:underline">Enterprise Based Program</span>
-                            </a>
-                        </li>
-                    </ul>
-                </div>
-                <div class="text-gray-700 text-xl font-sans leading-relaxed space-y-4">
-                    <p class="font-semibold uppercase">TESDA Supports Training Provision</p>
+            <div class="text-gray-700 text-xl text-justify font-sans leading-relaxed w-full space-y-5">
+                <p>
+                    In view of the need to provide equitable access and provision of TESD programs to the growing TVET clients, 
+                    TESDA continues to undertake direct training provisions. There are four training modalities school-based, center-based, enterprised-based 
+                    and community-based. These are being done with TESDA’s infrastructure in place – 57 TESDA administered schools, 60 training center, 
+                    enterprised-based training through DTS/apprenticeship and community-based training in convergence with the LGU’s.
+                </p>
+                <ul class="list-disc list-inside space-y-2">
+                    <li>
+                        <a href="https://www.tesda.gov.ph/About/TESDA/35" target="_blank" rel="noopener noreferrer">
+                            <span class="text-blue-600 hover:underline">School Based Program</span>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="https://www.tesda.gov.ph/About/TESDA/36" target="_blank" rel="noopener noreferrer">
+                            <span class="text-blue-600 hover:underline">Centre Based Program</span>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="https://www.tesda.gov.ph/About/TESDA/37" target="_blank" rel="noopener noreferrer">
+                            <span class="text-blue-600 hover:underline">Community Based Program</span>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="https://www.tesda.gov.ph/About/TESDA/38" target="_blank" rel="noopener noreferrer">
+                            <span class="text-blue-600 hover:underline">Enterprise Based Program</span>
+                        </a>
+                    </li>
+                </ul>
+                <div class="space-y-4">
+                    <span class="font-semibold uppercase">TESDA Supports Training Provision</span>
                     <p>
                         TESD creates opportunities for people to be responsible and become productive citizens. The need to provide and make accessible relevant 
                         TESD compels TESDA to undertake direct training activities at the same time support training activities undertaken by other key players 
@@ -58,13 +54,11 @@
                         TESDA to undertake direct training activities. These TTIs also serve as venues to test new training schemes and are used as laboratories 
                         for new technology.
                     </p>
-                    <div>
-                        <p>Among TESDA’s specialized training centers are the following: </p>
-                        <p>
-                            <strong>TESDA Women’s Center (TWC)</strong> seeks to advance the economic status of women through training, entrepreneurship development, 
-                            gender sensitive policies, programs and projects and research and advocacy. It was established through a grant from the Government of Japan.
-                        </p>
-                    </div>
+                    <p>Among TESDA’s specialized training centers are the following: </p>
+                    <p>
+                        <strong>TESDA Women’s Center (TWC)</strong> seeks to advance the economic status of women through training, entrepreneurship development, 
+                        gender sensitive policies, programs and projects and research and advocacy. It was established through a grant from the Government of Japan.
+                    </p>
                     <p>
                         <strong>Language Skills Institute (LSI)</strong> serves as TESDA’s facility for language programs specifically for workers intending to work abroad. 
                         The LSI conducts training on workplacecommunication on the language of the country of the worker’s destination. There are 35 LSI nationwide 

@@ -63,7 +63,7 @@
                     <img src="{{ asset('images/logos/foi.png') }}" alt="FOI Philippines Logo" class="w-40 object-contain">
                 </div>
                 <div class="flex items-center justify-center">
-                    <img src="{{ asset('images/logos/pqf.png') }}" alt="Philippine Qualitifications Philippines Logo" class="w-24 object-contain">
+                    <img src="{{ asset('images/logos/pqf.png') }}" alt="Philippine Qualitifications Framework Logo" class="w-24 object-contain">
                 </div>
             </div>
             <div class="hidden sm:flex items-center justify-center text-center py-6 rounded-2xl space-x-60 w-3/4">
